@@ -1,4 +1,4 @@
-VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pKzAg5R2cJI8R4JDFbl/MTA8E4I2P33UREe/vzm+jJWDkkVmT3vsFtSXV3hJ/50gKjDUsXwJMoAehp/XYb1jIrkynCL0RTf75ytKmbFvC2JqlnjBDS6bRw/gGt/6yqXbMt9jo1xyxJK77WFMqbX8GKjGNjRRErArv9cyOu+3cARb3Kf+vXQFYMk7Qi2z3qAO+c3pqmqs/kAXTWsBHJzsyfQ976SFqJZtkCbEf0SqbGxZz3uvi17tg3S2lNjfT+H1VdfMvuzDg+VNHmXu+vTDCRBvyBvJf4IS6EFJfcRqz1CHtDjbmHHURRs3p+Pr+nDHdLLWN4QqgTAVLlAD2wrVCDNSVC7WcwFkb+BMgtU5360hO3MbOGSl32iDlnQ9R15QFFRDE2ajAlNFwHyQTLtLV7Q0pLuxlmd89ggRkwFm7enjkuB2Q2
+40Lnk9zMnixbfabBZRkYKk8P/I7b3knXpN860YPZWwUp9PpvoqFRdVTCa+52kFUEwqaQEtLN/mAsjNADsb1JF6fb0Xln4sDPnfJm+IT/AHT/RhGswLHIBzrmyw+/N355gBVyCXwPVxfvhYiLgrQXh8WM/+Ma1HbVGmMxvVBvlOUj39MUNt7gtv+fnnYjhI/fqAPuZheEpMG7LVzupRmhH2J0PdSyOQXVM8hnm7G2UMEr7VVd71Lt/shoAUY37gsBR7eotn/mtlsya/mWeVKgmJGWcqVO4wuMLYQh/eGHdUTlUAwHoWOVxfCFqLlGvMWuDdGu7BY4qvFvH+e1DZoBOoSfDyURrBToxbjurPqbS4FY6ot9HQ+MyzZrLjXHezqRdq79J5yBBNwni8zYvQ6GeC+lIF8+2tQkN2tu+OM4LakvysPFG+CsThbUHyWP3LZHmqF/c9KyPgC/JYpIduL4rrW2df4QjSz9YrbtPGyYW5F5C1WmeK2I2rK0EgDjdKot
 {
  "car_features_by_name": {
   "CN7NPE.KOR.0000.V039.001.260902": [
@@ -43,6 +43,11 @@ VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pK
    "consent"
   ],
   "MQ422HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
    "consent"
@@ -172,7 +177,7 @@ VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pK
   }
  },
  "published": "2026-11-16",
- "seq": 2026111613,
+ "seq": 2026111614,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -184,8 +189,16 @@ VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pK
   "7GUU7EVZ": [
    "wp"
   ],
+  "FBVB4KV7": [
+   "ap",
+   "cp",
+   "shortcuts",
+   "wp"
+  ],
   "WFAJ6EKE": [
-   "ap"
+   "ap",
+   "cp",
+   "pa"
   ]
  },
  "supporters": [
@@ -195,10 +208,10 @@ VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pK
   "4MKFCENK",
   "6BZCPYDS",
   "75W6V55N",
+  "BVTP6LOA",
   "CXARBN6Y",
   "DP4Q7IGP",
   "F4CC7ISS",
-  "FBVB4KV7",
   "FUOMXAFB",
   "GQASPBPK",
   "HH2KMTQO",
@@ -206,6 +219,7 @@ VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pK
   "KJUUBENZ",
   "LY3LOBUL",
   "MGVUZEKV",
+  "OXXLAGBA",
   "P7WRSDC3",
   "PSEIQE3X",
   "QGWWKPPK",

@@ -46,6 +46,11 @@
    "camp",
    "consent"
   ],
+  "MQ4HEV.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NQ5.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
@@ -171,7 +176,7 @@
   }
  },
  "published": "2026-11-16",
- "seq": 2026111613,
+ "seq": 2026111614,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -183,8 +188,16 @@
   "7GUU7EVZ": [
    "wp"
   ],
+  "FBVB4KV7": [
+   "ap",
+   "cp",
+   "shortcuts",
+   "wp"
+  ],
   "WFAJ6EKE": [
-   "ap"
+   "ap",
+   "cp",
+   "pa"
   ]
  },
  "supporters": [
@@ -194,10 +207,10 @@
   "4MKFCENK",
   "6BZCPYDS",
   "75W6V55N",
+  "BVTP6LOA",
   "CXARBN6Y",
   "DP4Q7IGP",
   "F4CC7ISS",
-  "FBVB4KV7",
   "FUOMXAFB",
   "GQASPBPK",
   "HH2KMTQO",
@@ -205,6 +218,7 @@
   "KJUUBENZ",
   "LY3LOBUL",
   "MGVUZEKV",
+  "OXXLAGBA",
   "P7WRSDC3",
   "PSEIQE3X",
   "QGWWKPPK",
