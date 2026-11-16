@@ -1,11 +1,21 @@
 {
  "car_features_by_name": {
+  "CEEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
   ],
   "CN7NPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -62,6 +72,16 @@
    "consent"
   ],
   "LX2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2PE.USA.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -224,7 +244,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111701,
+ "seq": 2026111702,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
