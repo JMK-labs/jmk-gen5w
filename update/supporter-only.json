@@ -1,0 +1,4 @@
+{
+ "_note": "Versions offered only to some cars: {\"<package>\": {\"version\": \"x.y.z\", \"codes\": [\"ABCDEFGH\"]}}. Test builds are not put here (the zips would be public): they go on over adb.",
+ "packages": {}
+}
