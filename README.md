@@ -101,10 +101,11 @@ JMK 런처 메뉴(jmk-map-menu)가 먼저 설치되어 있어야 설치되고 �
 **USB 메모리로 한 번에 설치 (권장)**
 1. [JMK-Gen5W-USB.zip](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)을 받아 USB 메모리 맨 위에 압축을 풉니다(`NEMESIS.sh`와 `packages` 폴더가 맨 위).
 2. 시동을 켜고 USB를 꽂은 뒤 NEMESIS 창에서 `NEMESIS.sh`를 실행합니다.
-3. 런처 메뉴 → 앰비언트 → Wi-Fi Driver 순서로 설치(이미 있으면 업데이트)되고 헤드유닛이 다시 시작합니다. 결과는 USB의 `JMK-INSTALL-LOG.txt`.
+3. 런처 메뉴 → 앰비언트 → Wi-Fi Driver → Wireless AutoPlay(+ HUD · 계기판 길안내) 순서로 설치(이미 있으면 업데이트)되고 헤드유닛이 다시 시작합니다. 결과는 USB의 `JMK-INSTALL-LOG.txt`.
 4. USB를 빼고 동글을 꽂습니다.
 
-- 다른 Wi-Fi 앱(예: Korea Projection)이 있는 차는 Wi-Fi Driver를 건너뛰고 런처 메뉴와 앰비언트만 설치합니다(이유는 `JMK-INSTALL-LOG.txt`에 남습니다). Wi-Fi Driver 1.3.4부터는 설치 파일을 직접 넣어도 설치되지 않습니다.
+- 다른 Wi-Fi 앱(예: niro.carplay.hotspot)이 있는 차는 Wi-Fi Driver를 건너뛰고 런처 메뉴와 앰비언트만 설치합니다(이유는 `JMK-INSTALL-LOG.txt`에 남습니다). Wi-Fi Driver 1.3.4부터는 설치 파일을 직접 넣어도 설치되지 않습니다. Korea Projection이 있으면 아무것도 설치하지 않습니다(먼저 제거).
+- Leafia · 단풍 등 다른 무선 프로젝션이 있는 차는 Wireless AutoPlay(+ HUD · 계기판 길안내)만 건너뛰고 나머지를 설치합니다.
 - Wireless AutoPlay(+ HUD · 계기판 길안내)는 Leafia · 단풍 등 다른 무선 프로젝션과 함께 쓸 수 없습니다. 쓰고 있다면 먼저 제거하고 재부팅하세요.
 - JMK 프로그램은 Korea Projection과 함께 설치되지 않습니다.
 - HMG Leafia Plus와 함께 쓸 때: Active Ambient 2.5.2부터는 카플레이 라이브러리를 고치지 않습니다. 그 전 버전이 있으면 먼저 2.5.2로 업데이트하고 재부팅한 뒤 Leafia를 설치하세요.
