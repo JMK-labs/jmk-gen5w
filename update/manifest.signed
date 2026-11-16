@@ -1,4 +1,4 @@
-f9DRtNQdMvzewj0yNFCokH/G+tLNLuZVg/rptQdeFHN9YrmgUFBWQ7gI99fdE24wZIqG4UI4Y0ilTvNlDdRGC9P2AjK8gL/6yqwmoj9yZMbOPLTZo705z1b4rpE3ghWfiOe6gvnOhxCdPBM0w0dSMJdgb60nafOuLqAhsjruo2TrTso/DLvgs4s4r3SScn8pEqWjdIp/CbBbasbvUaZstW9m6t2udBfcyLYxdvtG6zvitaqmlv8JNmFj3y2cxJ2jhVfPQeSuyXJ3lPqEiBC5CacAzPRe1hdXHO6kyREqZEpMdsAOi104CKfY2V8G/xY4X/4GQKp4ywHJgj6jfqX1Rhf4O2Qsp7JM2Cj8JmzoRtfUI0HAVZjWl+RaZCOs2Ua5kTFmnRBNSqocLiCaIXCnK/NNeeZkDJvnFXoAW/ip3QhgyTWt0N2OU3kdsxKPRleyPqlrzfE1CYuh4fUMVfQlyk9Tebu2L0MP3jztCch39TBMtnK51DiBXnaB7BMWnPGC
+42A3KxmzO58QtTQ8Qx02ab1u8SObkxQ/fH7tKRKgtSC3VzQnk5eRtuBnlRjQiWQvP76BPMvdGBM0YsBw5W/gXBRDkZDNLG256QUVDnEtKoZpm8tTngSPeFSv/Ql+MNpWiUimfxq2GbpaYVXYNiT8x3VoIezzk8Cvi13ij8HSq/zSHzDRXqimGMQGx/6b4S89CnkOl5TZqwuUHttidOfePAtJnGjPKZUowt8nJN5d1T1uJaabO7/1rzeNBQrVLzC6sFZqRXc5sqsXyohurb7SEtwxDIinuTVK/CGKY3uVTtZF8C4QGOFFBIpy4JT22PDzH9vP7F6T9nThkWrksfa05YqoefvWa51Z5HgDA0QMtR6CwhtySUErNYZQXMuaO+Fq60rqvKMWrLE3mpfahJmLH34oyufgVkF4kF6s2m64tp3ZxNgA11sgU1BbXRXaWwoA2UpXwVrDfjDA9UBl6ksTtTeSBPZlXynZFqkxNnYqXZ8Nl3NeyjqfDohiXnQZxq9U
 {
  "car_features_by_name": {
   "CEEV.CAN.0000.V015.011.260206": [
@@ -116,8 +116,9 @@ f9DRtNQdMvzewj0yNFCokH/G+tLNLuZVg/rptQdeFHN9YrmgUFBWQ7gI99fdE24wZIqG4UI4Y0ilTvNl
  "expiry": {
   "default_days": 183,
   "min_version": {
-   "jmk-ambient-sound": "2.5.9",
-   "jmk-map-menu": "2.3.6",
+   "jmk-ambient-sound": "2.5.10",
+   "jmk-autoplay": "0.3.1",
+   "jmk-map-menu": "2.3.8",
    "jmk-wifi": "1.3.8"
   },
   "pull": {
@@ -209,12 +210,12 @@ f9DRtNQdMvzewj0yNFCokH/G+tLNLuZVg/rptQdeFHN9YrmgUFBWQ7gI99fdE24wZIqG4UI4Y0ilTvNl
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-0.3.0.zip",
+   "file": "update/files/jmk-autoplay-0.3.1.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "5cdb43d172610c946f0f42fb404123d1a238931e609d69847a01d3cc56f47c6e",
-   "size": 15471,
-   "version": "0.3.0"
+   "sha256": "07ee83148179a822a88bc48cd0d966a0849849c0e3f2369ce867440c7b86eadc",
+   "size": 15958,
+   "version": "0.3.1"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
@@ -245,7 +246,7 @@ f9DRtNQdMvzewj0yNFCokH/G+tLNLuZVg/rptQdeFHN9YrmgUFBWQ7gI99fdE24wZIqG4UI4Y0ilTvNl
   }
  },
  "published": "2026-11-17",
- "seq": 2026111702,
+ "seq": 2026111703,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

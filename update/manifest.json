@@ -115,8 +115,9 @@
  "expiry": {
   "default_days": 183,
   "min_version": {
-   "jmk-ambient-sound": "2.5.9",
-   "jmk-map-menu": "2.3.6",
+   "jmk-ambient-sound": "2.5.10",
+   "jmk-autoplay": "0.3.1",
+   "jmk-map-menu": "2.3.8",
    "jmk-wifi": "1.3.8"
   },
   "pull": {
@@ -208,12 +209,12 @@
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-0.3.0.zip",
+   "file": "update/files/jmk-autoplay-0.3.1.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "5cdb43d172610c946f0f42fb404123d1a238931e609d69847a01d3cc56f47c6e",
-   "size": 15471,
-   "version": "0.3.0"
+   "sha256": "07ee83148179a822a88bc48cd0d966a0849849c0e3f2369ce867440c7b86eadc",
+   "size": 15958,
+   "version": "0.3.1"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
@@ -244,7 +245,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111702,
+ "seq": 2026111703,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
