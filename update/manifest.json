@@ -65,6 +65,11 @@
    "ambient",
    "camp",
    "consent"
+  ],
+  "NX4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
   ]
  },
  "expiry": {
@@ -181,7 +186,7 @@
   }
  },
  "published": "2026-11-16",
- "seq": 2026111615,
+ "seq": 2026111616,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -219,6 +224,8 @@
   "FUOMXAFB",
   "GQASPBPK",
   "HH2KMTQO",
+  "HO2LYEAR",
+  "INLAQMWN",
   "ITCTRSBT",
   "KJUUBENZ",
   "LY3LOBUL",
