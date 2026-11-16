@@ -8,7 +8,8 @@
   "CVEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
-   "consent"
+   "consent",
+   "lab"
   ],
   "DE22HEV.KOR.0000.V039.001.260902": [
    "ambient",
@@ -46,6 +47,11 @@
    "consent"
   ],
   "NQ5.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
    "consent"
@@ -165,7 +171,7 @@
   }
  },
  "published": "2026-11-16",
- "seq": 2026111610,
+ "seq": 2026111613,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -176,6 +182,9 @@
  "supporter_grants": {
   "7GUU7EVZ": [
    "wp"
+  ],
+  "WFAJ6EKE": [
+   "ap"
   ]
  },
  "supporters": [
@@ -202,7 +211,6 @@
   "QZSAT4ZY",
   "RLYT4NJF",
   "TGW4CUBG",
-  "WFAJ6EKE",
   "WX7UKL77",
   "XGO77NXB",
   "YBUJA4LP",

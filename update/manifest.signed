@@ -1,4 +1,4 @@
-vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24GBRW2hEHvjY9JElrmmh40xJ3W4Ti/UBVwvOndLO3WtytzB1WP148ztssgzoMcWfEA7BRcyFVsWIbtKEEMo0GMI1RlqPvmxs7aQFROx9RJ2JRumCTAnGIr7ObQl0vH5I8afLddQ0M4tPUAOpwN3heBErKNbbdKBEB8t0F5tlSvX3Bu3jocahwTVtopgHCrrNisRJDnZyMYG2Ys+0ABCrknUqODtXqcBF8hp4jmNBHHBSJ5lp6IjZgS6LxguyIYp+yAAB5NUfRcJa06tzqyuefZVo6e1MRSDhzjMEkBMp3cHk+rDB1fU06vV/xGGuo3ZQWXIQNzi4OxqX8SuBwp89IwOot3u7ZxWQavRNzuhU5OpDt9dAIYGZTe98iIqMbFBUELFotNVN75YbnrBmnp9qgnPmK3rwpJBmxffAfgQJh1oZTe05U
+VOvcqqhhPu2DkAGtcRJlABaA9tawzQjoYuAe/uvkOAMvOj6NNMPR8R3PVLB3gOQoQUAWB4gNGwrzc5pKzAg5R2cJI8R4JDFbl/MTA8E4I2P33UREe/vzm+jJWDkkVmT3vsFtSXV3hJ/50gKjDUsXwJMoAehp/XYb1jIrkynCL0RTf75ytKmbFvC2JqlnjBDS6bRw/gGt/6yqXbMt9jo1xyxJK77WFMqbX8GKjGNjRRErArv9cyOu+3cARb3Kf+vXQFYMk7Qi2z3qAO+c3pqmqs/kAXTWsBHJzsyfQ976SFqJZtkCbEf0SqbGxZz3uvi17tg3S2lNjfT+H1VdfMvuzDg+VNHmXu+vTDCRBvyBvJf4IS6EFJfcRqz1CHtDjbmHHURRs3p+Pr+nDHdLLWN4QqgTAVLlAD2wrVCDNSVC7WcwFkb+BMgtU5360hO3MbOGSl32iDlnQ9R15QFFRDE2ajAlNFwHyQTLtLV7Q0pLuxlmd89ggRkwFm7enjkuB2Q2
 {
  "car_features_by_name": {
   "CN7NPE.KOR.0000.V039.001.260902": [
@@ -9,7 +9,8 @@ vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24
   "CVEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
-   "consent"
+   "consent",
+   "lab"
   ],
   "DE22HEV.KOR.0000.V039.001.260902": [
    "ambient",
@@ -47,6 +48,11 @@ vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24
    "consent"
   ],
   "NQ5.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
    "consent"
@@ -166,7 +172,7 @@ vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24
   }
  },
  "published": "2026-11-16",
- "seq": 2026111610,
+ "seq": 2026111613,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -177,6 +183,9 @@ vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24
  "supporter_grants": {
   "7GUU7EVZ": [
    "wp"
+  ],
+  "WFAJ6EKE": [
+   "ap"
   ]
  },
  "supporters": [
@@ -203,7 +212,6 @@ vShfuUbldb2uYIRHEMZ+N+SJxqyWzDTPjz2OBF50O76XLkHMO6G8hvYNeXFYnuxvEU+bZ0r1Gta4Jd24
   "QZSAT4ZY",
   "RLYT4NJF",
   "TGW4CUBG",
-  "WFAJ6EKE",
   "WX7UKL77",
   "XGO77NXB",
   "YBUJA4LP",
