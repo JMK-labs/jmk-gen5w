@@ -1,4 +1,4 @@
-UWTxHjvuXumbEnp7bU3qTA8e46a/gzPtGGkgnAYXAk9mgPENZibRvs2EH0JdYw4COSwMAqn62uvsvpJJOfF4F36VRP72Fkg3uxj+p8EgI6kIN+6tKk6CgZyHKAFdmsMS/u29V56VZjEqQ578F7TlSsmTeDdciTmd1WycxACGoJhM/0NAMg1SRCYexbmETXN223pc4OwQMZfP7s+ngOowOCzDPX8HvNIfoVLWYLbzjwXY3Cs6IMUMy4zLJW3p1g8BfztYy0Z2s8TM8pdUi2Ao9IIqsPC3rIwHlB90Duc0/g8VQ2dUbxyrZl5u1gc6wEQcIPZVQovMlztXsNYP/DMz6DzDfGAsDZ49+FsgryNJxwoJZyAaApbmsw9lzXkWG/BQej+b8l7Lu/EGDfCqXn+c1qzJJ1YDny7Xdd4n1rzMMx0Z8quGlRxR2IwpzEoVjtI89Xz4P7NRr3jNiUBcGBom00DdEFW1UiLc2WoicSRaacofAsNEcsv6bKXnWK4SLjGr
+zjZy/86yY2DAkroLW0fHdbrn6UfbwhcGOWmc5YMtATNfW0TThB+8d6yoRzFGMss2uMadMYjnC+9p5Fq4mLGj0KO8eRemI6dc2vBSI1z8ZdY5grY4EXRxo/glYeu0PoLMSaJysSdHh7FUJ0CkqW4VeKClnwF6ZIO9ELeKmPYmDh2x1Kg2+gbah8L8fDXqcKz1wUHUDS1fuyIIni95Jm05ZoidQLDNaUw04Y3lz31yA20Bt8mXeoGSCJGLxzjXZZcZDzzmM96TrlJPlQR1VP6nS8VjUj/WBEoPQwdwXHHJIR/kVcJEN9Q3v060/cDgAaSKofX5MwY+fOS4YT0EQw3U534CQ0KYu4XQ9la9mrrsk0I3zGRHe3BUyjSUQAHNrMhRHDBradHWxw03Cn/PDhF17so9rEVm1Q9+F1JFzVQdlOyFh5r+NoEQ4uTuXnNrcbt9VPrSZAcntGzjthDk+Ooxo33ua21t9uXtl09WPJ5SdFo6RLCHekKrqBScQBZHv2iJ
 {
  "car_features_by_name": {
   "CN7HEV.KOR.0000.V039.001.260902": [
@@ -179,22 +179,40 @@ UWTxHjvuXumbEnp7bU3qTA8e46a/gzPtGGkgnAYXAk9mgPENZibRvs2EH0JdYw4COSwMAqn62uvsvpJJ
  },
  "packages": {
   "jmk-ambient-sound": {
-   "built": "2026-11-16",
-   "file": "update/files/jmk-ambient-sound-2.5.9.zip",
+   "built": "2026-11-17",
+   "file": "update/files/jmk-ambient-sound-2.5.10.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "57db8e3d3f42c8e1665eb9ce6567a404f191988007b02e139621e98d4558608b",
-   "size": 130225,
-   "version": "2.5.9"
+   "sha256": "f158a577f1dcade95cfbde18ec5ddc2656f4c5462cc0becae83054303c46f8d0",
+   "size": 130373,
+   "version": "2.5.10"
+  },
+  "jmk-autoplay": {
+   "built": "2026-11-17",
+   "file": "update/files/jmk-autoplay-0.3.0.zip",
+   "icon": "🚗",
+   "name": "Wireless AutoPlay",
+   "sha256": "5cdb43d172610c946f0f42fb404123d1a238931e609d69847a01d3cc56f47c6e",
+   "size": 15471,
+   "version": "0.3.0"
+  },
+  "jmk-autoplay-hud": {
+   "built": "2026-11-17",
+   "file": "update/files/jmk-autoplay-hud-0.1.0.zip",
+   "icon": "🧭",
+   "name": "HUD · 계기판 길안내",
+   "sha256": "b095fb85b47228888207a2fe23123c3e42742f001a4811cc34d6b79a7902c0eb",
+   "size": 2880613,
+   "version": "0.1.0"
   },
   "jmk-map-menu": {
-   "built": "2026-11-16",
-   "file": "update/files/jmk-map-menu-2.3.7.zip",
+   "built": "2026-11-17",
+   "file": "update/files/jmk-map-menu-2.3.8.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "3c57d531678531fba86c03a21e9aaf659ce0124e1add76cfe5a3db428ff9acc3",
-   "size": 197773,
-   "version": "2.3.7"
+   "sha256": "ee15b096d4bd7f5d872619f8c062bb22524982d5f051a86dfff3d675c28928b8",
+   "size": 237850,
+   "version": "2.3.8"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -206,8 +224,8 @@ UWTxHjvuXumbEnp7bU3qTA8e46a/gzPtGGkgnAYXAk9mgPENZibRvs2EH0JdYw4COSwMAqn62uvsvpJJ
    "version": "1.3.8"
   }
  },
- "published": "2026-11-16",
- "seq": 2026111619,
+ "published": "2026-11-17",
+ "seq": 2026111701,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -244,6 +262,7 @@ UWTxHjvuXumbEnp7bU3qTA8e46a/gzPtGGkgnAYXAk9mgPENZibRvs2EH0JdYw4COSwMAqn62uvsvpJJ
   "F4CC7ISS",
   "FUOMXAFB",
   "GQASPBPK",
+  "H46ZZCYR",
   "HH2KMTQO",
   "HO2LYEAR",
   "INLAQMWN",

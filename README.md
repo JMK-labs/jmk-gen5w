@@ -5,8 +5,10 @@
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
 | **jmk-wifi** | 1.3.8 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속(인터넷·무선 adb) |
-| **jmk-map-menu** | 2.3.7 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient 설정, NEMESIS 매니저, 실험실, 차박 모드(차박 +), 커스텀 워머창, USB(Phone / PC ADB) 전환, 재부팅 |
-| **jmk-ambient-sound** | 2.5.9 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·**애플 카플레이** |
+| **jmk-map-menu** | 2.3.8 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient 설정, NEMESIS 매니저, 실험실, 차박 모드(차박 +), 커스텀 워머창, USB(Phone / PC ADB) 전환, 재부팅 |
+| **jmk-ambient-sound** | 2.5.10 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·**애플 카플레이** |
+| **jmk-autoplay** | 0.3.0 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 (Wi-Fi Driver 동글 또는 순정 Wi-Fi 모듈). 런처 메뉴 → ⚙ 설정 → 업데이트에서 아래 확장과 함께 설치 · 설치 후 재부팅 |
+| **jmk-autoplay-hud** | 0.1.0 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)** · 패키지별 zip은 이 USB zip 안의 `packages/` 폴더에 들어 있습니다. 소스 코드는 공개하지 않습니다(드라이버 제외, 아래 라이선스 참고).
 
@@ -103,6 +105,8 @@ JMK 런처 메뉴(jmk-map-menu)가 먼저 설치되어 있어야 설치되고 �
 4. USB를 빼고 동글을 꽂습니다.
 
 - 다른 Wi-Fi 앱(예: Korea Projection)이 있는 차는 Wi-Fi Driver를 건너뛰고 런처 메뉴와 앰비언트만 설치합니다(이유는 `JMK-INSTALL-LOG.txt`에 남습니다). Wi-Fi Driver 1.3.4부터는 설치 파일을 직접 넣어도 설치되지 않습니다.
+- Wireless AutoPlay(+ HUD · 계기판 길안내)는 Leafia · 단풍 등 다른 무선 프로젝션과 함께 쓸 수 없습니다. 쓰고 있다면 먼저 제거하고 재부팅하세요.
+- JMK 프로그램은 Korea Projection과 함께 설치되지 않습니다.
 - HMG Leafia Plus와 함께 쓸 때: Active Ambient 2.5.2부터는 카플레이 라이브러리를 고치지 않습니다. 그 전 버전이 있으면 먼저 2.5.2로 업데이트하고 재부팅한 뒤 Leafia를 설치하세요.
 - 아이오닉 5가 아닌 차종에도 모두 설치됩니다(USB 설치 포함). 차에 명령을 보내는 기능은 그 차종이 확인될 때까지 잠깁니다. 커스텀 워머창·차박 모드·동의 화면 패스는 꺼지고, Active Ambient는 조명 명령을 보내지 않으며 설정은 읽기 전용입니다. 헤드유닛 커널이 다른 차는 Wi-Fi Driver가 설치돼도 드라이버를 올리지 않고 ⚙ 설정에 "이 차종 미지원"이 뜹니다. NEMESIS·USB 모드·재부팅·버튼 매핑·바로가기는 그대로 쓸 수 있습니다. 차종별로 확인되면 업데이트 확인 때 풀립니다(지금 열린 차종은 [지원 차종](#지원-차종)).
 - 인터넷에 연결되지 않는 차는 자동 업데이트가 되지 않으니, 가끔 USB 설치 파일로 업데이트해 주세요.
