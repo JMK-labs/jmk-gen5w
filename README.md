@@ -5,10 +5,10 @@
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
 | **jmk-wifi** | 1.3.8 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속(인터넷·무선 adb) |
-| **jmk-map-menu** | 2.3.6 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient 설정, NEMESIS 매니저, 실험실, 차박 모드(차박 +), 커스텀 워머창, USB(Phone / PC ADB) 전환, 재부팅 |
+| **jmk-map-menu** | 2.3.7 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient 설정, NEMESIS 매니저, 실험실, 차박 모드(차박 +), 커스텀 워머창, USB(Phone / PC ADB) 전환, 재부팅 |
 | **jmk-ambient-sound** | 2.5.9 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·**애플 카플레이** |
 
-**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)** · 패키지별 zip은 [Releases](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest)에 있습니다. 소스 코드는 공개하지 않습니다(드라이버 제외, 아래 라이선스 참고).
+**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)** · 패키지별 zip은 이 USB zip 안의 `packages/` 폴더에 들어 있습니다. 소스 코드는 공개하지 않습니다(드라이버 제외, 아래 라이선스 참고).
 
 ## 필요 조건
 
@@ -51,7 +51,7 @@ MAP 버튼을 1.5초 누르면 화면 위에 런처 메뉴가 뜹니다. 다시 
   - **버튼 매핑**: 메뉴를 여는 버튼(MAP · NAV · MEDIA · 콘솔 ☆ · 핸들 ☆)
   - **동의 화면 패스**: 시동 때 안전 안내 화면을 자동으로 닫습니다
   - **커스텀 워머창** (아래 참고)
-  - **USB 포트**: Phone(USB 메모리·유선 AA·동글) / PC ADB(케이블 adb, 동글 꺼짐). 재부팅하면 Phone으로 돌아옵니다
+  - **USB 포트**: Phone(USB 메모리·유선 AA·동글) / PC ADB(케이블 adb, 동글 꺼짐). 재부팅하면 Phone으로 돌아옵니다. 다른 프로그램(엔지니어링 모드의 ADB 설정, HMG-API의 ADB 모드 등)이 PC 모드로 고정해 두면 🔒가 표시되고, 눌러서 Phone으로 되돌릴 수 있습니다
   - **재부팅** (두 번 누르기)
 - **⚙ 설정**: 업데이트 칸: 설치된 패키지 버전, 버전 옆 **업데이트 받기**, Wi-Fi Driver·Active Ambient **제거/다시 설치**, 차량 코드 · 실험실 칸: 차박 + · 조수석 이지억세스 · 커스텀 워머창 + · Active Ambient + · 바로가기
 

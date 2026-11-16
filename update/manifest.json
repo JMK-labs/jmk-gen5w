@@ -16,6 +16,11 @@
    "camp",
    "consent"
   ],
+  "DEPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DN8.USA.0000.V014.010.250818": [
    "ambient",
    "camp",
@@ -158,12 +163,12 @@
   },
   "jmk-map-menu": {
    "built": "2026-11-16",
-   "file": "update/files/jmk-map-menu-2.3.6.zip",
+   "file": "update/files/jmk-map-menu-2.3.7.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "82be9637bfde5dd0dfd3f56cd7f9311b42d46023a43e384e4a23d1695c9f8550",
-   "size": 196527,
-   "version": "2.3.6"
+   "sha256": "3c57d531678531fba86c03a21e9aaf659ce0124e1add76cfe5a3db428ff9acc3",
+   "size": 197773,
+   "version": "2.3.7"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -176,7 +181,7 @@
   }
  },
  "published": "2026-11-16",
- "seq": 2026111614,
+ "seq": 2026111615,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
