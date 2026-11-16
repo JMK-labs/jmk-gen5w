@@ -209,21 +209,21 @@
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-0.3.1.zip",
+   "file": "update/files/jmk-autoplay-0.3.2.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "07ee83148179a822a88bc48cd0d966a0849849c0e3f2369ce867440c7b86eadc",
-   "size": 15958,
-   "version": "0.3.1"
+   "sha256": "48b7dd111d2a3f5525f4a0f4172662fcc32dded329695ed5102cd69c3e3b6a1b",
+   "size": 16296,
+   "version": "0.3.2"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.0.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.1.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "b095fb85b47228888207a2fe23123c3e42742f001a4811cc34d6b79a7902c0eb",
-   "size": 2880613,
-   "version": "0.1.0"
+   "sha256": "a1b971a3a8970ff19fbbd9c44660b17c11348a8623a1339c5e85eab02b15e55e",
+   "size": 2880899,
+   "version": "0.1.1"
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
@@ -245,7 +245,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111703,
+ "seq": 2026111704,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
