@@ -18,6 +18,8 @@ https://github.com/cilynx/rtl88x2bu (GPL-2.0), 커밋 `fc158d1f71b9e5dfcd1fccaf4
 
 Docker가 필요합니다. 이 폴더에서 `./build.sh`를 실행하면 `out/88x2bu.ko`와 `out/SOURCE.txt`가 만들어집니다.
 
+원본 드라이버에 적용한 패치와 빌드 스크립트는 JMK가 직접 만들었습니다.
+
 ## 라이선스
 
 원본 드라이버와 패치 모두 GPL-2.0입니다(`COPYING`).
