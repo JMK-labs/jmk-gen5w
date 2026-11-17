@@ -1,5 +1,8 @@
 {
  "car_features_by_name": {
+  "*": [
+   "projection"
+  ],
   "AEPEEV.USA.0000.V015.012.260507": [
    "ambient",
    "camp",
@@ -219,12 +222,12 @@
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-0.3.2.zip",
+   "file": "update/files/jmk-autoplay-0.3.3.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "48b7dd111d2a3f5525f4a0f4172662fcc32dded329695ed5102cd69c3e3b6a1b",
-   "size": 16296,
-   "version": "0.3.2"
+   "sha256": "b5f599089d1450ad79271374e3e61ae6cd0c1724c6f5dc1156b475adfd259f13",
+   "size": 16544,
+   "version": "0.3.3"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
@@ -255,7 +258,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111708,
+ "seq": 2026111709,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
