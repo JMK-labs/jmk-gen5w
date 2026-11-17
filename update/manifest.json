@@ -218,12 +218,12 @@
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.11.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.12.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "5e3cc3e97702e6988962d2af9a5d70397e0ec9ce621acd2b0f1e3753c7c1a1ba",
-   "size": 130292,
-   "version": "2.5.11"
+   "sha256": "6f3cdcfb3eda67131f6400db711d12cf2ebee1cbc8dd8bf0cffe86c1811dd985",
+   "size": 130460,
+   "version": "2.5.12"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -263,7 +263,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111712,
+ "seq": 2026111713,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -293,30 +293,6 @@
   "ba4620c189fac39dfdae599c57fef7dd": [
    "pa",
    "wp"
-  ]
- },
- "supporter_grants": {
-  "*": [
-   "hud",
-   "shortcuts"
-  ],
-  "7GUU7EVZ": [
-   "wp"
-  ],
-  "FBVB4KV7": [
-   "ap",
-   "cp",
-   "shortcuts",
-   "wp"
-  ],
-  "MJNHUNFM": [
-   "pa",
-   "wp"
-  ],
-  "WFAJ6EKE": [
-   "ap",
-   "cp",
-   "pa"
   ]
  },
  "supporter_hashes": [
@@ -354,39 +330,5 @@
   "f0641873c02a70e9651dcfae3e8c7f1e",
   "f8b1a4de615eda3a47d690465ac8e8ac"
  ],
- "supporters": [
-  "24QJGVWF",
-  "3H7GFWON",
-  "4FIXBWXL",
-  "4MKFCENK",
-  "6BZCPYDS",
-  "75W6V55N",
-  "BVTP6LOA",
-  "CXARBN6Y",
-  "DP4Q7IGP",
-  "DPPB5BHV",
-  "F4CC7ISS",
-  "FUOMXAFB",
-  "GQASPBPK",
-  "H46ZZCYR",
-  "HH2KMTQO",
-  "HO2LYEAR",
-  "INLAQMWN",
-  "ITCTRSBT",
-  "KJUUBENZ",
-  "LY3LOBUL",
-  "MGVUZEKV",
-  "OXXLAGBA",
-  "P7WRSDC3",
-  "PSEIQE3X",
-  "Q4BWO2OV",
-  "QGWWKPPK",
-  "QZSAT4ZY",
-  "RLYT4NJF",
-  "TGW4CUBG",
-  "WX7UKL77",
-  "XGO77NXB",
-  "YBUJA4LP",
-  "YHEV3SA6"
- ]
+ "supporters": []
 }

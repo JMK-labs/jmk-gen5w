@@ -1,4 +1,4 @@
-NZGlRC1nDZoab7qvUKpDOWHHMlzFhD/Yqsm5/lDC0uwwDpISr7QKcr+5uRRMRKwDUsGnZmCwdm8p1Tbtff4JxixjYmX0dJklXk2Ln9j3SZ49Maz1reev1nrn82Ub9Mr8pvB+WimHnjtoypWBL/thgNoZoYfewdE75enrvTTbK6uhOlwk2gR/MCHpkIay9O7jALPkmFwuLhM454QFiwWwaIyWvVweGUDxTOiJ6rpw2VchkBCx1b5GUW+5fJdBDEjSZB9RvbtMvXd90eF7xO17z70QWefeb8AgWmyFbEhlaqqNnpybI1MxZCLsrVfuTAbCuLxXUzlp4e/qfud0L832ITEUUCNlf7doTEBBddnnw5AMvZqkh3HbtFXyRjnstYuIXHxcDPO4Mzyms2PmX0YNrBujNeS2cfR/0WgTsA966BeI0Q7XpdlZrK06r+6CR3AndT9tYGu5FpyX4yobsQtwa2SFSnjiMPVeuUO1BVswBzDPK+dzZ9fYqOwiY9ygpCta
+0Jd7f7+dQXHZrhWHLt8p5spruZP7Zt3NZrlEbgpehD78OhSwhcs9RyHKp7bZK5h84LuFByZ5NZ3UDh0rdbbE3nj6P4HaUpzH2qAHKkOmNOVfYMMfnzzDYYkW6F1gFJtwnrvRUARNcnxkQNqOxsF8BS8fFNox7HoNHAJP41H2NJjMgFtM/OCcXmh9/ozEhzEpqk3INIvFZHZJzswmQIKYCYRYsIFCFwbXv1XYzZ6pZI7JCgaM3KvXJudrVo9UJRUY82DVdH81K7oW5N7puugJzDZL+MGwrYmeu15rRc2X/LPqB/bqsyR9gekRG+nCohZnU6friSEBwig32IVFZZGtkzhKfYufoMaVAEEw9087PYnhZM9r6qop3B/928G+vwOW4bzH/CGLd78bzGPvNm/mUtcD7O0uVhUOoX1nFosY7SUWuV27caSq0DiYwz24nOmkC1VWPYI+X7KOFniRN/BxVDK9mWolXKiLx7lDXtNGEeDiiluUR7thhSgVH60xaNLo
 {
  "car_features_by_name": {
   "*": [
@@ -219,12 +219,12 @@ NZGlRC1nDZoab7qvUKpDOWHHMlzFhD/Yqsm5/lDC0uwwDpISr7QKcr+5uRRMRKwDUsGnZmCwdm8p1Tbt
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.11.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.12.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "5e3cc3e97702e6988962d2af9a5d70397e0ec9ce621acd2b0f1e3753c7c1a1ba",
-   "size": 130292,
-   "version": "2.5.11"
+   "sha256": "6f3cdcfb3eda67131f6400db711d12cf2ebee1cbc8dd8bf0cffe86c1811dd985",
+   "size": 130460,
+   "version": "2.5.12"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -264,7 +264,7 @@ NZGlRC1nDZoab7qvUKpDOWHHMlzFhD/Yqsm5/lDC0uwwDpISr7QKcr+5uRRMRKwDUsGnZmCwdm8p1Tbt
   }
  },
  "published": "2026-11-17",
- "seq": 2026111712,
+ "seq": 2026111713,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -294,30 +294,6 @@ NZGlRC1nDZoab7qvUKpDOWHHMlzFhD/Yqsm5/lDC0uwwDpISr7QKcr+5uRRMRKwDUsGnZmCwdm8p1Tbt
   "ba4620c189fac39dfdae599c57fef7dd": [
    "pa",
    "wp"
-  ]
- },
- "supporter_grants": {
-  "*": [
-   "hud",
-   "shortcuts"
-  ],
-  "7GUU7EVZ": [
-   "wp"
-  ],
-  "FBVB4KV7": [
-   "ap",
-   "cp",
-   "shortcuts",
-   "wp"
-  ],
-  "MJNHUNFM": [
-   "pa",
-   "wp"
-  ],
-  "WFAJ6EKE": [
-   "ap",
-   "cp",
-   "pa"
   ]
  },
  "supporter_hashes": [
@@ -355,39 +331,5 @@ NZGlRC1nDZoab7qvUKpDOWHHMlzFhD/Yqsm5/lDC0uwwDpISr7QKcr+5uRRMRKwDUsGnZmCwdm8p1Tbt
   "f0641873c02a70e9651dcfae3e8c7f1e",
   "f8b1a4de615eda3a47d690465ac8e8ac"
  ],
- "supporters": [
-  "24QJGVWF",
-  "3H7GFWON",
-  "4FIXBWXL",
-  "4MKFCENK",
-  "6BZCPYDS",
-  "75W6V55N",
-  "BVTP6LOA",
-  "CXARBN6Y",
-  "DP4Q7IGP",
-  "DPPB5BHV",
-  "F4CC7ISS",
-  "FUOMXAFB",
-  "GQASPBPK",
-  "H46ZZCYR",
-  "HH2KMTQO",
-  "HO2LYEAR",
-  "INLAQMWN",
-  "ITCTRSBT",
-  "KJUUBENZ",
-  "LY3LOBUL",
-  "MGVUZEKV",
-  "OXXLAGBA",
-  "P7WRSDC3",
-  "PSEIQE3X",
-  "Q4BWO2OV",
-  "QGWWKPPK",
-  "QZSAT4ZY",
-  "RLYT4NJF",
-  "TGW4CUBG",
-  "WX7UKL77",
-  "XGO77NXB",
-  "YBUJA4LP",
-  "YHEV3SA6"
- ]
+ "supporters": []
 }
