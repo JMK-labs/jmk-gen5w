@@ -112,7 +112,9 @@
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
-   "consent"
+   "consent",
+   "lab",
+   "warmer"
   ],
   "NQ5.KOR.0000.V035.001.250507": [
    "ambient",
@@ -273,7 +275,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111714,
+ "seq": 2026111715,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
