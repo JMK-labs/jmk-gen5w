@@ -255,7 +255,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111706,
+ "seq": 2026111707,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -263,6 +263,30 @@
   "N62HOTUI",
   "NWQVMALR"
  ],
+ "supporter_grant_hashes": {
+  "*": [
+   "hud",
+   "shortcuts"
+  ],
+  "04d1f1a7c66e6d302d0a1b6ae9ead68b": [
+   "ap",
+   "cp",
+   "shortcuts",
+   "wp"
+  ],
+  "716e2cc587433712fb11ed2dc775dc4c": [
+   "wp"
+  ],
+  "9f934114cb044c824d2536ddc777b143": [
+   "ap",
+   "cp",
+   "pa"
+  ],
+  "ba4620c189fac39dfdae599c57fef7dd": [
+   "pa",
+   "wp"
+  ]
+ },
  "supporter_grants": {
   "*": [
    "hud",
@@ -287,6 +311,40 @@
    "pa"
   ]
  },
+ "supporter_hashes": [
+  "0396b46ea6da01381beb6905f3918d1f",
+  "0cd91fa129b010d4cf4bf16fcee18b7d",
+  "106310caf7f67c819e79f58a74a4ca1f",
+  "1c3b8ad2158d2fd05dfa7831a9e7e751",
+  "2240a374c459d8c536eda5dc1df77147",
+  "2444739b1934156ea068fbff8c446150",
+  "27e73c6ae4d2018228b3f7341e3fb874",
+  "28167a8d3a347ff70177c63fa16b1c2f",
+  "30989f9479e51ee140d9c7a3cc81543f",
+  "38cb0b3567c7ccb35265badb54f64e4e",
+  "39f8e76ec03d27e9a918e6283a030218",
+  "3d8b258d6a0dde4e222d0e423b20efa8",
+  "5c2b67b44a89b7d2c5fc6c8fdd46287c",
+  "650e54dcc5d415a81bfda584ac92b3ac",
+  "7398c4269ca245de64632b6f74c99788",
+  "7a814800b7aeb8e7598404d3012cb74d",
+  "7fee1909a8719e2a2ebaf417dfc4fb22",
+  "80fb912deb3a40cd2e7ea642a8812071",
+  "a563d86774f00a32dc61c95b560aea44",
+  "a97f7777e4b325fe08e40f08f2367238",
+  "aa0503a56228b2fbabe2b152a8b079e7",
+  "bc1f66418c69822d0a7a63f5e20d5dde",
+  "c1d65edf46c4aeb754e2872a87e2862c",
+  "ce7965b8df5abb548cb45e6e5cf7b5e2",
+  "cefb31cd7fdff294cd37fb4cc8522713",
+  "cf2f12c7d76dd0fe458b965b131af9ce",
+  "d5529a43072490873d173d71ac6f7991",
+  "e04d50bb32173147ee59027baff012a5",
+  "e600984558622aa64572276401a36723",
+  "ecd54cd111a97727501d76e4827e88ab",
+  "f0641873c02a70e9651dcfae3e8c7f1e",
+  "f8b1a4de615eda3a47d690465ac8e8ac"
+ ],
  "supporters": [
   "24QJGVWF",
   "3H7GFWON",
