@@ -28,6 +28,11 @@
    "camp",
    "consent"
   ],
+  "CVEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CVEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -100,6 +105,11 @@
    "consent"
   ],
   "MQ4HEV.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
    "consent"
@@ -263,7 +273,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111713,
+ "seq": 2026111714,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
