@@ -1,4 +1,4 @@
-SEZZx0JZGpdjQW6NFHjNRNupOdEL2f9lS4DytjyjmrbEa27K2BJgeBDanWFZatih6OiNTDo2zexODe+faM2C0UiH1MHPzYB2uw8pIpaVxb4avbzv5tKYRiX2cJ1HBaG2uIhD/meCEXVwUQcCS1RIj4GvOvgFAQWBC8vwWVURVyxmsAegURCXzBJ8KL+QED8RCx7wKT70DkCqGmyKUa46j+FD4jqBX7XDSdpd2Bu4pr3UeHPPu5Mk1ZxY8pRD54nbTfk3rvywarzWn+ZMm4SRpUc+8HtVOkfW+uGz5JC6DSYUBEplMRrBLKxTgixW7utmCszddMYG3hs4eROGHCV6BMDpRz1mwto2vjO5j+bQJ7O8KJZhckLEieAhPIh+am2t3sFNDWTlb29uic5fzXH81PUc1b9WqsEi6agDaIMjm3nlDIvpiGrYycETcGX0zkqCw5ax7DrsX7T3/6NQfdiikSaFBcA23Rg/iVyeTGY4D23cD7YaFGDWcd27DxBhelYO
+bMpAFCrEN5Sh+AT6g7hrDHIA+a+qhVpSJchsdfnCJiDCBH11lFoDh7qeZPN/e1VL5Q0mVOWCuUcwCGdM8+3naQOLQ9plugoBDo7Xr8IM3Isq8ClRkiVei0MJB5de7+Fy+ZIAJVH0ltGTUWvBmae/TvsMSC/bMJwhOUda35UWBFxKUCDOE4K0ITeDhf+nHfH1c6+ggCUlUEUZcVL+gHPjI8HqFm3XuL8Hqdr/EDkFUuGdVJYCgXjXnttwIToGrEZAyW5EvCpej34q1/SL5Yk6Yq0F82cyhzrqc/DerBWoM3CyXOUqnqoA6kYPAo5ob3cvOSN0snNY96regRwIFpOUR9D3Rj1f0OsQ/eJYLgZmZ4sHbpTDJqRj3x8LkX4J2RuCa2gKEX6s8p0W54FtcQCmCkkqfq44Ez3JFLqwba4KnWCMuWHxsC53ip+kMUfJavy75IfwrJT+4Zatg/T29M8u2ceUvW5FM0lHDd3oD4KRmDhWpM017JsKKSOmMsIxPTiO
 {
  "car_features_by_name": {
   "*": [
@@ -264,12 +264,12 @@ SEZZx0JZGpdjQW6NFHjNRNupOdEL2f9lS4DytjyjmrbEa27K2BJgeBDanWFZatih6OiNTDo2zexODe+f
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.13.zip",
+   "file": "update/files/jmk-map-menu-2.3.14.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "0033c2528e449c77b60980c2fc40484b9b52b3a513e3b860283e66b549705098",
-   "size": 250759,
-   "version": "2.3.13"
+   "sha256": "013ae5b6ffe85608ea9213ff4ed3e950ee56c136526f9b47e0ec599a8803cd0c",
+   "size": 251878,
+   "version": "2.3.14"
   },
   "jmk-wifi": {
    "built": "2026-11-17",
@@ -282,7 +282,7 @@ SEZZx0JZGpdjQW6NFHjNRNupOdEL2f9lS4DytjyjmrbEa27K2BJgeBDanWFZatih6OiNTDo2zexODe+f
   }
  },
  "published": "2026-11-17",
- "seq": 2026111720,
+ "seq": 2026111721,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -346,6 +346,7 @@ SEZZx0JZGpdjQW6NFHjNRNupOdEL2f9lS4DytjyjmrbEa27K2BJgeBDanWFZatih6OiNTDo2zexODe+f
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
   "d5529a43072490873d173d71ac6f7991",
+  "d86c66187d5b42e331adbe7bc698b012",
   "e04d50bb32173147ee59027baff012a5",
   "e600984558622aa64572276401a36723",
   "ecd54cd111a97727501d76e4827e88ab",
