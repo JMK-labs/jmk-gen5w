@@ -132,6 +132,11 @@
    "lab",
    "warmer"
   ],
+  "NEEV23.USA.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NEEV23.USA.0000.V015.011.260206": [
    "ambient",
    "camp",
@@ -300,8 +305,8 @@
    "version": "1.4.0"
   }
  },
- "published": "2026-11-17",
- "seq": 2026111725,
+ "published": "2026-11-18",
+ "seq": 2026111801,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
