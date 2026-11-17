@@ -1,7 +1,8 @@
-bj+J4RWO1wKQY4N1UW8E9iV/ehiYHHsZr0iGinp+oGeNMqs8jywqdhHu2d4Vj8+sJ2j96n55aaJeCQBabCxvpz1fOCtlg1Ct/Go9XqWmoATI0hraZwv37TaA5DU2WtHciaypcU826nrs8lP4xqcpiNpOHPfFUnU3L5HolgvOkYYcIkKj3K8iBualsUeFBIZPgKN2r8MchAYqOhBCQjUJXMGTjpvLnUSzTChxhP6xa7G+n8g4doPzpl6d/OvayJYhiA9YHOWACe7OpUW06mJBexeBc8NkbsdxRnV/Lkqgpng3jEpGg6D9BGitP33GaW0lX5EkW2XkL7P7mz0BJisBELRRC7hdhwq/oTgLCpAaWUngzLcAfy8W8HQ5z6BHz+fy1kqsR2PgeQ+/H1XEsYuQKAPrSgVkdI1hxCdWbY9MzJTJ81JZR+PmjPeh+NcLZlozhg4N69vWasEs1v/bi4kjHlrIJu+be+0AJjyKV5vxWZyuN4oxstO10BEPzLz3UTAI
+TcLB1NGUgZHEw3u6t9+0dH2lofpvzhUNUdT0k5zp6lF7317Lc8UO3MlMnlHuDYLlHPVbjJ6NOcvZtN9O9DXAP7VzcaOw7SarzisqHimLmvTuczbwrzIQJmBvdZmF8YdCRywVXR5TIMg0ICKmSL/H8k9wzcsATBL+kCvcQw2PKBklWo8XsbKpG1+BGf606N2OOtg8EFWLGAS/KtLLUDwUQXdzCRL53YEgu/gVOju2TQ57Y7NZ23myF/mpeHyXHwjEbFQ47H9C/M7PPMxavDhaJe9pUniNk7rDKIETi42wyTW1dek+GxfJ70wL4ombau/JyAmCOxj8FZDKhJgVUQpW28t/YVdkhdJtTdjaVMZjQtza6A3mFquzmYCGm4T/INlhLP1AvBWQ2pwI1rJgmba1iP63bDi3sU1tS3WjAPSoEVJnEyINpTwwHfrtFpPwaPuFP7cHUwP4kC1wV0n3rQoDw+rXINBEB1LIA7uEPVqcDgxhMjqYwIkCIzvtbDC2cSBy
 {
  "car_features_by_name": {
   "*": [
+   "ambientall",
    "projection"
   ],
   "AEPEEV.USA.0000.V015.012.260507": [
@@ -231,12 +232,12 @@ bj+J4RWO1wKQY4N1UW8E9iV/ehiYHHsZr0iGinp+oGeNMqs8jywqdhHu2d4Vj8+sJ2j96n55aaJeCQBa
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.12.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.13.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "6f3cdcfb3eda67131f6400db711d12cf2ebee1cbc8dd8bf0cffe86c1811dd985",
-   "size": 130460,
-   "version": "2.5.12"
+   "sha256": "870f39c854af83317ec552523fa925ef2935eb39bfefb7229428f01ea39d03d9",
+   "size": 131802,
+   "version": "2.5.13"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -258,12 +259,12 @@ bj+J4RWO1wKQY4N1UW8E9iV/ehiYHHsZr0iGinp+oGeNMqs8jywqdhHu2d4Vj8+sJ2j96n55aaJeCQBa
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.11.zip",
+   "file": "update/files/jmk-map-menu-2.3.12.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "31cd900f9c6a55a03462266fd8135f100eee95b7f944518e34ac80843867dd7e",
-   "size": 249195,
-   "version": "2.3.11"
+   "sha256": "66fbf42d4f893d9edf66edaf2a35beb93994a296ee0b7baf59081368133a3b69",
+   "size": 249701,
+   "version": "2.3.12"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -276,7 +277,7 @@ bj+J4RWO1wKQY4N1UW8E9iV/ehiYHHsZr0iGinp+oGeNMqs8jywqdhHu2d4Vj8+sJ2j96n55aaJeCQBa
   }
  },
  "published": "2026-11-17",
- "seq": 2026111715,
+ "seq": 2026111716,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

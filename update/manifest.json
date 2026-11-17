@@ -1,6 +1,7 @@
 {
  "car_features_by_name": {
   "*": [
+   "ambientall",
    "projection"
   ],
   "AEPEEV.USA.0000.V015.012.260507": [
@@ -230,12 +231,12 @@
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.12.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.13.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "6f3cdcfb3eda67131f6400db711d12cf2ebee1cbc8dd8bf0cffe86c1811dd985",
-   "size": 130460,
-   "version": "2.5.12"
+   "sha256": "870f39c854af83317ec552523fa925ef2935eb39bfefb7229428f01ea39d03d9",
+   "size": 131802,
+   "version": "2.5.13"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -257,12 +258,12 @@
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.11.zip",
+   "file": "update/files/jmk-map-menu-2.3.12.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "31cd900f9c6a55a03462266fd8135f100eee95b7f944518e34ac80843867dd7e",
-   "size": 249195,
-   "version": "2.3.11"
+   "sha256": "66fbf42d4f893d9edf66edaf2a35beb93994a296ee0b7baf59081368133a3b69",
+   "size": 249701,
+   "version": "2.3.12"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -275,7 +276,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111715,
+ "seq": 2026111716,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
