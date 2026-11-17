@@ -265,13 +265,13 @@
  },
  "packages": {
   "jmk-ambient-sound": {
-   "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.13.zip",
+   "built": "2026-11-18",
+   "file": "update/files/jmk-ambient-sound-2.5.14.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "870f39c854af83317ec552523fa925ef2935eb39bfefb7229428f01ea39d03d9",
-   "size": 131802,
-   "version": "2.5.13"
+   "sha256": "cc17c26e8d327150197d74854f0fbe19c7e8274f30353d9980f14cc1810d9b65",
+   "size": 133833,
+   "version": "2.5.14"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -311,7 +311,7 @@
   }
  },
  "published": "2026-11-18",
- "seq": 2026111804,
+ "seq": 2026111805,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
