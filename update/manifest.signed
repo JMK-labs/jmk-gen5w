@@ -1,4 +1,4 @@
-xrePi9GTPgdpkjTTcPtNSfgQSHAsgDSY/rt0gxV/uJXzjjLOaIyw1Db6SoGck4gxiP964PmYXCD275SddBm1B3/aiQAl1z2VkTZIbO+98NyTi4JTDprD5SnCNB1z0Lso3ID2r+FYMiIgpT4FhV7OEdYMWChGcQkpEdzQR494LVl+yC9j0ScmuZdRxaTA206RmGJPxFtgEVW9gszzPVRBinfn0+LD/p3mCE709Vgt8seXc2DTLLaL+HblLrjGFBufHUP5XRqHU81Y2tAXZp3q2JxQySnqTwQw1aj1B4Vywps74K7o73wRYiiGSu9GYhkGW6t/38QKZPCeDr2ftagmX4OkN79CAG+UXjP0UwvKfMtBJyzHWKGvE12IOh+sPzIRvJQF7rCU30G5ZwqcIGhcAKGPI1xHQtbPNZKDWVPpHPU0ffUTxKsifz7FD6GoH6RkkIGOC9HmVZ3gxquv1pVKpJv/5gQ3LRkAZTLA3hlXcbReDC2LXxkTAe52lFr0bHmy
+sGKgL8CKZ2rmlYoJoineSfmL0U+ScbnJACrkxbhNED4B+np8TQPlXPBXlC0x/vPHHsYh2/SWpnfEXe1JhbjbcYtg/uzZptFXlMSvtLxYB5Z+ghWHnTuBxCVJif9qPXgYTC4nAWoWO62Lomt3ykB76q4NetTqNrttLHq1YVc+x0GXpQFjGFJwRDLy/M/nFIyIiSSa/hxfAgx9x+TlmDIjINu44JErJ1zYIfSIvOeLYbnypIoUy1VNWzyCPjZyRHqJ8g5HMMEGCoBm4hpPL4cAq1OWULtwE6x4wHbRV0Z7vUIZYwFEOMsmBsPQUmS0nSbeZNiMaa+5xc8uX6sDX9lSeQDKN4hw/GMoz1Vcsl5e7rKrGOQscpHzmlgIl2bSV717f75dNvzwDlpCo0kt4BO+ROg00egsg7qhS9dFFAoZ9h6jJFGL+il+jw8E80uCBmNAN0dmB/G2s4FopjnMd2JxvzMO55VjE6QhCZvxz+LFtwX852bVuhjTWzpssgnxTdm/
 {
  "car_features_by_name": {
   "*": [
@@ -116,6 +116,11 @@ xrePi9GTPgdpkjTTcPtNSfgQSHAsgDSY/rt0gxV/uJXzjjLOaIyw1Db6SoGck4gxiP964PmYXCD275Sd
    "camp",
    "consent"
   ],
+  "MQ4HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
@@ -159,7 +164,7 @@ xrePi9GTPgdpkjTTcPtNSfgQSHAsgDSY/rt0gxV/uJXzjjLOaIyw1Db6SoGck4gxiP964PmYXCD275Sd
   "min_version": {
    "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
-   "jmk-map-menu": "2.3.12",
+   "jmk-map-menu": "2.3.17",
    "jmk-wifi": "1.4.0"
   },
   "pull": {
@@ -269,12 +274,12 @@ xrePi9GTPgdpkjTTcPtNSfgQSHAsgDSY/rt0gxV/uJXzjjLOaIyw1Db6SoGck4gxiP964PmYXCD275Sd
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.14.zip",
+   "file": "update/files/jmk-map-menu-2.3.17.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "013ae5b6ffe85608ea9213ff4ed3e950ee56c136526f9b47e0ec599a8803cd0c",
-   "size": 251878,
-   "version": "2.3.14"
+   "sha256": "27986f45795fa84936364c507496673d27f46b76f03cdc580329bb2212bb12e4",
+   "size": 255165,
+   "version": "2.3.17"
   },
   "jmk-wifi": {
    "built": "2026-11-17",
@@ -287,7 +292,7 @@ xrePi9GTPgdpkjTTcPtNSfgQSHAsgDSY/rt0gxV/uJXzjjLOaIyw1Db6SoGck4gxiP964PmYXCD275Sd
   }
  },
  "published": "2026-11-17",
- "seq": 2026111722,
+ "seq": 2026111723,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

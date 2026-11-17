@@ -115,6 +115,11 @@
    "camp",
    "consent"
   ],
+  "MQ4HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
@@ -158,7 +163,7 @@
   "min_version": {
    "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
-   "jmk-map-menu": "2.3.12",
+   "jmk-map-menu": "2.3.17",
    "jmk-wifi": "1.4.0"
   },
   "pull": {
@@ -268,12 +273,12 @@
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.14.zip",
+   "file": "update/files/jmk-map-menu-2.3.17.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "013ae5b6ffe85608ea9213ff4ed3e950ee56c136526f9b47e0ec599a8803cd0c",
-   "size": 251878,
-   "version": "2.3.14"
+   "sha256": "27986f45795fa84936364c507496673d27f46b76f03cdc580329bb2212bb12e4",
+   "size": 255165,
+   "version": "2.3.17"
   },
   "jmk-wifi": {
    "built": "2026-11-17",
@@ -286,7 +291,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111722,
+ "seq": 2026111723,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
