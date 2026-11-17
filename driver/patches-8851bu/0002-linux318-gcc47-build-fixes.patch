@@ -1,0 +1,109 @@
+jmk-wifi 8851bu patch 0002: build with Linux 3.18 and gcc 4.7
+
+Why: the three places where upstream does not build for our kernel/compiler or
+configuration. Each change carries a JMK comment.
+
+  - os_dep/linux/os_intfs.c, rtw_ethtool_get_drvinfo(): two strscpy() calls were not
+    under a kernel version check; strscpy() is new in Linux 4.3. Older kernels get
+    strlcpy(), as the other calls in that function already do.
+  - os_dep/osdep_service_linux.c, rtw_warn_on(): ATOMIC_INC((ATOMIC_T *)&rtw_warn_on_cnt)
+    did a 4-byte atomic on a u16. gcc 4.7 rejects the ARM ldrex/strex asm for it ("output
+    number 2 not directly addressable"), and at run time it would be an unaligned
+    ldrex/strex or a 4-byte write over the neighbouring 2 bytes. The counter is only a
+    debug number in proc, so it is a plain increment now.
+  - phl/test/phl_dbg_cmd.c/.h: _get_hex_from_string() and its two helpers were only built
+    with CONFIG_PHL_TEST_SUITE (which MP mode turns on), but phl_ps_dbg_cmd.c, built for
+    CONFIG_POWER_SAVE, calls it. With MP off (patch 0001) that was an implicit declaration
+    (an error with the 3.18 kernel's -Werror=implicit-function-declaration). The helpers
+    and their declaration are now outside the test-suite block.
+
+diff --git a/os_dep/linux/os_intfs.c b/os_dep/linux/os_intfs.c
+index afc7714..faf6285 100755
+--- a/os_dep/linux/os_intfs.c
++++ b/os_dep/linux/os_intfs.c
+@@ -556,11 +556,21 @@ static void rtw_ethtool_get_drvinfo(struct net_device *dev, struct ethtool_drvin
+ 	} else
+ 	#endif
+ 	{
++#if (LINUX_VERSION_CODE >= KERNEL_VERSION(4, 3, 0))
+ 		strscpy(info->fw_version, "N/A", sizeof(info->fw_version));
++#else
++		/* JMK: strscpy() is new in Linux 4.3 */
++		strlcpy(info->fw_version, "N/A", sizeof(info->fw_version));
++#endif
+ 	}
+ 
++#if (LINUX_VERSION_CODE >= KERNEL_VERSION(4, 3, 0))
+ 	strscpy(info->bus_info, dev_name(wiphy_dev(wdev->wiphy)),
+ 		sizeof(info->bus_info));
++#else
++	strlcpy(info->bus_info, dev_name(wiphy_dev(wdev->wiphy)),
++		sizeof(info->bus_info));
++#endif
+ }
+ 
+ static const char rtw_ethtool_gstrings_sta_stats[][ETH_GSTRING_LEN] = {
+diff --git a/os_dep/osdep_service_linux.c b/os_dep/osdep_service_linux.c
+index b1bc4b1..65fa298 100644
+--- a/os_dep/osdep_service_linux.c
++++ b/os_dep/osdep_service_linux.c
+@@ -883,7 +883,11 @@ u16 rtw_warn_on_cnt;
+ void rtw_warn_on(bool condition){
+ 	if(condition){
+ 		WARN_ON(condition);
+-		ATOMIC_INC((ATOMIC_T *)&rtw_warn_on_cnt);
++		/* JMK: was ATOMIC_INC((ATOMIC_T *)&rtw_warn_on_cnt): a 4-byte atomic on a u16.
++		 * On ARM that is ldrex/strex on a 2-byte-aligned variable (alignment fault, or
++		 * a write over the 2 bytes next to it), and gcc 4.7 rejects the asm ("output
++		 * number 2 not directly addressable"). It is a debug count shown in proc. */
++		rtw_warn_on_cnt++;
+ 	}
+ }
+ 
+diff --git a/phl/test/phl_dbg_cmd.c b/phl/test/phl_dbg_cmd.c
+index db7e4e2..57a9c1e 100644
+--- a/phl/test/phl_dbg_cmd.c
++++ b/phl/test/phl_dbg_cmd.c
+@@ -162,7 +162,9 @@ rtw_phl_dbg_core_cmd(struct phl_info_t *phl_info,
+ 	return RTW_PHL_STATUS_SUCCESS;
+ }
+ 
+-#ifdef CONFIG_PHL_TEST_SUITE
++/* JMK: the three hex helpers below were inside CONFIG_PHL_TEST_SUITE, but
++ * phl_ps_dbg_cmd.c (built with CONFIG_POWER_SAVE) calls _get_hex_from_string() too:
++ * without MP/the test suite it did not compile. */
+ bool
+ _is_hex_digit(char ch_tmp)
+ {
+@@ -230,6 +232,7 @@ _get_hex_from_string(char *szstr, u32 *val)
+ 	return true;
+ }
+ 
++#ifdef CONFIG_PHL_TEST_SUITE
+ void
+ _phl_dbg_cmd_switch_chbw(struct phl_info_t *phl_info, char input[][MAX_ARGV],
+ 			 u32 input_num, char *output, u32 out_len)
+diff --git a/phl/test/phl_dbg_cmd.h b/phl/test/phl_dbg_cmd.h
+index b8a5c91..d87a435 100644
+--- a/phl/test/phl_dbg_cmd.h
++++ b/phl/test/phl_dbg_cmd.h
+@@ -51,6 +51,10 @@ struct phl_dbg_cmd_info {
+ enum rtw_phl_status
+ rtw_phl_dbg_core_cmd(struct phl_info_t *phl_info, struct rtw_proc_cmd *incmd, char *output, u32 out_len);
+ 
++/* JMK: outside CONFIG_PHL_TEST_SUITE, phl_ps_dbg_cmd.c uses it (see phl_dbg_cmd.c) */
++bool
++_get_hex_from_string(char *szstr, u32 *val);
++
+ #ifdef CONFIG_PHL_TEST_SUITE
+ 
+ enum PHL_DBG_CMD_ID {
+@@ -174,8 +178,6 @@ rtw_phl_dbg_proc_cmd(struct phl_info_t *phl_info,
+ 		     struct rtw_proc_cmd *incmd,
+ 		     char *output,
+ 		     u32 out_len);
+-bool
+-_get_hex_from_string(char *szstr, u32 *val);
+ #else
+ 
+ #define rtw_phl_dbg_proc_cmd(_phl_info, _incmd, _output, _out_len) RTW_HAL_STATUS_SUCCESS

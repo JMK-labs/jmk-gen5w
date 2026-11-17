@@ -6,7 +6,7 @@
 |---|---|---|
 | **jmk-map-menu** | 2.3.12 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
 | **jmk-ambient-sound** | 2.5.13 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
-| **jmk-wifi** | 1.3.8 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
+| **jmk-wifi** | 1.4.0 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
 | **jmk-autoplay** | 0.3.3 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
 | **jmk-autoplay-hud** | 0.1.1 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud) |
 
@@ -16,7 +16,7 @@
 
 - 국내형 Gen5W 헤드유닛 (기준: 아이오닉 5, 펌웨어 NEEV.KOR.0000.V039.001.260902). 다른 차종은 [지원 차종](#지원-차종) 참고
 - **NEMESIS** 루팅
-- Wi-Fi Driver를 쓰려면: **RTL88x2BU 칩 USB 동글** (확인된 제품: ipTIME A3000MINI)
+- Wi-Fi Driver를 쓰려면: **RTL88x2BU 칩 USB 동글** (확인된 제품: ipTIME A3000MINI). AX900급 **RTL8851BU 칩 동글**(ipTIME AX900MINI 등)은 1.4.0부터 시험 지원
 
 ## 지원 차종
 
@@ -63,6 +63,7 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 - 차 핫스팟이 순정 그대로 동작해서, 순정 Wi-Fi를 쓰는 무선 안드로이드 오토·카플레이 프로그램을 수정 없이 쓸 수 있습니다.
 - 동시에 저장된 폰 핫스팟에 자동으로 붙어 헤드유닛에 인터넷을 줍니다(업데이트 확인용).
 - 처음 설정: 설치하고 재부팅한 뒤 런처 메뉴 → Wi-Fi Driver → 주변 찾기에서 폰 핫스팟을 고르고 비밀번호를 넣습니다.
+- AX900급 동글(RTL8851BU, 시험 지원): 동글을 꽂은 채로 헤드유닛을 켜면 자동으로 잡습니다(처음에 CD로 보이는 동글도 자동 전환). 켠 뒤에 꽂았으면 재부팅하세요. 이 드라이버를 올린 뒤 3분 안에 헤드유닛이 다시 시작되는 일이 두 번 이어지면 자동으로 꺼집니다.
 - 순정 Wi-Fi 모듈이 있는 차는 설치 전에 순정 Wi-Fi를 켜 두세요. 그러면 폰 핫스팟 접속 전용으로 설치되고, Wi-Fi Driver 화면에서 접속 방법(동글 / 순정 Wi-Fi / 순정 동시(시험))을 고릅니다.
 - 런처 메뉴가 먼저 설치되어 있어야 합니다. 다른 USB Wi-Fi 패키지가 있으면 먼저 제거하세요.
 - 제거하면 바꾼 시스템 파일을 원래대로 되돌립니다(재부팅하면 끝납니다).
@@ -103,6 +104,6 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 
 ## 라이선스
 
-- `driver/` : GPL-2.0 (Realtek RTL88x2BU 드라이버와 우리 패치). 빌드 방법은 `driver/README.md`
+- `driver/` : GPL-2.0 (Realtek RTL88x2BU · RTL8851BU 드라이버와 우리 패치). 빌드 방법은 `driver/README.md`
 - HUD · 계기판 길안내: AGPL-3.0, 소스 [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud)
 - 그 밖의 패키지(바이너리): [LICENSE.md](LICENSE.md)

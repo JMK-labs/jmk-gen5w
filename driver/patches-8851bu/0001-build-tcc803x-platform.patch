@@ -1,0 +1,120 @@
+jmk-wifi 8851bu patch 0001: build for the Telechips tcc803x head unit
+
+Why:
+  Upstream builds for the PC it runs on (CONFIG_PLATFORM_I386_PC). We cross-build for
+  the Hyundai/Kia Gen5W AVNT head unit (ARMv7, Linux 3.18.24-tcc) with gcc 4.7.
+
+What changes:
+  - Makefile: CONFIG_PLATFORM_I386_PC = n, new CONFIG_PLATFORM_JMK_TCC803X = y. Its
+    settings are in the new platform/jmk_tcc803x.mk (upstream's Makefile includes
+    platform/*.mk):
+      * little endian, cfg80211 interface, cfg80211 station events, radio work for
+        remain-on-channel (as the PC platform)
+      * CONFIG_FORCE_SW_CHANNEL_PLAN: rtw_country_code=KR is honoured even when the
+        dongle's efuse marks its channel plan as fixed
+      * ARCH=arm, KSRC/CROSS_COMPILE/KVER defaults (inner-build.sh passes the real ones)
+      * platform/platform_ops.o (no-op power on/off hooks that usb_intf.c calls)
+  - CONFIG_CONCURRENT_MODE stays y (upstream default): one radio, two netdevs.
+  - CONFIG_MP_INCLUDED = n: no manufacturing/test mode (ioctl_mp.c, ioctl_efuse.c,
+    rtw_mp.c, the PHL test suite); not needed on the car.
+  - CONFIG_LOAD_PHY_PARA_FROM_FILE = n: use the PHY/RF tables compiled into the driver
+    instead of /lib/firmware/ files (powertable/) that do not exist on the car. The
+    firmware is built in as well (CONFIG_FILE_FWIMG = n, upstream default).
+  - "make modules" no longer repeats EXTRA_CFLAGS in KCFLAGS on our platform: upstream
+    does that for Linux 6.15+, which dropped EXTRA_CFLAGS. Linux 3.18 takes them through
+    ccflags-y, and the second copy lost the quotes of the string defines, so every file
+    warned "EFUSE_MAP_PATH redefined" and the like.
+  Interface names (ifname default wlan%d, if2name default ap%d), NAPI and GRO stay as
+  upstream; the daemon chooses them with module parameters at insmod time.
+
+diff --git a/Makefile b/Makefile
+index 34144ea..cbfa584 100644
+--- a/Makefile
++++ b/Makefile
+@@ -58,7 +58,9 @@ CONFIG_PCI_HCI = n
+ CONFIG_SDIO_HCI = n
+ CONFIG_GSPI_HCI = n
+ ########################## Features ###########################
+-CONFIG_MP_INCLUDED = y
++# JMK: no MP (manufacturing/test) mode; ioctl_mp, rtw_mp and the PHL test suite are not
++# needed on the car
++CONFIG_MP_INCLUDED = n
+ CONFIG_CONCURRENT_MODE = y
+ CONFIG_POWER_SAVE = y
+ CONFIG_BTC = y
+@@ -66,7 +68,8 @@ CONFIG_WAPI_SUPPORT = n
+ CONFIG_EFUSE_CONFIG_FILE = y
+ CONFIG_EXT_CLK = n
+ CONFIG_TRAFFIC_PROTECT = n
+-CONFIG_LOAD_PHY_PARA_FROM_FILE = y
++# JMK: PHY tables are built in; do not read /lib/firmware at run time
++CONFIG_LOAD_PHY_PARA_FROM_FILE = n
+ # Remember to set CONFIG_FILE_FWIMG when set CONFIG_FILE_FWIMG to y,
+ # or driver will fail on ifconfig up because can't find firmware file
+ CONFIG_FILE_FWIMG = n
+@@ -226,7 +229,9 @@ CONFIG_LAYER2_ROAMING = y
+ CONFIG_ROAMING_FLAG = 0x3
+ 
+ ###################### Platform Related #######################
+-CONFIG_PLATFORM_I386_PC = y
++CONFIG_PLATFORM_I386_PC = n
++# JMK: Telechips tcc803x head unit (Gen5W AVNT), Linux 3.18.24-tcc; platform/jmk_tcc803x.mk
++CONFIG_PLATFORM_JMK_TCC803X = y
+ CONFIG_PLATFORM_RTL8198D = n
+ CONFIG_PLATFORM_ANDROID_X86 = n
+ CONFIG_PLATFORM_ANDROID_INTEL_X86 = n
+@@ -828,6 +833,16 @@ else
+ export CONFIG_RTL8851BU = m
+ ccflags-y = $(EXTRA_CFLAGS)
+ 
++# JMK: upstream passes EXTRA_CFLAGS to kbuild a second time through KCFLAGS (for Linux
++# 6.15 and later, which dropped EXTRA_CFLAGS). Linux 3.18 already takes them through
++# ccflags-y above, and the second copy loses the quotes of the string defines
++# (EFUSE_MAP_PATH, WIFIMAC_PATH, CONFIG_BR_EXT_BRNAME): "redefined" warnings in every file.
++ifeq ($(CONFIG_PLATFORM_JMK_TCC803X), y)
++MODULES_KCFLAGS :=
++else
++MODULES_KCFLAGS = $(EXTRA_CFLAGS)
++endif
++
+ all: modules
+ 
+ modules:
+@@ -838,7 +853,7 @@ modules:
+ 		CROSS_COMPILE=$(CROSS_COMPILE) \
+ 		-C $(KSRC) \
+ 		M=$(M) \
+-		KCFLAGS="$(KCFLAGS) $(EXTRA_CFLAGS)" \
++		KCFLAGS="$(KCFLAGS) $(MODULES_KCFLAGS)" \
+ 		modules
+ 
+ #	$(CC_STRIP) --strip-unneeded ${OUT_DIR}/$(M)/$(MODULE_NAME).ko
+diff --git a/platform/jmk_tcc803x.mk b/platform/jmk_tcc803x.mk
+new file mode 100644
+index 0000000..f6330fd
+--- /dev/null
++++ b/platform/jmk_tcc803x.mk
+@@ -0,0 +1,23 @@
++# JMK: Telechips tcc803x (Hyundai/Kia Gen5W AVNT head unit), ARMv7, Linux 3.18.24-tcc,
++# built with the AOSP arm-eabi-4.7 toolchain. inner-build.sh passes ARCH, KSRC,
++# CROSS_COMPILE and KVER on the command line; the values here are only defaults.
++ifeq ($(CONFIG_PLATFORM_JMK_TCC803X), y)
++EXTRA_CFLAGS += -DCONFIG_LITTLE_ENDIAN
++EXTRA_CFLAGS += -DCONFIG_IOCTL_CFG80211 -DRTW_USE_CFG80211_STA_EVENT
++# As the PC platform: remain-on-channel requests go through the radio work queue.
++EXTRA_CFLAGS += -DCONFIG_RADIO_WORK
++# One radio, two netdevs (hotspot and client at once): upstream's Makefile already has
++# CONFIG_CONCURRENT_MODE = y, which adds -DCONFIG_CONCURRENT_MODE; inner-build.sh checks it.
++# rtw_country_code= / rtw_channel_plan= always win over a channel plan the efuse marks
++# as fixed.
++EXTRA_CFLAGS += -DCONFIG_FORCE_SW_CHANNEL_PLAN
++ARCH := arm
++CROSS_COMPILE ?= arm-eabi-
++KVER ?= 3.18.24-tcc
++KSRC ?= /lib/modules/$(KVER)/build
++MODDESTDIR := /lib/modules/$(KVER)/kernel/drivers/net/wireless/
++INSTALL_PREFIX :=
++# usb_intf.c calls platform_wifi_power_on(); platform_ops.c has the no-op versions
++# (as on the PC platform).
++_PLATFORM_FILES += platform/platform_ops.o
++endif

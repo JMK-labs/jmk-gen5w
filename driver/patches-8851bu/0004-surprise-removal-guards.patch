@@ -1,0 +1,70 @@
+jmk-wifi 8851bu patch 0004: surprise-removal guards
+
+Why: on the car an oops in interrupt context or a soft lockup panics the head unit, which
+then reboots. 88x2bu's patch 0003 has the long list; this driver's phl layer already does
+most of it (the tx/rx/event tasklets are killed when their handlers are deregistered,
+dev_set_surprise_removed() tells the phl, which then drops commands, and the scan request
+is handed back under its lock). Three places remain:
+
+  usb_intf.c, rtw_dev_remove(): upstream unregisters the netdevs before it marks the device
+    removed, so on an unplug their stop paths (ndo_stop, cfg80211 stop_ap / disconnect)
+    send register I/O and H2C commands to a device that is gone. When the usb core has
+    marked the device NOTATTACHED, it is marked removed first. rmmod and sysfs unbind
+    (device still attached) keep upstream's order.
+  usb_ops_linux.c, usbctrl_vendorreq(): after -ENODEV / -ESHUTDOWN marked the device
+    removed the loop still retried up to 10 times; it stops once RTW_CANNOT_IO.
+  usb_ops_linux.c, rtw_usb_write_port_complete(): no new tx round (rtw_phl_tx_req_notify)
+    for a removed device, so a late URB completion does not schedule the tx handler around
+    the time the remove path deregisters it.
+
+diff --git a/os_dep/linux/usb_intf.c b/os_dep/linux/usb_intf.c
+index ac1d4fe..d0564c6 100755
+--- a/os_dep/linux/usb_intf.c
++++ b/os_dep/linux/usb_intf.c
+@@ -1053,6 +1053,16 @@ static void rtw_dev_remove(struct usb_interface *pusb_intf)
+ 
+ 	dvobj->processing_dev_remove = _TRUE;
+ 
++	/*
++	 * jmk-wifi: on an unplug the usb core has already marked the device
++	 * NOTATTACHED. Say so before the netdevs go: their stop paths (ndo_stop,
++	 * cfg80211 stop_ap / disconnect) then skip register I/O and H2C commands
++	 * (RTW_CANNOT_IO, the phl's terminate notice) instead of retrying each one
++	 * against a device that is gone. rmmod and sysfs unbind keep upstream's order.
++	 */
++	if (interface_to_usbdev(pusb_intf)->state == USB_STATE_NOTATTACHED)
++		dev_set_surprise_removed(dvobj);
++
+ 	/* TODO: use rtw_os_ndevs_deinit instead at the first stage of driver's dev deinit function */
+ 	rtw_os_ndevs_unregister(dvobj);
+ 
+diff --git a/os_dep/linux/usb_ops_linux.c b/os_dep/linux/usb_ops_linux.c
+index 3f57597..5033a02 100755
+--- a/os_dep/linux/usb_ops_linux.c
++++ b/os_dep/linux/usb_ops_linux.c
+@@ -139,6 +139,10 @@ int usbctrl_vendorreq(struct dvobj_priv *pdvobjpriv, u8 request, u16 value, u16
+ 				break;
+ 			}
+ 
++			/* jmk-wifi: the device is gone (-ENODEV / -ESHUTDOWN above): no more retries */
++			if (RTW_CANNOT_IO(pdvobjpriv))
++				break;
++
+ 		}
+ 
+ 		if (status == len)
+@@ -344,7 +348,13 @@ check_completion:
+ 	rtw_phl_recycle_tx_buf(pdvobj->phl, litexmitbuf->phl_buf_ptr);
+ 	rtw_free_litedatabuf(&pdvobj->litexmitbuf_q, litexmitbuf);
+ 	rtw_free_dataurb(&pdvobj->xmit_urb_q, xmiturb);
+-	rtw_phl_tx_req_notify(pdvobj->phl);
++	/*
++	 * jmk-wifi: no new tx round for a removed device. A completion that comes in
++	 * while the remove path tears the phl down would otherwise schedule its tx
++	 * handler again around the time that handler is deregistered.
++	 */
++	if (!dev_is_surprise_removed(pdvobj))
++		rtw_phl_tx_req_notify(pdvobj->phl);
+ 
+ }
+ 

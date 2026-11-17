@@ -151,10 +151,10 @@
  "expiry": {
   "default_days": 183,
   "min_version": {
-   "jmk-ambient-sound": "2.5.10",
+   "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
-   "jmk-map-menu": "2.3.11",
-   "jmk-wifi": "1.3.8"
+   "jmk-map-menu": "2.3.12",
+   "jmk-wifi": "1.4.0"
   },
   "pull": {
    "jmk-ambient-sound": {
@@ -271,17 +271,17 @@
    "version": "2.3.12"
   },
   "jmk-wifi": {
-   "built": "2026-11-16",
-   "file": "update/files/jmk-wifi-1.3.8.zip",
+   "built": "2026-11-17",
+   "file": "update/files/jmk-wifi-1.4.0.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "a21676bf0f9666bb1fc14594f6de3c41a4fcc63202e32f7f84676b12d8f0875b",
-   "size": 1026083,
-   "version": "1.3.8"
+   "sha256": "bbcb4d4709ab00a75a6516d6852e26bd9f6b4aec9077217543ef3b5e255d9641",
+   "size": 2973425,
+   "version": "1.4.0"
   }
  },
  "published": "2026-11-17",
- "seq": 2026111717,
+ "seq": 2026111718,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

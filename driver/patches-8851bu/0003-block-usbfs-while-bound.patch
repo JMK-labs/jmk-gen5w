@@ -1,0 +1,132 @@
+jmk-wifi 8851bu patch 0003: block usbfs opens of the dongle while the driver is bound
+
+Why: the same as 88x2bu's patch 0002. The head unit's stock Android Auto service opens every
+new USB device through usbfs and sends Android Open Accessory vendor requests (51, 52, 53);
+sent to the Wi-Fi dongle they fail, and about 30 s later the stock UI shows an "unsupported
+media device" popup. While this driver owns the dongle nobody else should talk to it.
+
+How: at probe, first thing, bit 0x00080000 (bit 19 of the minor) goes into the usb_device's
+dev.devt, so usbdev_lookup_by_devt() finds no device for the node and open() fails with
+-ENODEV. It is cleared again on every probe failure and first thing in rtw_dev_remove()
+(before device_del() of the usb_device removes /sys/dev/char/<major>:<minor> by devt).
+The flag lives in USB_DATA (usbfs_hidden), which this driver's dvobj carries.
+
+Module parameter: rtw_usbfs_block=1 (default) blocks; 0 leaves usbfs alone.
+dmesg: "usbfs access to this device blocked while bound" / "... restored".
+
+diff --git a/include/drv_types_usb.h b/include/drv_types_usb.h
+index 3fe3bd1..5bbeaec 100644
+--- a/include/drv_types_usb.h
++++ b/include/drv_types_usb.h
+@@ -46,6 +46,7 @@ typedef struct usb_data {
+ #ifdef PLATFORM_LINUX
+ 	struct usb_interface *pusbintf;
+ 	struct usb_device *pusbdev;
++	u8 usbfs_hidden; /* jmk-wifi: we set RTW_USBFS_HIDE_BIT in pusbdev's devt */
+ #endif/* PLATFORM_LINUX */
+ } USB_DATA, *PUSB_DATA;
+ #endif /*__DRV_TYPES_USB_H__*/
+diff --git a/os_dep/linux/usb_intf.c b/os_dep/linux/usb_intf.c
+index 8319b76..ac1d4fe 100755
+--- a/os_dep/linux/usb_intf.c
++++ b/os_dep/linux/usb_intf.c
+@@ -41,6 +41,55 @@ static int rtw_dev_resume(struct usb_interface *intf);
+ static int rtw_dev_probe(struct usb_interface *pusb_intf, const struct usb_device_id *pdid);
+ static void rtw_dev_remove(struct usb_interface *pusb_intf);
+ 
++/*
++ * jmk-wifi: keep usbfs away from a dongle this driver owns.
++ *
++ * The head unit's stock Android Auto service opens every new USB device through
++ * usbfs (/dev/bus/usb/BBB/DDD) and sends it Android Open Accessory vendor requests
++ * (51, 52, 53). usbdev_open() in drivers/usb/core/devio.c finds the usb_device by
++ * comparing each device's dev.devt with the node's i_rdev (usbdev_lookup_by_devt).
++ * While RTW_USBFS_HIDE_BIT is set in our device's devt nothing matches, so the open
++ * fails with -ENODEV before any request can be sent.
++ *
++ * - The bit is bit 19 of the minor (MINORBITS is 20). usbfs minors are
++ *   (bus - 1) * 128 + (devnum - 1) < 8192, so no real node has it, and MAJOR()
++ *   stays USB_DEVICE_MAJOR.
++ * - devt must be back to normal before device_del() of the usb_device, which
++ *   removes /sys/dev/char/<major>:<minor> by the current devt. On unplug,
++ *   usb_disconnect() calls usb_disable_device() (which unbinds us) before
++ *   device_del(); rmmod and sysfs unbind also go through rtw_dev_remove(). The bit
++ *   is cleared first thing there, and on every probe failure.
++ * - An fd opened before probe set the bit stays usable; that is why the daemon
++ *   loads this module before Android starts its USB host service.
++ */
++#define RTW_USBFS_HIDE_BIT	0x00080000
++
++static int rtw_usbfs_block = 1;
++module_param(rtw_usbfs_block, int, 0644);
++MODULE_PARM_DESC(rtw_usbfs_block, "Refuse usbfs opens of a bound dongle (blocks AOA probing): 0 off, 1 on");
++
++static u8 rtw_usbfs_hide(struct usb_interface *intf)
++{
++	struct usb_device *udev = interface_to_usbdev(intf);
++
++	if (!rtw_usbfs_block)
++		return _FALSE;
++	if (MAJOR(udev->dev.devt) != USB_DEVICE_MAJOR || (udev->dev.devt & RTW_USBFS_HIDE_BIT))
++		return _FALSE;
++
++	udev->dev.devt |= RTW_USBFS_HIDE_BIT;
++	dev_info(&intf->dev, "usbfs access to this device blocked while bound\n");
++	return _TRUE;
++}
++
++static void rtw_usbfs_unhide(struct usb_interface *intf)
++{
++	struct usb_device *udev = interface_to_usbdev(intf);
++
++	udev->dev.devt &= ~RTW_USBFS_HIDE_BIT;
++	dev_info(&intf->dev, "usbfs access to this device restored\n");
++}
++
+ static void rtw_dev_shutdown(
+ #if (LINUX_VERSION_CODE >= KERNEL_VERSION(6, 11, 0))
+ 		struct usb_interface *usb_intf
+@@ -871,9 +920,13 @@ static int rtw_dev_probe(struct usb_interface *pusb_intf, const struct usb_devic
+ {
+ 	_adapter *padapter = NULL;
+ 	struct dvobj_priv *dvobj;
++	u8 usbfs_hidden;
+ 
+ 	RTW_INFO("+%s\n", __func__);
+ 
++	/* jmk-wifi: first, so the window in which usbfs can still open the device is short */
++	usbfs_hidden = rtw_usbfs_hide(pusb_intf);
++
+ 	/* step 0. */
+ 	process_spec_devid(pdid);
+ 
+@@ -883,6 +936,7 @@ static int rtw_dev_probe(struct usb_interface *pusb_intf, const struct usb_devic
+ 		RTW_ERR("usb_dvobj_init Failed!\n");
+ 		goto exit;
+ 	}
++	dvobj_to_usb(dvobj)->usbfs_hidden = usbfs_hidden;
+ 
+ 	if (devobj_trx_resource_init(dvobj) == _FAIL)
+ 		goto free_dvobj;
+@@ -972,6 +1026,8 @@ free_trx_reso:
+ free_dvobj:
+ 	usb_dvobj_deinit(pusb_intf);
+ exit:
++	if (usbfs_hidden)
++		rtw_usbfs_unhide(pusb_intf);
+ 	return -ENODEV;
+ }
+ 
+@@ -989,6 +1045,12 @@ static void rtw_dev_remove(struct usb_interface *pusb_intf)
+ 
+ 	RTW_INFO("+%s\n", __func__);
+ 
++	/* jmk-wifi: undo the usbfs block before anything on the way out can fail */
++	if (dvobj_to_usb(dvobj)->usbfs_hidden) {
++		dvobj_to_usb(dvobj)->usbfs_hidden = _FALSE;
++		rtw_usbfs_unhide(pusb_intf);
++	}
++
+ 	dvobj->processing_dev_remove = _TRUE;
+ 
+ 	/* TODO: use rtw_os_ndevs_deinit instead at the first stage of driver's dev deinit function */
