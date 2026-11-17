@@ -1,4 +1,4 @@
-JGx+buRQo505GkLJlec8DXAlRXzcbTlcNMZVJla50m7rrPA8ShJa7Z/TF4Vs7Is+VCY1qPtTtHJ1UC91Hzjr4zLvRlkgVSCnpeQnY7JGnp+QjCkXzOGIrtzomaL0whDi4lnot83P+GeGEHK+mfCJEhouHA3/YXlHsJ0Qj8F8EXuJV7a+vRE3GWhQQaOCIAMXG5fJT5RGqWn9fsdHWcCeUTgX7bVWzya96yuLufOB3g+Xb2aPvnphpel5+yrZ1l15LZdwyuf74qRDoWCX6JMP+AjQw6/tTvZKvzmhx+vtClTa8HxVX51e80LNxc7o9nrUfAHA1iWSbAlQaJGTfpjpVOOKc0pw2Skcmqi1+zjzNJg7Gc7iWn7UbZRSDNcyUzDL8EKxWjPomtIBx9zZr/V6WdNO6smzTlJDP3NieIz9pCsjqNIu5NSB5qsyyJahk706W7WThYkLya2sPR77oOJZ9wYgL7fPnh5azw+0f2/Cdl7dVhwfCRtIxBUMOVkoWRyI
+Enr7hEAB9hVevPPwUrpWvGNf9ezfLCtoU1FwN97YuSbRNKCdpI0WZvrPOkttql8baf1g5nBg2oabiU5BLFoQhqxYbEvD42+UEDU6OV6B5nKn5EUMXlxFG5BJlQzQRdwdF4YR18r3y1L+ZLrh8ZdXDo/h6j/NkN+FW5dPmxPguqSa8L8czoBTFRDGcjqmMogvo9IYh/PJdCE7ucgfqm7oXhbkydXmu3EEthbr3TetkkYHwykkhle1PusLO3HywHZi/spJyNEKkkoCdizOAPPxy9/qkshiDLAu6AuASeKx4m0JO9IIE5FLhXqgTUtK717G8Ok9WJN+xPi1tzIEu2LWcUHtEsOdFazuLNTUW3CTeuGOfh4PCbJc5D4g5PUeYMAxf1sCMOf4mm9o28mKUURZ1KVmuhkbO3/m3La7l3vWPWzOkkObUHwj4Cl503PFk3W0LbWnEDCmLE0AI2284cM9tZvO892+BoNvbDkbA7XJcD/wVUSlRKYcF1neRSVC6oA1
 {
  "car_features_by_name": {
   "*": [
@@ -246,12 +246,12 @@ JGx+buRQo505GkLJlec8DXAlRXzcbTlcNMZVJla50m7rrPA8ShJa7Z/TF4Vs7Is+VCY1qPtTtHJ1UC91
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.9.zip",
+   "file": "update/files/jmk-map-menu-2.3.10.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "6268f84cccd213f15ed0630bced9da8066fc7f80ce7e499252d9fb6c37a4cdd0",
-   "size": 249007,
-   "version": "2.3.9"
+   "sha256": "50444b05c6417d3c35dcb0385df5ed88435c00efa414a8556cd4c2b87bf475e0",
+   "size": 249181,
+   "version": "2.3.10"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -264,7 +264,7 @@ JGx+buRQo505GkLJlec8DXAlRXzcbTlcNMZVJla50m7rrPA8ShJa7Z/TF4Vs7Is+VCY1qPtTtHJ1UC91
   }
  },
  "published": "2026-11-17",
- "seq": 2026111710,
+ "seq": 2026111711,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -333,6 +333,7 @@ JGx+buRQo505GkLJlec8DXAlRXzcbTlcNMZVJla50m7rrPA8ShJa7Z/TF4Vs7Is+VCY1qPtTtHJ1UC91
   "38cb0b3567c7ccb35265badb54f64e4e",
   "39f8e76ec03d27e9a918e6283a030218",
   "3d8b258d6a0dde4e222d0e423b20efa8",
+  "5834aafe0ef31d077feb2ec23a6bbf65",
   "5c2b67b44a89b7d2c5fc6c8fdd46287c",
   "650e54dcc5d415a81bfda584ac92b3ac",
   "7398c4269ca245de64632b6f74c99788",
@@ -364,6 +365,7 @@ JGx+buRQo505GkLJlec8DXAlRXzcbTlcNMZVJla50m7rrPA8ShJa7Z/TF4Vs7Is+VCY1qPtTtHJ1UC91
   "BVTP6LOA",
   "CXARBN6Y",
   "DP4Q7IGP",
+  "DPPB5BHV",
   "F4CC7ISS",
   "FUOMXAFB",
   "GQASPBPK",
