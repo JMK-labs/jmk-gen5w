@@ -1,4 +1,4 @@
-JE/zQNEZ2TpVOyP9M5tpXIjdGsILnj1HYh1Mn1XcUb+XUD1eLdwxT9ctz5DWsYMSdUUbpGNMG1Gs0rnRtPdrBq/W6nXt+ME1r62kOqLxGjrThxRqJTQYYWHGG/K1iQgZ3V6AQEUdBNrxFexMr/n2pufv4j900f6z8LhP0P7B3y8dtvf0PDwnsdIPpPPiWs/2FR5SzLJ+BlfYhnaKMOo+mXwRGJebyjOTLH/p1uNZR30htCgtP/mi4548W1w6zM36sml2bs0HBcAWmHYbr/hdD4x7tRWb0oOrsGcELNZcTqOm6WnMF3J1II7Z1sn5iYIx57Uxe8CEVWImUabjAYL7Kb8ZNhZyUWdlsU9trFUi0AwfVTTDqykMI7ooYNWkMC9yH/UndkwG/JxTEBuR0P0aFYO0ltXAybdWGrqDQKKkH/L2leVJYjmOw1HJpm3OlNcLzfsMtlUPI7noa6D28YYaxmi+B06HH6qyTPVL4N79/E3HgKD61eQWsDzZX7OS1qtL
+fG+TJ4uyldu3l42zvR9PaqPKgiOBAxV+eE/OjZWzCVhdK1kvqI3LENcx7UdcR5SkO4iHGjpOOofeDg0G9VfJ/1pcgMSFpiZMsFo6LunpxpqDRVNFzofr69BGJZOEtIMeuJSMcMLBOqRoiidbtdKDjxZY5B2NMJVsXCTeJte99+y2Akr7OvEAhvzuen9k9TPQsnzNzcmaRa1tiVUW3Wysa7Dc1GAdSwJxMvP4SIbtVJxbGCE0xee6K7bJ0wvFQItbojEmowQ9DQltEPbdSaYoAPNodSdAU9qPpQD+2hb0VgBz4fCCCqGqO069zgnAT5yAnvTuRhS+o51Wa2WxJAKEXgq5u/VG7gq/WlrzUFKy052ij6BydDV4wyI4Rt6kg4uslGW/zhSf8fYj98331vq2xi9E4jMRRYHY0+6y2c629qzfptB8ZNThJPGwrhSCktw2ZdPKwfMltI3JRV/BjJtRS9Ci/EQ32zA/syfwAFrJ33tL81ol4aiUdzXsPtX2jCM5
 {
  "car_features_by_name": {
   "AEPEEV.USA.0000.V015.012.260507": [
@@ -211,12 +211,12 @@ JE/zQNEZ2TpVOyP9M5tpXIjdGsILnj1HYh1Mn1XcUb+XUD1eLdwxT9ctz5DWsYMSdUUbpGNMG1Gs0rnR
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-ambient-sound-2.5.10.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.11.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "f158a577f1dcade95cfbde18ec5ddc2656f4c5462cc0becae83054303c46f8d0",
-   "size": 130373,
-   "version": "2.5.10"
+   "sha256": "5e3cc3e97702e6988962d2af9a5d70397e0ec9ce621acd2b0f1e3753c7c1a1ba",
+   "size": 130292,
+   "version": "2.5.11"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -238,12 +238,12 @@ JE/zQNEZ2TpVOyP9M5tpXIjdGsILnj1HYh1Mn1XcUb+XUD1eLdwxT9ctz5DWsYMSdUUbpGNMG1Gs0rnR
   },
   "jmk-map-menu": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-map-menu-2.3.8.zip",
+   "file": "update/files/jmk-map-menu-2.3.9.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "ee15b096d4bd7f5d872619f8c062bb22524982d5f051a86dfff3d675c28928b8",
-   "size": 237850,
-   "version": "2.3.8"
+   "sha256": "6268f84cccd213f15ed0630bced9da8066fc7f80ce7e499252d9fb6c37a4cdd0",
+   "size": 249007,
+   "version": "2.3.9"
   },
   "jmk-wifi": {
    "built": "2026-11-16",
@@ -256,7 +256,7 @@ JE/zQNEZ2TpVOyP9M5tpXIjdGsILnj1HYh1Mn1XcUb+XUD1eLdwxT9ctz5DWsYMSdUUbpGNMG1Gs0rnR
   }
  },
  "published": "2026-11-17",
- "seq": 2026111707,
+ "seq": 2026111708,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
