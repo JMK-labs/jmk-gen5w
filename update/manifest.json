@@ -123,6 +123,11 @@
    "ambient",
    "camp",
    "consent"
+  ],
+  "TM23.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
   ]
  },
  "expiry": {
@@ -258,7 +263,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111709,
+ "seq": 2026111710,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
