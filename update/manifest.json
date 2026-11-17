@@ -110,6 +110,11 @@
    "ambient",
    "camp",
    "consent"
+  ],
+  "SG2HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
   ]
  },
  "expiry": {
@@ -245,7 +250,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111704,
+ "seq": 2026111705,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -261,6 +266,10 @@
    "ap",
    "cp",
    "shortcuts",
+   "wp"
+  ],
+  "MJNHUNFM": [
+   "pa",
    "wp"
   ],
   "WFAJ6EKE": [
@@ -293,6 +302,7 @@
   "OXXLAGBA",
   "P7WRSDC3",
   "PSEIQE3X",
+  "Q4BWO2OV",
   "QGWWKPPK",
   "QZSAT4ZY",
   "RLYT4NJF",

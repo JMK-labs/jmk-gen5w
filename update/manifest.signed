@@ -1,4 +1,4 @@
-EMWFv6KZTlZzcMSZ/YTjhkKdmTWcYCR9vzsHCk7KKnm6JHZloLFFAZPWqn0nA4tg5DeAwB6xIZf3JSg5OcH++QOAz4K+SWXNksupU5fPX9GD4aB5Cb+70KWO8dwaWcciiPxuMylUi4T24xIsZZifHMWRJfnGWXANMr3it+C8Ydu/9bY2QSA2zf2WuJs7t7aNNddqlkMoCMsgYCTh0womaSXEQ08ZhnlKC6epUBCzIHQb9OdQRnBH80rfZVd/TdJ8E5icF22h3zfyqBnGk9Y6pXt/pLjezhBIILktLR+uIgZbxoRkspM1cUDKdwl/bWHAGJI2K8YxgYBJRLxW95e/jgOaxuhLRbVAMmztyrgl/A/8lBj/1qVtYUqUhWI0Tg1T35OEoTtAnIoGCCPRGePtWZ8TQTXOOhZTeFuFFZ9suBLoQvyKiwcAlDYkiA1o7UUJJUOI80YrXihWELROMdZ9zyTos98dpY2on0tqnRjFGCPft8cQH7/fD9NX5NdBAAHD
+LYhppl6iXY7Ab/FkYJ7nrGQeYbfII1qzSLhDS7QppPgp5Vg76HGwa7IxmD2m2gNZFhKHGJKsWf8QNYE7GpEJMsWbaw38W+AE8gMBNDa4ugI/ILzmwey+cQ58GC5GCSPfwklCA/cTsBuPTbFRL0isXjeVP5Mbs9vTUDZXRg2InMa+phrNHhthHkAszsffWuL+YrJO+ZRF5vT10IpOaVCe+JRiENLB5Led2J5/QeIHcOd/mA7dg41kpbYuLvrOb/KhiIP4sF3LQffkspB7eZ8ESwrNvWVKoHGo0UXoraV/egiHWjSo6Jfkg5+NWYglbHJd19E8aVbb62lnShAck95kxt6zQ+zGyGQxnZECVomXCTk/6Kqs4lnrPqhs3Ojee8FZl28EftQyCwihLz2wxCdhfmwh8G6eZAZjZZRJ1raOUjwISm37tDSMsb4EKXbmth2eqGM96fyWHsZOOYZFaYnHfEidabrOgscL5Q/7MxeJ8zkhBgycZ8mCBloNbDZRA3dL
 {
  "car_features_by_name": {
   "CEEV.CAN.0000.V015.011.260206": [
@@ -108,6 +108,11 @@ EMWFv6KZTlZzcMSZ/YTjhkKdmTWcYCR9vzsHCk7KKnm6JHZloLFFAZPWqn0nA4tg5DeAwB6xIZf3JSg5
    "consent"
   ],
   "NX4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SG2HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -246,7 +251,7 @@ EMWFv6KZTlZzcMSZ/YTjhkKdmTWcYCR9vzsHCk7KKnm6JHZloLFFAZPWqn0nA4tg5DeAwB6xIZf3JSg5
   }
  },
  "published": "2026-11-17",
- "seq": 2026111704,
+ "seq": 2026111705,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -262,6 +267,10 @@ EMWFv6KZTlZzcMSZ/YTjhkKdmTWcYCR9vzsHCk7KKnm6JHZloLFFAZPWqn0nA4tg5DeAwB6xIZf3JSg5
    "ap",
    "cp",
    "shortcuts",
+   "wp"
+  ],
+  "MJNHUNFM": [
+   "pa",
    "wp"
   ],
   "WFAJ6EKE": [
@@ -294,6 +303,7 @@ EMWFv6KZTlZzcMSZ/YTjhkKdmTWcYCR9vzsHCk7KKnm6JHZloLFFAZPWqn0nA4tg5DeAwB6xIZf3JSg5
   "OXXLAGBA",
   "P7WRSDC3",
   "PSEIQE3X",
+  "Q4BWO2OV",
   "QGWWKPPK",
   "QZSAT4ZY",
   "RLYT4NJF",
