@@ -1,5 +1,10 @@
 {
  "car_features_by_name": {
+  "AEPEEV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CEEV.CAN.0000.V015.011.260206": [
    "ambient",
    "camp",
@@ -250,7 +255,7 @@
   }
  },
  "published": "2026-11-17",
- "seq": 2026111705,
+ "seq": 2026111706,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -259,6 +264,10 @@
   "NWQVMALR"
  ],
  "supporter_grants": {
+  "*": [
+   "hud",
+   "shortcuts"
+  ],
   "7GUU7EVZ": [
    "wp"
   ],

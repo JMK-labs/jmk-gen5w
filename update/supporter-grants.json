@@ -1,4 +1,8 @@
 {
+ "*": [
+  "hud",
+  "shortcuts"
+ ],
  "7GUU7EVZ": [
   "wp"
  ],
