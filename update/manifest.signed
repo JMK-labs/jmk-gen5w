@@ -1,4 +1,4 @@
-tuCiSArbey7OyN8ibCsIn2MLuqwexXtXlDm++8iM9JQaqe5h40VZ8kdwhU2eZFqKAqxDIE7gqRYI6Yk6a0gGr1FyVjYz1W5dEyKWmTmNCmCBhZTSdwiBjtRhh2Y3bHFCC7HrOmpTRvUgyS+hYvS9EY8+eHX7etdwwjL3EdfZy4+y1y/Zm3iQOfSDYKFWX1ubeLBl7BHDUaX36KDkxyWoAFmWgQaBFEH+kmvecxgopalTmtUOENcZbMCgg7hnqYpq10TS43a9tn0m52Jd024ujzqxrWoG9FGBarPk8it+dmiVSk7CNAVQ9X4Lexk4TB1wTTzwUV7omrrVnymaIX0Jdts57UBYSkOeQJ5l/fYXGBz9sz+U8aRWkgvWCqAhIjdkza/3xpv6EWpKfRBee/nbDyE6egsB8kalOAtF0KTJNk3ky4B0dPMpNsY+D5sJTActM70e3zX369GtBtLZyXhdDtZv4xg/4646pc/QOXGzICXgeazPCwSm1Zae8OBl1+JZ
+S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWBH4Cfhh+AXIurl7M+B3cxFW+CMGs0YR2HaGtsEUwHJuM6TQAENp8RC98LZPRzJFiXH3kZvAIxMR/6dwUH+DVfOseq1XJ3qgD3txcsD7H0rahDsDy0vW2gEqrsdAkLg/2T/EDm0GKgRXh6jiSiILjAVoit/0dSuZr9TdS37HwKTxFluKQ8ZNkGxV8JyCiZQHd5zPclFsdWuT080121dpJNIUy/ZcshPO1L3VtrT0mI3xJAMM7aY6t4avZasJ8KfcSq/zKdHYEe+1bXlLiKwHS4u0nRLSq5SWgGetmYFHIavag5JcuNCv0svbk7tCLdw8yFi0HJO3zZnf+Kmi9RcO/u/3z35gbFc9ltxPC2JREBAkayewscyEN2tJgm1O5veajwm6M4ZrhNQUY04yJ6t4XaW4Whf0ENAKWzOGAGxe3KWBS9BW3r
 {
  "car_features_by_name": {
   "*": [
@@ -267,12 +267,12 @@ tuCiSArbey7OyN8ibCsIn2MLuqwexXtXlDm++8iM9JQaqe5h40VZ8kdwhU2eZFqKAqxDIE7gqRYI6Yk6
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-18",
-   "file": "update/files/jmk-ambient-sound-2.5.14.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.15.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "cc17c26e8d327150197d74854f0fbe19c7e8274f30353d9980f14cc1810d9b65",
-   "size": 133833,
-   "version": "2.5.14"
+   "sha256": "3cb1909e13be3804d16189e25e09c5ffe32977b1124fc45188e8f90488c0458f",
+   "size": 134146,
+   "version": "2.5.15"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -312,7 +312,7 @@ tuCiSArbey7OyN8ibCsIn2MLuqwexXtXlDm++8iM9JQaqe5h40VZ8kdwhU2eZFqKAqxDIE7gqRYI6Yk6
   }
  },
  "published": "2026-11-18",
- "seq": 2026111805,
+ "seq": 2026111806,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
