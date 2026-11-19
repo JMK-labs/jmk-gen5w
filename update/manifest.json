@@ -86,6 +86,11 @@
    "camp",
    "consent"
   ],
+  "DL3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DL3HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -438,7 +443,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112004,
+ "seq": 2026112005,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
