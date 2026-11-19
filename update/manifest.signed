@@ -1,4 +1,4 @@
-sAx8jylmj+dM/fNijJwAqMk7OWHIwNa/sQ/9JiNKKXoRiCs6QfpTaeGRpNOFPmFy4tVXFXyHWupgpDxV0UgyddC8o7lkGKZjRxaMZqzY/hZ1LdjQgY/THMoY80TVNupYPbqHp9IfgCvmGESm+sCUhMmmnLi+UjFhdb2L6Km5TWoh0sBU4MjxL3LNxZ2om5PXrVYXc9++lbqDXcJl1KPsdwmpoNhNjNoFbfpn802K/Oz/5nMbx1a/n0TyU1B8w19OxNzQuzBxaxKoYzUeG5Qt5SCd3JqBYFxLcMafQuj4C38Vys0ffSnc8FfeJc6FuBb/ts/QARyxAPGM/+zc+k5TEZfyM1DHjx73mRQ3En1gAlpzai0Zr+od0d2EGj3EM5W6C+BpYGeVGTC0CSsJzL3geSs1Yhg8MzQ9CapYEl3LaUswPoz4/Mo5hOXpSYOfRYXeZxhN5f7+E3/ReUzi5vXM6KuXVxbq3YEerkpi3ryI59mXeUNA6/9R64+5x8BPGulI
+hmGoNC1/icVH7kzbJ5Hha2HscdPTpwMGihISTsAYUIsa5gnNgFQYebtJNnxQnmx5RipGtj1i8KpFFaY9bH/ufdmuI6GrCdAKybwcWcBljkM/xeO0r7PkJ7AHzATh/NiN8dkK42jB+BsyliTjf9DTOVWPvmDcePlKJb57ajhfFCoKHO0aWen1SvtsI8b49UFvw4GZbta6ydH8QHbCiLTCNWRGYw+SX2PWububnmSrxJQakmVTio1bx56/VSNf/wwmKRVv/rREBCZndRP8QeOFR/K9IdrKhGp9zKRIvrMe2JJ/2j+R/iMvooyBfbRzYYaEuQfNjQ1NqgayY4A7arT6whkxdQqX5isbFo1wjQLS2CTd1zTMc3y/u1eZeEmJxHB12Mr7EQW1suPt0pJI1+ySyHr/JtsxAhGXNs6bunYQxPrzzHD8IeddrYxnH/BrLRPLaZcJcevgdMppBSH7CBUv1YldW9IIJSLBZQlllGQaUdjT/OduZR+dNzNrbhseBM9N
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -429,17 +429,17 @@ sAx8jylmj+dM/fNijJwAqMk7OWHIwNa/sQ/9JiNKKXoRiCs6QfpTaeGRpNOFPmFy4tVXFXyHWupgpDxV
    "version": "2.3.30"
   },
   "jmk-wifi": {
-   "built": "2026-11-19",
-   "file": "update/files/jmk-wifi-1.4.7.zip",
+   "built": "2026-11-20",
+   "file": "update/files/jmk-wifi-1.4.8.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "cabb21f55fbb289f87ce1b34bfced41919e91688dd8af613f96f6466151c94dc",
-   "size": 2976998,
-   "version": "1.4.7"
+   "sha256": "8b8552fb1d2ab17b96be41757cc5077eb8bad3cbf16c728a012a9643edb0dcfc",
+   "size": 2977345,
+   "version": "1.4.8"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112003,
+ "seq": 2026112004,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
