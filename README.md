@@ -8,7 +8,7 @@
 | **jmk-ambient-sound** | 2.5.19 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
 | **jmk-wifi** | 1.4.10 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
 | **jmk-autoplay** | 0.3.5 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
-| **jmk-autoplay-hud** | 0.1.11 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
+| **jmk-autoplay-hud** | 0.1.12 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)**
 
@@ -88,9 +88,10 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 | 현대 투싼 · 투싼 하이브리드 | ✓ | ✓ |
 | 현대 아반떼 (CN7 부분변경) | ✓ | ✓ |
 | 현대 캐스퍼 | ✓ | 확인 중 |
-| 현대 싼타페 (TM 부분변경) | ✓ | 준비 중 |
-| 현대 쏘나타 (DN8) · 쏘나타 하이브리드 | ✓ | 준비 중 |
-| 현대 아반떼 하이브리드 | ✓ | 준비 중 |
+| 현대 싼타페 (TM 부분변경) | ✓ | 확인 중 |
+| 현대 쏘나타 (DN8) · 쏘나타 하이브리드 | ✓ | 확인 중 |
+| 현대 아반떼 하이브리드 | ✓ | 확인 중 |
+| 현대 팰리세이드 (LX2) | ✓ | 확인 중 |
 | 현대 그랜저 하이브리드 (IG) | ✓ | 준비 중 |
 | 기아 EV6 (국내형 · 미국형 · 캐나다형) | ✓ | ✓ |
 | 기아 K8 · K8 하이브리드 | ✓ | ✓ |

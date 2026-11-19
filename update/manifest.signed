@@ -1,4 +1,4 @@
-mA8cdgRKd1GFX7GHi5Yxzxzo2c/beuoxPXIw5J1GppdEJuySj1Vs5OqEb/PBN8xveHS+fG72RXAn+KTcFNxFBkXX/qd9v1V69SbHbMg5ItS1h1YQDr1uLMZ+IqYmxAYl3jVio2lq3ZFgROqRxmxFMgfOY0zn0pw4V+Wu6Kxd3bscNIxQzjHWB834QjeJdzARxYopyJae3jidUVOYjXceJE7rrRa67CJT8zytYepyMM2HLeKDPI5w7MfwTJALsCEIVKW2kFDnkeqgfkqo50Do5sMfKJoiSx1EXmqCG7JtGOXQLcrvyH3rXUj7+gUKATYaTkydCVqx013W3AJZUWWdMlu8JhHc0j5kPDPBZ5zRznZ/coaIU6fZbXXOZO60l82zJpSWrOzT7E6gvIWaSIumvsZEBfwEae2QCiv2QZTGwZpHYg51GFVi4N9ZDcTe3bCzQy8irN2CW8JjAlGuGVAPYzhshbmH4A4YNkIJDyIaB9mjOr2oMyEQh5DBNtoLMaOi
+lsiIGjtjKvufw2aRKckK+PrXxQHby47i9vgrBpVdPBzukUYxZD4qWsmp6Tt+2bJTLQnmzfw87J+4VwSHuKkCc+kp06gllvkIpivJrcgeNy0Hx3hrscn/C+gUhRfeN/n0PFu4ayCBbdIL9R2oi/tSxfupx8amAQ85HCqR+tLmoUIXXEmBn8NGDAGPnyAqgx0xWWyZRXFq64/4HJM+8WerQv+0A6cOU+hKO2H6M5krZf7RuL+cnqVXwiXDpZf8ASEgQfr65AwTYtU5WTuvCKb1rrsbvBE/55BWyPzmnlOx1sYGbcYFcaUQWW7JEQYUa4E2z95FVL2GDNFSw2R8BN9ByB55f+q5XlN8EaPfJZzLfzioMksXyzNnaQ+XAmd08bT1JS5GyigXHTy7TIXWOI2MZXwYBAkppLOOq98EJ3SdnipBhXZ3CdQyHW9oeY37536ILFTtRiiBQKjGDMgRec7biLcbeLuj+HZ1SAXZpfZk3Wg/gAej4A+uGaVYcQcFs7xE
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -143,6 +143,11 @@ mA8cdgRKd1GFX7GHi5Yxzxzo2c/beuoxPXIw5J1GppdEJuySj1Vs5OqEb/PBN8xveHS+fG72RXAn+KTc
    "consent"
   ],
   "GL3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "GL3HEV.KOR.0000.V037.001.260319": [
    "ambient",
    "camp",
    "consent"
@@ -422,12 +427,12 @@ mA8cdgRKd1GFX7GHi5Yxzxzo2c/beuoxPXIw5J1GppdEJuySj1Vs5OqEb/PBN8xveHS+fG72RXAn+KTc
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.11.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.12.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "b4ed22fb302ea282713b511d00f7211659f65adc14862dcd2c74ecd6ef1a0aa9",
-   "size": 9085274,
-   "version": "0.1.11"
+   "sha256": "3b13a9e12a841e8442e3b94baa69dc24b2faaff0d78315566aaff67e25058e8c",
+   "size": 9467626,
+   "version": "0.1.12"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
@@ -449,7 +454,7 @@ mA8cdgRKd1GFX7GHi5Yxzxzo2c/beuoxPXIw5J1GppdEJuySj1Vs5OqEb/PBN8xveHS+fG72RXAn+KTc
   }
  },
  "published": "2026-11-20",
- "seq": 2026112012,
+ "seq": 2026112013,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
