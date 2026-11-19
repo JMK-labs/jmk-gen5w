@@ -10,7 +10,7 @@
 | **jmk-autoplay** | 0.3.3 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
 | **jmk-autoplay-hud** | 0.1.6 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud) |
 
-**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)**
+**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w/releases/latest/download/JMK-Gen5W-USB.zip)**
 
 ## 필요 조건
 
@@ -82,7 +82,7 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 ## 설치·제거
 
 **USB 메모리로 한 번에 설치 (권장)**
-1. [JMK-Gen5W-USB.zip](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)을 받아 USB 메모리 맨 위에 압축을 풉니다(`NEMESIS.sh`와 `packages` 폴더가 맨 위).
+1. [JMK-Gen5W-USB.zip](https://github.com/JongMinKim-93/jmk-gen5w/releases/latest/download/JMK-Gen5W-USB.zip)을 받아 USB 메모리 맨 위에 압축을 풉니다(`NEMESIS.sh`와 `packages` 폴더가 맨 위).
 2. 시동을 켜고 USB를 꽂은 뒤 NEMESIS 창에서 `NEMESIS.sh`를 실행합니다.
 3. 런처 메뉴 → 앰비언트 → Wi-Fi Driver → Wireless AutoPlay(+ HUD · 계기판 길안내) 순서로 설치(이미 있으면 업데이트)되고 헤드유닛이 다시 시작합니다. 결과는 USB의 `JMK-INSTALL-LOG.txt`에 남습니다.
 4. USB를 빼고 동글을 꽂습니다.
