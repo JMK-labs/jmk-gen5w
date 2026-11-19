@@ -9,7 +9,17 @@
    "camp",
    "consent"
   ],
+  "AX1EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CEEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CEEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -19,7 +29,17 @@
    "camp",
    "consent"
   ],
+  "CN7.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7HEV22.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -65,6 +85,11 @@
    "camp",
    "consent"
   ],
+  "DN822.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DN822HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -91,6 +116,26 @@
    "consent"
   ],
   "GL3HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HREV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA422.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -130,6 +175,11 @@
    "camp",
    "consent"
   ],
+  "MQ4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
@@ -163,6 +213,11 @@
    "consent"
   ],
   "SG2HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP2PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -310,8 +365,8 @@
    "version": "1.4.0"
   }
  },
- "published": "2026-11-18",
- "seq": 2026111806,
+ "published": "2026-11-19",
+ "seq": 2026111901,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -330,6 +385,10 @@
    "shortcuts",
    "wp"
   ],
+  "5cc263ac6b855c62bf0d0af470b2ac7d": [
+   "ap",
+   "wp"
+  ],
   "716e2cc587433712fb11ed2dc775dc4c": [
    "wp"
   ],
@@ -337,6 +396,12 @@
    "ap",
    "cp",
    "pa"
+  ],
+  "a294a8ab31d51d5e6e2a6803c1bcdd43": [
+   "ap",
+   "cp",
+   "hud",
+   "wp"
   ],
   "ba4620c189fac39dfdae599c57fef7dd": [
    "pa",
@@ -371,9 +436,11 @@
   "aa0503a56228b2fbabe2b152a8b079e7",
   "bc1f66418c69822d0a7a63f5e20d5dde",
   "c1d65edf46c4aeb754e2872a87e2862c",
+  "c30dbd6b0a13b600d045a832a953035e",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
+  "d11fd62b6229c8f072c329e34b6e9553",
   "d5529a43072490873d173d71ac6f7991",
   "d86c66187d5b42e331adbe7bc698b012",
   "e04d50bb32173147ee59027baff012a5",

@@ -1,4 +1,4 @@
-S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWBH4Cfhh+AXIurl7M+B3cxFW+CMGs0YR2HaGtsEUwHJuM6TQAENp8RC98LZPRzJFiXH3kZvAIxMR/6dwUH+DVfOseq1XJ3qgD3txcsD7H0rahDsDy0vW2gEqrsdAkLg/2T/EDm0GKgRXh6jiSiILjAVoit/0dSuZr9TdS37HwKTxFluKQ8ZNkGxV8JyCiZQHd5zPclFsdWuT080121dpJNIUy/ZcshPO1L3VtrT0mI3xJAMM7aY6t4avZasJ8KfcSq/zKdHYEe+1bXlLiKwHS4u0nRLSq5SWgGetmYFHIavag5JcuNCv0svbk7tCLdw8yFi0HJO3zZnf+Kmi9RcO/u/3z35gbFc9ltxPC2JREBAkayewscyEN2tJgm1O5veajwm6M4ZrhNQUY04yJ6t4XaW4Whf0ENAKWzOGAGxe3KWBS9BW3r
+1yx2zsMq24pPjwPI6JadEtHHQQx9rHFCdAGoYAcvxEMAYei1ueXO/s4XEI3O4XM9BzofuV1ZOMtRben2/YUXQ+fRH38AsL/CwRCXL4swlvLqP3sMC+tMw/djxPx0hpimm3moYysroRBOxsxx8MC4pJ4VWTveHOQL7UOYN4qogp80AJ0YXmGrT49GvRVpNZ0FBjs5impjhYyngfY3wZqUA2MvhdIF0ajfN8DEb/mmGFMbVsYlHN2vNVqvwROKkHqFf2Gr1LsCifSjUyeW0Ob1tAH2S8pDbivQGjVqGktlKObu/7KfgbZEpju0FOZ01GTTzIzoyZpiWZ9I7Le5kI/o+ZehaeH/wlulhPOT7FRRu6dpBdszTD3I074XfhyeS8l1beO29cCdHLk6r5sxJMx0LbGcEjkdVSMfQO01GRxR1cDq4gs70yFT5R0FxECoUxcrvatiEqU0Zg/eUr+kooKS/rQ6T2SkHR1oGH6RLxWrz2wdA8wGvLKRCIrrXH+jx6GW
 {
  "car_features_by_name": {
   "*": [
@@ -10,7 +10,17 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "camp",
    "consent"
   ],
+  "AX1EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CEEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CEEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -20,7 +30,17 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "camp",
    "consent"
   ],
+  "CN7.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7HEV22.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -66,6 +86,11 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "camp",
    "consent"
   ],
+  "DN822.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DN822HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -92,6 +117,26 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "consent"
   ],
   "GL3HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HREV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA422.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -131,6 +176,11 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "camp",
    "consent"
   ],
+  "MQ4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
@@ -164,6 +214,11 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "consent"
   ],
   "SG2HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP2PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -311,8 +366,8 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "version": "1.4.0"
   }
  },
- "published": "2026-11-18",
- "seq": 2026111806,
+ "published": "2026-11-19",
+ "seq": 2026111901,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -331,6 +386,10 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "shortcuts",
    "wp"
   ],
+  "5cc263ac6b855c62bf0d0af470b2ac7d": [
+   "ap",
+   "wp"
+  ],
   "716e2cc587433712fb11ed2dc775dc4c": [
    "wp"
   ],
@@ -338,6 +397,12 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
    "ap",
    "cp",
    "pa"
+  ],
+  "a294a8ab31d51d5e6e2a6803c1bcdd43": [
+   "ap",
+   "cp",
+   "hud",
+   "wp"
   ],
   "ba4620c189fac39dfdae599c57fef7dd": [
    "pa",
@@ -372,9 +437,11 @@ S0dRhKZA6Ael/4kbb2m95pFHbMm2rB9dALBH1sAr40JNrsBE2889XAS9JLI7NZCvm5Mtr0zCcHhAXMWB
   "aa0503a56228b2fbabe2b152a8b079e7",
   "bc1f66418c69822d0a7a63f5e20d5dde",
   "c1d65edf46c4aeb754e2872a87e2862c",
+  "c30dbd6b0a13b600d045a832a953035e",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
+  "d11fd62b6229c8f072c329e34b6e9553",
   "d5529a43072490873d173d71ac6f7991",
   "d86c66187d5b42e331adbe7bc698b012",
   "e04d50bb32173147ee59027baff012a5",
