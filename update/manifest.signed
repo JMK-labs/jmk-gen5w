@@ -1,4 +1,4 @@
-f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAriVZECDs+nZWEwtJAy/L5ZrnCjSXYn89gzItKwY8fliKXqSjiX486Hex6PWOrtGy2GLw3D0gPfJdb9AhVgLBeCZBLxQGe31pSsleg0CydYeD+YGUOd5e6Fk+yo3r9i/ICJtDXUNSVHavF+UAhEfH5bxKBN64fTPgqNvPMEA9uwo5XVEqMb/394Sf7ShwWwaYE/clS7avc3ppyOhTnBoMXGS551Oq/8YEamI/R+BYvBH3lWLxlO6xPGfFURc8qBOPxyrGkLK8X/VcmMT/UVpT17biMm2zU8d9GxET5TqjUbuUhUubaa8VT2A5q3VPyaa2PDy1oNrNVivVT7E0Cv6hpJ+SXq4cIg9iN6Iz2lISb+/MjZFSS18dGjsL5OnACVZtbkFZA6GTymEym9Zi3LXtdiUA0sd7cpRx69xq+e6Pcf687JQbmh
+ys5tsjefvI7HMPTJ9VZvIQ+tudn2sefyR3oBVRiu9Se4v0uTLx4XQcZbV26gUiIo8QGVJP0lDVJAIUfVyRmRQ2JkWtlfgXSdbTDzH7CYnSid4YFGUIOMAL4CxdfJhX3X8iW+NDmxS6L5fr/BLHMhX/z/wywcN8fCDXlte2UVz6ipcHHu8kNbAspdusaWgaXJU1Qq246YgO47wmUJX9BHxD7o8PE5trYzpuwQ+f/lIcqLbbKOk+LhGA/3gja1+/7XAEwXKJzmkVCeTZ8f5SvAzb7koFCOlTbxGtINoaGFmFKeiXqETpq1+/e6mK1QBiDqkwEGpv3+K+YS9VqdwYGNymDiI+NnGy/ZzWmai4/oO9YNQTp6gePVKTxNnX3iOFCyv4yLctxDU+ns30ACuE0RUALGwcxjfHYT8/KYY97GFOOn/MsVRT/4S57Kv/ujK3jChTmIKl10nCyxrqKAsljJslzqx5mGqOV/vCXLrf+ngggXWvDbVLhPzHHISFjHjdNT
 {
  "car_features_by_name": {
   "*": [
@@ -233,6 +233,11 @@ f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAri
    "camp",
    "consent"
   ],
+  "NQ5.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NX4.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
@@ -412,7 +417,7 @@ f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAri
   }
  },
  "published": "2026-11-19",
- "seq": 2026111911,
+ "seq": 2026111912,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -429,10 +434,6 @@ f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAri
    "ap",
    "cp",
    "shortcuts",
-   "wp"
-  ],
-  "5cc263ac6b855c62bf0d0af470b2ac7d": [
-   "ap",
    "wp"
   ],
   "716e2cc587433712fb11ed2dc775dc4c": [
@@ -484,6 +485,7 @@ f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAri
   "bc1f66418c69822d0a7a63f5e20d5dde",
   "c1d65edf46c4aeb754e2872a87e2862c",
   "c30dbd6b0a13b600d045a832a953035e",
+  "ccb3a23b53c6943aebb33af86473e56a",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",

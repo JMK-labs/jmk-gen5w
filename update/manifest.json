@@ -232,6 +232,11 @@
    "camp",
    "consent"
   ],
+  "NQ5.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NX4.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
@@ -411,7 +416,7 @@
   }
  },
  "published": "2026-11-19",
- "seq": 2026111911,
+ "seq": 2026111912,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -428,10 +433,6 @@
    "ap",
    "cp",
    "shortcuts",
-   "wp"
-  ],
-  "5cc263ac6b855c62bf0d0af470b2ac7d": [
-   "ap",
    "wp"
   ],
   "716e2cc587433712fb11ed2dc775dc4c": [
@@ -483,6 +484,7 @@
   "bc1f66418c69822d0a7a63f5e20d5dde",
   "c1d65edf46c4aeb754e2872a87e2862c",
   "c30dbd6b0a13b600d045a832a953035e",
+  "ccb3a23b53c6943aebb33af86473e56a",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
