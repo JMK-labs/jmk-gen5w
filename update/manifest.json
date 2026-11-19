@@ -430,25 +430,25 @@
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.34.zip",
+   "file": "update/files/jmk-map-menu-2.3.35.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "7ed4608f1ce6b0516b4310b09ef49549283d1c87dec2537a48ef3123845c7216",
-   "size": 291381,
-   "version": "2.3.34"
+   "sha256": "eca858fbd8cd34b4f8dc5ae09db4fcc7ddf84837fce71b7131275e58bb8eb7e2",
+   "size": 291465,
+   "version": "2.3.35"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.9.zip",
+   "file": "update/files/jmk-wifi-1.4.10.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "c5be58963de653612670934f26dbf87395b350cfea4c09c7ae506ce2209c9cb4",
-   "size": 2977635,
-   "version": "1.4.9"
+   "sha256": "97d8b97ed474871746902911df54bf3a49f3037ea9864226836cc610b5761f0e",
+   "size": 2979857,
+   "version": "1.4.10"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112010,
+ "seq": 2026112011,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
