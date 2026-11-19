@@ -365,13 +365,13 @@
  },
  "packages": {
   "jmk-ambient-sound": {
-   "built": "2026-11-18",
-   "file": "update/files/jmk-ambient-sound-2.5.15.zip",
+   "built": "2026-11-19",
+   "file": "update/files/jmk-ambient-sound-2.5.16.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "3cb1909e13be3804d16189e25e09c5ffe32977b1124fc45188e8f90488c0458f",
-   "size": 134146,
-   "version": "2.5.15"
+   "sha256": "1035747d4ffc3b336cf4711eba36bcfcf8e391bb049bf9012b37da89482b5b97",
+   "size": 134788,
+   "version": "2.5.16"
   },
   "jmk-autoplay": {
    "built": "2026-11-17",
@@ -384,21 +384,21 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.5.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.6.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "658847cdcccb7e1b810c810ff41d3138b460e528a7b43ac3b8bda66b035eacba",
-   "size": 6153885,
-   "version": "0.1.5"
+   "sha256": "41fb26f67aaafe974e803b53d867aff7f94742545d4a8d7ab3083c919a2cb954",
+   "size": 6892243,
+   "version": "0.1.6"
   },
   "jmk-map-menu": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-map-menu-2.3.23.zip",
+   "file": "update/files/jmk-map-menu-2.3.25.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "703db919974e6d7555e88eb5d8ca3c72b0191bfbcbffb67af60e17cb2e2f64a7",
-   "size": 273036,
-   "version": "2.3.23"
+   "sha256": "f8790f10968225d3b954e161b67a41180417265b7ae1c9592f217e4822a97081",
+   "size": 275079,
+   "version": "2.3.25"
   },
   "jmk-wifi": {
    "built": "2026-11-19",
@@ -411,7 +411,7 @@
   }
  },
  "published": "2026-11-19",
- "seq": 2026111907,
+ "seq": 2026111908,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

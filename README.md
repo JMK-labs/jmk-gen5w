@@ -4,11 +4,11 @@
 
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
-| **jmk-map-menu** | 2.3.23 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
-| **jmk-ambient-sound** | 2.5.15 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
+| **jmk-map-menu** | 2.3.25 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
+| **jmk-ambient-sound** | 2.5.16 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
 | **jmk-wifi** | 1.4.3 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
 | **jmk-autoplay** | 0.3.3 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
-| **jmk-autoplay-hud** | 0.1.5 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud) |
+| **jmk-autoplay-hud** | 0.1.6 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w-ioniq5/releases/latest/download/JMK-Gen5W-USB.zip)**
 
@@ -34,7 +34,7 @@
 - Active Ambient는 모든 차종에서 설치하자마자 켜집니다. 시작할 때 차의 조명 명령을 먼저 확인하고, 맞지 않으면 조명을 건드리지 않습니다.
 - NEMESIS · USB 모드 · 재부팅 · 버튼 매핑 · 바로가기는 차종과 관계없이 쓸 수 있습니다.
 - Wi-Fi Driver는 헤드유닛이 맞는 차에서만 동작합니다(아니면 ⚙ 설정에 "이 차종 미지원").
-- Wireless AutoPlay는 모든 차종에서 켜집니다(차의 순정 무선 설정이 맞을 때). HUD · 계기판 길안내는 지원하는 차(아이오닉 5 국내형·미국형·캐나다형, EV6 미국형·캐나다형, 스포티지 미국형 등, 그리고 앱 코드가 이 차들과 같은 차종: K8 · K8 하이브리드 · 투싼 · 투싼 하이브리드 · 셀토스 · 캐스퍼 국내형은 길안내만)에서만 적용되고, 무선 카플레이도 이 차들에서만 됩니다. 그 밖의 차는 무선 안드로이드 오토만 됩니다.
+- Wireless AutoPlay는 모든 차종에서 켜집니다(차의 순정 무선 설정이 맞을 때). HUD · 계기판 길안내는 지원하는 차(아이오닉 5 국내형·미국형·캐나다형, EV6 미국형·캐나다형, 스포티지 미국형 등, 그리고 앱 코드가 이 차들과 같은 차종: K8 · K8 하이브리드 · 셀토스 국내형은 길안내와 무선 카플레이(시험), 투싼 · 투싼 하이브리드 · 캐스퍼 · 싼타페(TM 부분변경) · 쏘나타(DN8) · 쏘나타 하이브리드 · 아반떼 하이브리드 국내형은 길안내만)에서만 적용되고, 무선 카플레이도 이 차들에서만 됩니다. 그 밖의 차는 무선 안드로이드 오토만 됩니다.
 
 ## JMK 런처 메뉴 (jmk-map-menu)
 
