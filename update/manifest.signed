@@ -1,4 +1,4 @@
-ooZOBMUdyWImbPVcvDFimeCJ3PoheiDNob0XhX6fXxtV1X+UH7aOwhbA0ukD0tFccQl2n6wlWG2Y67pcPv4Uig3U68Hb0445AWQwDIyVu7T7aUREYlKa7vC00yB34NPihl1AUaTJ9yWUIKgbn2GkXRczR1m73Z2FFA/UZz1t5USggShFBm5fAUhKDn4tRZyiA98z/cb+GqsGitYPywOgScW4m4d0+6avlwD6OzB9h4xx5DSzFXRYD4nriNZF8RwkR+iBiqsYxXOs/sGNtXEzOp6OLv1768eVd9HNtXN47ePP613eEeQdsB39YMtlBO+xiUmwsp387NwwLkKui5pC+wo63wsYDZjY3E7OCw0FgPjrev+Hz2EttAOiBFAKFPEDGRRHXo2yKR7anMj9jmRBsCiguKegHu4KhWzI/mHUbxW/dt/9XrmgBPrXsHHP3fFvtTMRDsnX488ICE0IT0nmV1b35tBxXNeh5mj611oOyKQfRLOXfAxOJ8Sf5t/OxymI
+auCMJXtE2eyrBADaBuxJl49rlOUmQiDsIGisdhVXxVz7SvIcDWT3YT7dz87YEz/79QV9dWgQEivEZjtc6QNWnasuZEY73oEu7+I10ZQsEc5OmUxMb9d4554cedE3GqWyhxYSdzbQ9IxI+6WHoStEEZjpyXKjwJ1yooTaSmbIwUuQYpWJCjBW5JIfFotIY9v35j2V7InB+jrTIArDWEn0TgxIoQWYeHOciZxhHVbo/571haCsaocrgLMGJ6V3gtFCT0YELzZ+pxLKvxDAlARvi9vTVy5Q46qxc9MIYK3MoBomd6+YMz5UHvPur2+p41V0IczjCjlb5jAreKpg4ZROiFHBGIeDZ95cqWpwqiMGPu2d79MFSEySO5YSZ0j35Yc3aw6DkGiIQuMCVwodQ2HQc6m/AGkS9/BdBlA8zuil80XW9jOi9yLbkUuGTHBNzAoVP2dr17apmLq4CM6nFZQog9y1DkXOMae2aB1lxGG1qdWZhwyWGHCzsnjKpK7qQIRx
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -426,25 +426,25 @@ ooZOBMUdyWImbPVcvDFimeCJ3PoheiDNob0XhX6fXxtV1X+UH7aOwhbA0ukD0tFccQl2n6wlWG2Y67pc
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.31.zip",
+   "file": "update/files/jmk-map-menu-2.3.32.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "95b2313e4a6a05116f7a1080fbdcff427a51565eb2c38fefb74e22ef45bc1953",
-   "size": 290408,
-   "version": "2.3.31"
+   "sha256": "1d717e584431ca90c63369ce075dd31f22fd4de6874c89f28eb698be3e22ad2b",
+   "size": 290776,
+   "version": "2.3.32"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.8.zip",
+   "file": "update/files/jmk-wifi-1.4.9.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "8b8552fb1d2ab17b96be41757cc5077eb8bad3cbf16c728a012a9643edb0dcfc",
-   "size": 2977345,
-   "version": "1.4.8"
+   "sha256": "c5be58963de653612670934f26dbf87395b350cfea4c09c7ae506ce2209c9cb4",
+   "size": 2977635,
+   "version": "1.4.9"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112006,
+ "seq": 2026112007,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -497,6 +497,7 @@ ooZOBMUdyWImbPVcvDFimeCJ3PoheiDNob0XhX6fXxtV1X+UH7aOwhbA0ukD0tFccQl2n6wlWG2Y67pc
   "38cb0b3567c7ccb35265badb54f64e4e",
   "39f8e76ec03d27e9a918e6283a030218",
   "3d8b258d6a0dde4e222d0e423b20efa8",
+  "3f642e31d4b745622da467edb9438e1e",
   "56f5284622411c4a4fc3acf2f3bd1aac",
   "5834aafe0ef31d077feb2ec23a6bbf65",
   "5c2b67b44a89b7d2c5fc6c8fdd46287c",
