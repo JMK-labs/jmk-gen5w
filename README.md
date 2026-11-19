@@ -4,13 +4,13 @@
 
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
-| **jmk-map-menu** | 2.3.27 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
-| **jmk-ambient-sound** | 2.5.17 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
-| **jmk-wifi** | 1.4.6 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
-| **jmk-autoplay** | 0.3.4 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
-| **jmk-autoplay-hud** | 0.1.8 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
+| **jmk-map-menu** | 2.3.28 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
+| **jmk-ambient-sound** | 2.5.18 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
+| **jmk-wifi** | 1.4.7 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
+| **jmk-autoplay** | 0.3.5 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
+| **jmk-autoplay-hud** | 0.1.9 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
 
-**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://github.com/JongMinKim-93/jmk-gen5w/releases/latest/download/JMK-Gen5W-USB.zip)**
+**설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)**
 
 ## 필요 조건
 
@@ -82,7 +82,7 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 ## 설치·제거
 
 **USB 메모리로 한 번에 설치 (권장)**
-1. [JMK-Gen5W-USB.zip](https://github.com/JongMinKim-93/jmk-gen5w/releases/latest/download/JMK-Gen5W-USB.zip)을 받아 USB 메모리 맨 위에 압축을 풉니다(`NEMESIS.sh`와 `packages` 폴더가 맨 위).
+1. [JMK-Gen5W-USB.zip](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)을 받아 USB 메모리 맨 위에 압축을 풉니다(`NEMESIS.sh`와 `packages` 폴더가 맨 위).
 2. 시동을 켜고 USB를 꽂은 뒤 NEMESIS 창에서 `NEMESIS.sh`를 실행합니다.
 3. 런처 메뉴 → 앰비언트 → Wi-Fi Driver → Wireless AutoPlay(+ HUD · 계기판 길안내) 순서로 설치(이미 있으면 업데이트)되고 헤드유닛이 다시 시작합니다. 결과는 USB의 `JMK-INSTALL-LOG.txt`에 남습니다.
 4. USB를 빼고 동글을 꽂습니다.
@@ -109,5 +109,5 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 ## 라이선스
 
 - `driver/` : GPL-2.0 (Realtek RTL88x2BU · RTL8851BU 드라이버와 우리 패치). 빌드 방법은 `driver/README.md`
-- HUD · 계기판 길안내: AGPL-3.0, 소스 [jmk-autoplay-hud](https://github.com/JongMinKim-93/jmk-autoplay-hud)
+- HUD · 계기판 길안내: AGPL-3.0, 소스 [jmk-autoplay-hud](https://github.com/JMK-labs/jmk-autoplay-hud)
 - 그 밖의 패키지(바이너리): [LICENSE.md](LICENSE.md)

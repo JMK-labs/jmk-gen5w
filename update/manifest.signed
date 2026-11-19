@@ -1,5 +1,6 @@
-QqVUHA/IGmREk/oyKw+KlGvFIMxyOuI1wAdry/M4YrCwi1BE5XFlqVEpbbrCKF37pUUqt4zykCRLbz3S/mTWZZpptLmuapEgUVnXjkBAl2WALyJ1j04E4zBXEJgVJrDBz6OCvkOGrlyf1oXVNm0+diaEquhGfbxON7y4WgNH8mUw05Q2Vz0oPQll8zTbRJDg3uiCP3TFb65A10Ga4n3arknP9whCCc5J7CJoJsmcx5S+r8TcHkl+tY+uQpFnBH3x4Um++no9zex+B3AItISHYv5fo+i/aQRxdy9pzKO1SLQCENVZhzrHf21ajIewCcJGxI7YykaFePaoHeE0IlAkUgmKfvYloWtrL5+zEc36Zje3KVgHK2wIEvfglCJvXg6kZV9rqVqAKaSsglJ0xUkMPqXCh4xdo1zVohzjWe8s+KnSoLosv4x4M5QrEQIUzLb2J7Ep1CsNUTxzOJynRTHheS0qyky4XKasIkNHIRcs7d8n9tXJKi+d/iklx7WyKruC
+p0HROFd1BWmSb3qmmo4wpgCnMyzOSr+Utm4/+UMp4IQCdnONznd9OqOxGz0nRWWYWdEYTbKvX5f19NbsWS2RaJjQZGbs5nZaPKdPrvIfTrF7soS/MBZUSxXAa+7qorM2mM4gZvm5U+Pf7+nA9fUiv1c9inruhxc9sgwC9IDnkZgS3Syo+7cbqQmX2SHmcpV2+iOMTofuDPIvwUU+EjBeVmBOuQT23lPGZ9N9yPBFnd+ufxsgqImzYR3LFH4TwNsqsKvHW8IAlVta5EbyHSgOtSH0DF7ZnBSl6MXf7WiEmNXG+aIr6/j6poJOvIOdibCviTTYA0xREF/c4716+A1Y9p0eo44IuSEv1B2jmMV0as84mdEZGYx0V93OsE8SrL76GyXaCm4B/vkL1CQNEilD4WRz06CZF8vRli9C2L7G+d9Q0avyBnG8XUJPIyrjP63nogDB/Nrozm2+aQkrOZ2YrM0/lsJpHY0s2Oko5oRxuWA3sNEkoeIrDy5+/XuR0MJq
 {
+ "blocked_hashes": [],
  "car_features_by_name": {
   "*": [
    "ambientall",
@@ -389,55 +390,56 @@ QqVUHA/IGmREk/oyKw+KlGvFIMxyOuI1wAdry/M4YrCwi1BE5XFlqVEpbbrCKF37pUUqt4zykCRLbz3S
    }
   }
  },
+ "integrity_lock": true,
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-ambient-sound-2.5.17.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.18.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "12f21590a557cad9e5992d4fceeeb8459048f8068de5b8d08fe9b509c2f26caa",
-   "size": 138843,
-   "version": "2.5.17"
+   "sha256": "22fad80b994526a7ed1a45d2e96b49854dd4c0c32cc0862ebffa137c107207a4",
+   "size": 145430,
+   "version": "2.5.18"
   },
   "jmk-autoplay": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-autoplay-0.3.4.zip",
+   "file": "update/files/jmk-autoplay-0.3.5.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "0fae64982c38ac5ec607cd64765cf923bf5ee57de012bcc7d0030cd225878f45",
-   "size": 19787,
-   "version": "0.3.4"
+   "sha256": "98c50a24bcfc0289c85325b27ba9b30b70ce28d65fc73623d7d17583ffd30efc",
+   "size": 21398,
+   "version": "0.3.5"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.8.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.9.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "e74ecd998045ebf826b79c0ddf7b4cc2aad9eeb1d544045da664ed3a831a7c58",
-   "size": 8802272,
-   "version": "0.1.8"
+   "sha256": "fb05a25755e03c00e4c4b6407925a3d42fbd83f2a6feae3ff13f2802c0f874ba",
+   "size": 8808958,
+   "version": "0.1.9"
   },
   "jmk-map-menu": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-map-menu-2.3.27.zip",
+   "file": "update/files/jmk-map-menu-2.3.28.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "f8a26e04cdfed46659299996d882ec3905da79895ae4c8569a9f714cf9482a96",
-   "size": 279874,
-   "version": "2.3.27"
+   "sha256": "7ef2404a9f424df12aad2022bf5c66252db8b122f97891fd15c0add7bbd4f717",
+   "size": 287447,
+   "version": "2.3.28"
   },
   "jmk-wifi": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-wifi-1.4.6.zip",
+   "file": "update/files/jmk-wifi-1.4.7.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "8bf55f15c3e7b2edfe23f3a43db69a416cee1b9ca002859affc4d5e214587cbb",
-   "size": 2974871,
-   "version": "1.4.6"
+   "sha256": "cabb21f55fbb289f87ce1b34bfced41919e91688dd8af613f96f6466151c94dc",
+   "size": 2976998,
+   "version": "1.4.7"
   }
  },
  "published": "2026-11-19",
- "seq": 2026111918,
+ "seq": 2026111919,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
