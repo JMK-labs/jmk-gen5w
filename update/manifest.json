@@ -416,21 +416,21 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.10.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.11.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "f5aa9c650ef56f53328d853c79dddc360c912a9368f936abdb8a942d306036fb",
-   "size": 9098556,
-   "version": "0.1.10"
+   "sha256": "b4ed22fb302ea282713b511d00f7211659f65adc14862dcd2c74ecd6ef1a0aa9",
+   "size": 9085274,
+   "version": "0.1.11"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.30.zip",
+   "file": "update/files/jmk-map-menu-2.3.31.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "d41f80c6cd29cc937a4f36ce897712083755bd037f26489f6c6633d84b19a7d6",
-   "size": 289216,
-   "version": "2.3.30"
+   "sha256": "95b2313e4a6a05116f7a1080fbdcff427a51565eb2c38fefb74e22ef45bc1953",
+   "size": 290408,
+   "version": "2.3.31"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
@@ -443,7 +443,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112005,
+ "seq": 2026112006,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

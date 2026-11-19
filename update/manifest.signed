@@ -1,4 +1,4 @@
-o5wQ9uRnpohMIEW36hHgCzet9ElvizmrlOMhI/nRQ/9GTXng6tZ3IMMCitIb2dcEyNQt7VqZ/4oAY8sbcTI5uM8V/icrvXUrJwE6cKMalfYvS7DHyjG/kg87KhlaSaLF1FLJl6hT+b97LknnRJkRtca7haPV/xoPZlVcaqQVMezZlImny9LZqA+54OOlTodOCs/8+2QYybEI7bJjlvU/z1lnRD5aS5lGykU3MP89tgDy6pyOEQ1cRgK1b+OZA85PlO31Q07gKfRnJg+8emi0u0By2NLPLMv6FZS+WY1nV61XuzTsEEa0XATQyQY/JFilmXn2aXLhJsOTwEQlt4mfnOc9rfIKU5bwoja/YCsGwzYNBfn6YBTd2Vu2DfxZPNniQwKeGMRCbst0oz7FD9Q0UsxdjEFntUExnzL+VrlaZtCafBah2sVtJtbBTmJowCJkNgBBv5tIpllCZ12txYFpa0+Qz02i/OKQVh8H+fwM2EJOS/At3lC0/Jvqd99w+Gif
+ooZOBMUdyWImbPVcvDFimeCJ3PoheiDNob0XhX6fXxtV1X+UH7aOwhbA0ukD0tFccQl2n6wlWG2Y67pcPv4Uig3U68Hb0445AWQwDIyVu7T7aUREYlKa7vC00yB34NPihl1AUaTJ9yWUIKgbn2GkXRczR1m73Z2FFA/UZz1t5USggShFBm5fAUhKDn4tRZyiA98z/cb+GqsGitYPywOgScW4m4d0+6avlwD6OzB9h4xx5DSzFXRYD4nriNZF8RwkR+iBiqsYxXOs/sGNtXEzOp6OLv1768eVd9HNtXN47ePP613eEeQdsB39YMtlBO+xiUmwsp387NwwLkKui5pC+wo63wsYDZjY3E7OCw0FgPjrev+Hz2EttAOiBFAKFPEDGRRHXo2yKR7anMj9jmRBsCiguKegHu4KhWzI/mHUbxW/dt/9XrmgBPrXsHHP3fFvtTMRDsnX488ICE0IT0nmV1b35tBxXNeh5mj611oOyKQfRLOXfAxOJ8Sf5t/OxymI
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -417,21 +417,21 @@ o5wQ9uRnpohMIEW36hHgCzet9ElvizmrlOMhI/nRQ/9GTXng6tZ3IMMCitIb2dcEyNQt7VqZ/4oAY8sb
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.10.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.11.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "f5aa9c650ef56f53328d853c79dddc360c912a9368f936abdb8a942d306036fb",
-   "size": 9098556,
-   "version": "0.1.10"
+   "sha256": "b4ed22fb302ea282713b511d00f7211659f65adc14862dcd2c74ecd6ef1a0aa9",
+   "size": 9085274,
+   "version": "0.1.11"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.30.zip",
+   "file": "update/files/jmk-map-menu-2.3.31.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "d41f80c6cd29cc937a4f36ce897712083755bd037f26489f6c6633d84b19a7d6",
-   "size": 289216,
-   "version": "2.3.30"
+   "sha256": "95b2313e4a6a05116f7a1080fbdcff427a51565eb2c38fefb74e22ef45bc1953",
+   "size": 290408,
+   "version": "2.3.31"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
@@ -444,7 +444,7 @@ o5wQ9uRnpohMIEW36hHgCzet9ElvizmrlOMhI/nRQ/9GTXng6tZ3IMMCitIb2dcEyNQt7VqZ/4oAY8sb
   }
  },
  "published": "2026-11-20",
- "seq": 2026112005,
+ "seq": 2026112006,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
