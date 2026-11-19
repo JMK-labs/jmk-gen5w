@@ -1,4 +1,4 @@
-CEBaCsAw1Q55+HiNrWVsupqRPclK7H7VqCbTG09AeAyfeqNkIBJT17xRAxtFEC/OjdNBjOPV/Iz/6cdyPzl9l1IScunThpfUgozqpXgjrzFk5gTkbvEzY3yj4BfyNmVKOPr/XutE4QxyPtXtTkD+236yb1qdRC7FVDBv3/SiHe4LE3TCAcfCRxU277HYhsw8iViVj4Tb4P4rNp7s7NQ35yx9Uq+22/EUXtVaq86xaO030nKSX5YEYM4+oy+jtQrmxZV9A52xqgEvlVf6nEPMIHa9ZKNEKCeb4YiHnelz7wCLpWAupcQpxG7UhRivBX10Ce2zWDQRe3Yu0r41Lo/oU6POzs/2IVdbTRRwQIB/LZvq/1iq3p3ZCnhenjXCx4PIxnS5oBF1HmEqRwJQLmvt60YTR5vuvxhGLwV/VeOAaU1B0ZfgRsKZ5bGPhqSxJ2/kBlz897WEIQ0qSIRcJPJeLfTq/YSvY63xM2onNyXRf4KAmusHKlnuHyhEiFv+KqPN
+hlRpln7UsDB21jJPzm1D2SoHE2W0hn4THgge1bYvvdhxeXwZ5J/BuboL34xAstHYXHaw1oEoxs0/a0PZuWO9y/pPpABzQhCCbcGYwavd2onS6S9XGF+ildRmYYUK0UHQbATEFNGrmd4/xtgkPs0OzKU87DKhu/ATUAHSPpq0R2PvWmJhpPQ7g1mNAbosdxsZ4/tlVt8WQGKIZFXR1NuMdt3IjMYmRfXqHcDaigrpdxqmtjMHw6pkRWT4cFbv6n1Edk8gOWayVF+kz269C57hZeUem/KVisO6uau/F9lZLbYxWxaBfYmVCpTdP0Kdj4YcKVJK2jYsGJ6T6Tsqboe6wkVmdFmdvXfRoCTXLNBU543q3YGnU97qQmhe+9pXgVvNBB4QsjI6SjAtWQnnu9RgyzV86qV53zO1czJ1l2fUQEBGF5cynit7tbmO0MjDWpbN4rkiDRlthkNKUUyLTsetEi0q3VU7WaHyGQua9kyEPS5SL+yrAHAWBPUqpgl6ko/R
 {
  "car_features_by_name": {
   "*": [
@@ -389,25 +389,25 @@ CEBaCsAw1Q55+HiNrWVsupqRPclK7H7VqCbTG09AeAyfeqNkIBJT17xRAxtFEC/OjdNBjOPV/Iz/6cdy
   },
   "jmk-map-menu": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-map-menu-2.3.22.zip",
+   "file": "update/files/jmk-map-menu-2.3.23.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "f047badfa5b2a5be168172c9698228a2be86a241485a1ec9d1262849a2b9d707",
-   "size": 273182,
-   "version": "2.3.22"
+   "sha256": "703db919974e6d7555e88eb5d8ca3c72b0191bfbcbffb67af60e17cb2e2f64a7",
+   "size": 273036,
+   "version": "2.3.23"
   },
   "jmk-wifi": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-wifi-1.4.2.zip",
+   "file": "update/files/jmk-wifi-1.4.3.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "eee0ad37993c4dba1fbaf667c03cba4bf793924395ac627bdd9c12bf84b842d3",
-   "size": 2974421,
-   "version": "1.4.2"
+   "sha256": "788d79d740d9d3d9a750abd9dfcbb4206633390c37f6fa16e89d771c30e086d7",
+   "size": 2972690,
+   "version": "1.4.3"
   }
  },
  "published": "2026-11-19",
- "seq": 2026111905,
+ "seq": 2026111906,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
