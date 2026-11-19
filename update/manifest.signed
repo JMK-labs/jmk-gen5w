@@ -1,4 +1,4 @@
-Rab/VlCCfYP06YAuzlsC/C2UGG0pl0kLYAQ7m+X0N1hobQkjSYB6EB5Pr98L14PEswhEdtpILN/O1yfpd9zeplazbQsDzmFIdx05reem6somrtJ5DxcN6oW5GTsiA98KcdyOuNPYPHNy+CcJeIxz44FIyiAsu1nPR1HU1X9fPXdLplilxJCTqw5UgzuEh0jRI2YdDPfGRb2rzcystfndlp0kWQffIWQ1X3XaY4TiSOmfPZLiD7XlpPnkXjz38P18BS4a6zcok+moETLZXMKy8sFo8apVWJEINhUMa76gpcrLhniqBaEDfAV3ZPXbQ2CVr0NkmSgznjAPibwzkGhNOknAnyMIvTF2RGhBE3ObR7LVqELNvSIvHHtQF2ibtP2oaY1YXkZ1Auu4fosOWVPzMuB0ghPPIdPwBeF7FQZ9v93uqYddRof1idWYHjY9ix4+par6UdkuvE8YO1NfThnrdMpqfNFJYKy40bS4jVWPOWbu3guvTBxsx2+IGkZfQbfr
+f4uM8+CUUY/f6Lho/X4WdrIYMZdwSowv/HYgn6a3rhxlRBVFLJtsKKCIQSSX/DF/5xOUscBDJhr3YAriVZECDs+nZWEwtJAy/L5ZrnCjSXYn89gzItKwY8fliKXqSjiX486Hex6PWOrtGy2GLw3D0gPfJdb9AhVgLBeCZBLxQGe31pSsleg0CydYeD+YGUOd5e6Fk+yo3r9i/ICJtDXUNSVHavF+UAhEfH5bxKBN64fTPgqNvPMEA9uwo5XVEqMb/394Sf7ShwWwaYE/clS7avc3ppyOhTnBoMXGS551Oq/8YEamI/R+BYvBH3lWLxlO6xPGfFURc8qBOPxyrGkLK8X/VcmMT/UVpT17biMm2zU8d9GxET5TqjUbuUhUubaa8VT2A5q3VPyaa2PDy1oNrNVivVT7E0Cv6hpJ+SXq4cIg9iN6Iz2lISb+/MjZFSS18dGjsL5OnACVZtbkFZA6GTymEym9Zi3LXtdiUA0sd7cpRx69xq+e6Pcf687JQbmh
 {
  "car_features_by_name": {
   "*": [
@@ -284,7 +284,7 @@ Rab/VlCCfYP06YAuzlsC/C2UGG0pl0kLYAQ7m+X0N1hobQkjSYB6EB5Pr98L14PEswhEdtpILN/O1yfp
   "min_version": {
    "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
-   "jmk-map-menu": "2.3.17",
+   "jmk-map-menu": "2.3.26",
    "jmk-wifi": "1.4.0"
   },
   "pull": {
@@ -394,12 +394,12 @@ Rab/VlCCfYP06YAuzlsC/C2UGG0pl0kLYAQ7m+X0N1hobQkjSYB6EB5Pr98L14PEswhEdtpILN/O1yfp
   },
   "jmk-map-menu": {
    "built": "2026-11-19",
-   "file": "update/files/jmk-map-menu-2.3.25.zip",
+   "file": "update/files/jmk-map-menu-2.3.26.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "f8790f10968225d3b954e161b67a41180417265b7ae1c9592f217e4822a97081",
-   "size": 275079,
-   "version": "2.3.25"
+   "sha256": "5c6880523ecf7926d3ff2e43a8325f08ce14151bd5d6fd85d36a9e0ba79e55b7",
+   "size": 276110,
+   "version": "2.3.26"
   },
   "jmk-wifi": {
    "built": "2026-11-19",
@@ -412,7 +412,7 @@ Rab/VlCCfYP06YAuzlsC/C2UGG0pl0kLYAQ7m+X0N1hobQkjSYB6EB5Pr98L14PEswhEdtpILN/O1yfp
   }
  },
  "published": "2026-11-19",
- "seq": 2026111910,
+ "seq": 2026111911,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
