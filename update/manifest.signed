@@ -1,4 +1,4 @@
-w0U8Z+PGIwHMqnYkAXBgF1akgrBXJi03m6mCR7DFw4QGPBvdp5P7F+TOu3O3EhmUGQ9eZDe9Ka2NZm73guYYYplGeC+ngcqMMCL6aunSPG7Thb7z0EPQuDGHP16RlPnfUReSsr/ZvBY7WcFN7ILzDAFnPahGu2zcVPyQEVAZgK6QS8cqGn84SyEOEOFMN15999cy41CkMX+I9jOK/PRONcbOA99Wm20uI5VH+cpFpgmchDj4n5T51hjDhHJdj1SDyqq4nCMfBf2JAdSpPeVc4zTx7/tGpNzHsEWsb7ofIqXoujJIoqxW3/MMFrdW+NyRcY+1a04+f6M9WcEiPW6obHm6KGQ1qaHnefBguz+EMBDNI0tglvV7chztUq1qEY8kMbJTRUlmgObT2PIO7p/TMDX79+kiW0zFn+iR7odj+y01FgW165qj49TkC2oRoLbsfO3uRovIWkBN3pk2HmC6WHZ9M6a8SPac4vEgH+sd0nydeoM/m94omDmvA4nVVkXW
+mA8cdgRKd1GFX7GHi5Yxzxzo2c/beuoxPXIw5J1GppdEJuySj1Vs5OqEb/PBN8xveHS+fG72RXAn+KTcFNxFBkXX/qd9v1V69SbHbMg5ItS1h1YQDr1uLMZ+IqYmxAYl3jVio2lq3ZFgROqRxmxFMgfOY0zn0pw4V+Wu6Kxd3bscNIxQzjHWB834QjeJdzARxYopyJae3jidUVOYjXceJE7rrRa67CJT8zytYepyMM2HLeKDPI5w7MfwTJALsCEIVKW2kFDnkeqgfkqo50Do5sMfKJoiSx1EXmqCG7JtGOXQLcrvyH3rXUj7+gUKATYaTkydCVqx013W3AJZUWWdMlu8JhHc0j5kPDPBZ5zRznZ/coaIU6fZbXXOZO60l82zJpSWrOzT7E6gvIWaSIumvsZEBfwEae2QCiv2QZTGwZpHYg51GFVi4N9ZDcTe3bCzQy8irN2CW8JjAlGuGVAPYzhshbmH4A4YNkIJDyIaB9mjOr2oMyEQh5DBNtoLMaOi
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -431,12 +431,12 @@ w0U8Z+PGIwHMqnYkAXBgF1akgrBXJi03m6mCR7DFw4QGPBvdp5P7F+TOu3O3EhmUGQ9eZDe9Ka2NZm73
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.35.zip",
+   "file": "update/files/jmk-map-menu-2.3.36.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "eca858fbd8cd34b4f8dc5ae09db4fcc7ddf84837fce71b7131275e58bb8eb7e2",
-   "size": 291465,
-   "version": "2.3.35"
+   "sha256": "e6ad299ceb2fa3ebeb40d48ea9009517c24017e42224b5f1411d17f5b7166a63",
+   "size": 291915,
+   "version": "2.3.36"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
@@ -449,7 +449,7 @@ w0U8Z+PGIwHMqnYkAXBgF1akgrBXJi03m6mCR7DFw4QGPBvdp5P7F+TOu3O3EhmUGQ9eZDe9Ka2NZm73
   }
  },
  "published": "2026-11-20",
- "seq": 2026112011,
+ "seq": 2026112012,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
