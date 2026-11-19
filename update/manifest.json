@@ -24,7 +24,17 @@
    "camp",
    "consent"
   ],
+  "CEEV.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CKPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
    "consent"
@@ -135,6 +145,11 @@
    "camp",
    "consent"
   ],
+  "IKFL.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "KA422.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -197,6 +212,11 @@
    "camp",
    "consent"
   ],
+  "NEEV23.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NQ5.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
@@ -207,7 +227,22 @@
    "camp",
    "consent"
   ],
+  "NX4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NX4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "ONPE.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "QX23.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -366,7 +401,7 @@
   }
  },
  "published": "2026-11-19",
- "seq": 2026111901,
+ "seq": 2026111902,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

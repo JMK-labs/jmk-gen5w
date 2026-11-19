@@ -1,4 +1,4 @@
-1yx2zsMq24pPjwPI6JadEtHHQQx9rHFCdAGoYAcvxEMAYei1ueXO/s4XEI3O4XM9BzofuV1ZOMtRben2/YUXQ+fRH38AsL/CwRCXL4swlvLqP3sMC+tMw/djxPx0hpimm3moYysroRBOxsxx8MC4pJ4VWTveHOQL7UOYN4qogp80AJ0YXmGrT49GvRVpNZ0FBjs5impjhYyngfY3wZqUA2MvhdIF0ajfN8DEb/mmGFMbVsYlHN2vNVqvwROKkHqFf2Gr1LsCifSjUyeW0Ob1tAH2S8pDbivQGjVqGktlKObu/7KfgbZEpju0FOZ01GTTzIzoyZpiWZ9I7Le5kI/o+ZehaeH/wlulhPOT7FRRu6dpBdszTD3I074XfhyeS8l1beO29cCdHLk6r5sxJMx0LbGcEjkdVSMfQO01GRxR1cDq4gs70yFT5R0FxECoUxcrvatiEqU0Zg/eUr+kooKS/rQ6T2SkHR1oGH6RLxWrz2wdA8wGvLKRCIrrXH+jx6GW
+X7t8O/QNvI0rodmMAu+XoulEWzSPFIwzVtmMKePc4yBEjSjtqs95ni+UuQeVV0U1xL1QyNe/szHL6+k7DdYuZBQDxrk4M16e4ke2MqRhIq9ss1Az9ybVGGmVuDK74Ju/hGsV76+lJeiHhCMwuQpn2kRqjKXm6ieqjhyRhNotBUDa3CBOWBdO9/2iX4vxf3pE3eAhLfypJMprCk8Vd+twGCyB8sJFjDaO4skIPovQ8CqJ+2FLc8XWdfC5q2PoDKEcXlhjUXRPP/usQu8CJijqXxgY0vJJn9tEz8a5vUY3xOACHKkksKNoJL8XfFwZu85PBNPHichqvOugEZ3hoxf776h4t/V1i3FBxRKjqTp2ylBH/jwuV6+PgEuWiFX8/bmUD7Z3o2ixTecuA7XYdFA0gz9X99bGWRrEWqECVqmoGpNvAfK70ykKxpEDX1P0V1ptJWpLy262seEA39BSoY2wbKIzA8Qp9ew7MfshbVvW4+qi/Sufz0ZsacwtCVD336IL
 {
  "car_features_by_name": {
   "*": [
@@ -25,7 +25,17 @@
    "camp",
    "consent"
   ],
+  "CEEV.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CKPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
    "consent"
@@ -136,6 +146,11 @@
    "camp",
    "consent"
   ],
+  "IKFL.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "KA422.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -198,6 +213,11 @@
    "camp",
    "consent"
   ],
+  "NEEV23.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NQ5.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
@@ -208,7 +228,22 @@
    "camp",
    "consent"
   ],
+  "NX4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "NX4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "ONPE.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "QX23.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -367,7 +402,7 @@
   }
  },
  "published": "2026-11-19",
- "seq": 2026111901,
+ "seq": 2026111902,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
