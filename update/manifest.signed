@@ -1,4 +1,4 @@
-P0nr1NWqbQR1Lb2PNE/p48eD7sqeRZIXRQyfwEuFIFQ9dhFWb1aMSGbEa3H1uzc8wB0bXcYC+7PBe9F9B2eq8VCYFrpyhLvWEtnWnxcEWkGD7UU0zFHEXf0HFnVHqqxKIln9v/JAFIWMSLKYbpDn00jown+pQwRAJVms1c/5OlnRC2bCFIbUxpGk9+TCbl3rs80m0kMVmD8Wex+QYpxKVGu2prBaFNDh0LiHY5QAbtP5AzTiJ7PTmsR1y4fmTLSyZcUl1iKjMcPriRPKK7b+08uy1MvdyBWvncdJuA0z7luKzDbvySy++r1eBeN/9D2HUnfcJFEI7+MFjFB7Melsdexr/BhWEM5WXD6v9d7ma1rjwJQDEC5NFcH+a62kVBx5wTXAcBdFNtMroNHFL1dFQS+FJ3OgpVXF2yYId1Z22qHIW4UZpvrV4RyJtLJsigQjB8L2Mv4KDhVcVTxEBEocyAiaE42m8LkDsMC9kCb7V4CBhIdLPGUSuhhS4HzObzcX
+sAx8jylmj+dM/fNijJwAqMk7OWHIwNa/sQ/9JiNKKXoRiCs6QfpTaeGRpNOFPmFy4tVXFXyHWupgpDxV0UgyddC8o7lkGKZjRxaMZqzY/hZ1LdjQgY/THMoY80TVNupYPbqHp9IfgCvmGESm+sCUhMmmnLi+UjFhdb2L6Km5TWoh0sBU4MjxL3LNxZ2om5PXrVYXc9++lbqDXcJl1KPsdwmpoNhNjNoFbfpn802K/Oz/5nMbx1a/n0TyU1B8w19OxNzQuzBxaxKoYzUeG5Qt5SCd3JqBYFxLcMafQuj4C38Vys0ffSnc8FfeJc6FuBb/ts/QARyxAPGM/+zc+k5TEZfyM1DHjx73mRQ3En1gAlpzai0Zr+od0d2EGj3EM5W6C+BpYGeVGTC0CSsJzL3geSs1Yhg8MzQ9CapYEl3LaUswPoz4/Mo5hOXpSYOfRYXeZxhN5f7+E3/ReUzi5vXM6KuXVxbq3YEerkpi3ryI59mXeUNA6/9R64+5x8BPGulI
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -412,12 +412,12 @@ P0nr1NWqbQR1Lb2PNE/p48eD7sqeRZIXRQyfwEuFIFQ9dhFWb1aMSGbEa3H1uzc8wB0bXcYC+7PBe9F9
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.9.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.10.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "fb05a25755e03c00e4c4b6407925a3d42fbd83f2a6feae3ff13f2802c0f874ba",
-   "size": 8808958,
-   "version": "0.1.9"
+   "sha256": "f5aa9c650ef56f53328d853c79dddc360c912a9368f936abdb8a942d306036fb",
+   "size": 9098556,
+   "version": "0.1.10"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
@@ -439,7 +439,7 @@ P0nr1NWqbQR1Lb2PNE/p48eD7sqeRZIXRQyfwEuFIFQ9dhFWb1aMSGbEa3H1uzc8wB0bXcYC+7PBe9F9
   }
  },
  "published": "2026-11-20",
- "seq": 2026112002,
+ "seq": 2026112003,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
