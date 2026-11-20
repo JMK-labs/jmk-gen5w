@@ -70,6 +70,11 @@
    "camp",
    "consent"
   ],
+  "CN7N.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7N.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -112,6 +117,11 @@
    "consent"
   ],
   "DL322.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3HEV.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
    "consent"
@@ -222,6 +232,11 @@
    "consent"
   ],
   "IKFL.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA4.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
    "consent"
@@ -351,6 +366,11 @@
    "consent"
   ],
   "NX4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4HEV.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
    "consent"
@@ -523,34 +543,34 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.16.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.17.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "eede5f72f332997769f4ff0648c773abc7ace107474c7ace469efc0b02e1de4f",
-   "size": 11249167,
-   "version": "0.1.16"
+   "sha256": "c7bd779af1b246f8a8a1ac19020d768e6093737b22d69fa0cd021604bfb1b89b",
+   "size": 11256700,
+   "version": "0.1.17"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.41.zip",
+   "file": "update/files/jmk-map-menu-2.3.42.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "9fbe2b99b28e9d2eb7009de6f301edc4ac381a24b95ae4c27cdab3ce7e14c010",
-   "size": 311922,
-   "version": "2.3.41"
+   "sha256": "800f80323cdedbd07e6114537379e2ecc94fb09e8a44a41c652db6924c01470e",
+   "size": 313217,
+   "version": "2.3.42"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.16.zip",
+   "file": "update/files/jmk-wifi-1.4.17.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "05d84d781ff8e62c8a53bc161322bc7c84060cce37e3c3afa87302edfb6d49db",
-   "size": 2985221,
-   "version": "1.4.16"
+   "sha256": "8e4d356a51a16dc55942b90b77683193724e19213b7f4d721e0279f1c7f29547",
+   "size": 2986719,
+   "version": "1.4.17"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112035,
+ "seq": 2026112036,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -619,6 +639,7 @@
   "7a814800b7aeb8e7598404d3012cb74d",
   "7fee1909a8719e2a2ebaf417dfc4fb22",
   "80fb912deb3a40cd2e7ea642a8812071",
+  "822ee16bf3d39b410621181ec7673689",
   "97a78c16cea35067672803ffa086d588",
   "a563d86774f00a32dc61c95b560aea44",
   "a97f7777e4b325fe08e40f08f2367238",
