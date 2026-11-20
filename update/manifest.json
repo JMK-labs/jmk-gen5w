@@ -466,16 +466,16 @@
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.12.zip",
+   "file": "update/files/jmk-wifi-1.4.13.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "89313aba32b9c913355093eb711121246e49c620eab9f7ae4c34b4e429a3555e",
-   "size": 2980744,
-   "version": "1.4.12"
+   "sha256": "ffae125e0d85868c27c6620d4e77346a2948c76f20bc2918f82177ea7a7de5ac",
+   "size": 2982425,
+   "version": "1.4.13"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112022,
+ "seq": 2026112023,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
