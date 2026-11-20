@@ -55,6 +55,11 @@
    "camp",
    "consent"
   ],
+  "CN7N.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7NPE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -460,7 +465,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112016,
+ "seq": 2026112017,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
