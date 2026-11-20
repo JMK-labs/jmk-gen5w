@@ -4,10 +4,10 @@
 
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
-| **jmk-map-menu** | 2.3.43 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
-| **jmk-ambient-sound** | 2.5.22 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
+| **jmk-map-menu** | 2.3.44 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
+| **jmk-ambient-sound** | 2.5.23 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
 | **jmk-wifi** | 1.4.18 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
-| **jmk-autoplay** | 0.3.6 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
+| **jmk-autoplay** | 0.3.7 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
 | **jmk-autoplay-hud** | 0.1.17 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)**
