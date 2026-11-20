@@ -10,6 +10,11 @@
    "camp",
    "consent"
   ],
+  "AX1.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "AX1EV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -216,6 +221,11 @@
    "camp",
    "consent"
   ],
+  "LX2.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "LX2.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -326,6 +336,11 @@
    "consent"
   ],
   "QX23.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SG2EV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -490,7 +505,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112028,
+ "seq": 2026112029,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
