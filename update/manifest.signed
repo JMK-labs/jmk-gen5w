@@ -1,4 +1,4 @@
-0AHmen3zqnnDk/GFZ0knL98NYKE/8vN83XoqLrUql9fknySYAQWNziozHPzNVaInop/nH5uQ/rjuCXlK9C0qyjhetDkiJ+ZVTdGV+tJMiKCj4TudAXHz1mxSkrGsfJNe1mFnMzBwmTDi3dht7m65mPUOMvcbKB/tQiyW/px12uuEh/iUdcJD8yQCfwU8SwJcwpVJzEenX8yvKNcpsBhwDeSB2xxAJojT5G9f7ftmWl+/i0W70nTIhNKWh8yIRseE0xhDbxgvmEUV477FbQbo9zUugYflLgEDHoxw/mVc34H7Sn/sy50z4yS7BDzexLGsfVgA2fwKigT/j+qVXkysGARfBcQGo/VDEhkCjXQNYJvcJcJ3N8+x5yzQK+oVlhWYXAo62bFqzoKj0mbXVphWvRMqf2KLH6KCGXKqHLFBzNhJU6Va22IgrbPFbVO9VSE1qBLi6E0+Ju1PWxXLu9+KgAB/RBDu6MTOJeitF1XrXtp7ReXp1mdCHub4g0nSBDoY
+B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM29LDUPDiHlcqfD80pQQ89dX7Z1zNrRTHUCcN0Eaue9GxAzIRrML3rTnhDlgBhZAQHSbCju0bdtJToaOI46qUTef956UGbW8OpausWiSTuUu3NlQRiqoUbCz01j3Razcuog3xejX2oZbf+8BCjh6Oi+lpaTEUFHbei6u2pV4t7HbCuLTHJvWQY1zbH6ptJzU3DR2hc3keDXPg6YEKsTcIWu/jIorfBJUYqaADY9s841EqsWi2R5eccwN5aoHy9mFheUCJ8v+ZwD31Crr7NzUYnaI04EtFpe2uykuXZDo4GjQBcsI1KNJCaoK/mVz+iAnjk27/ODq5MMKauiO6NF9rCv2yum63cY0qKPVa8gGexxLlfvd5rLFDYuB9Sr74ZFK64eZfyyHB2SnMxdPs0nrDLn378E9fq37sFXLUnv8clFEKRLMVR
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -103,6 +103,11 @@
    "consent"
   ],
   "DL3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL322.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -375,6 +380,11 @@
    "ambient",
    "camp",
    "consent"
+  ],
+  "YGPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
   ]
  },
  "expiry": {
@@ -511,7 +521,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112031,
+ "seq": 2026112032,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
