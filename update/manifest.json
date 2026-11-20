@@ -20,6 +20,11 @@
    "camp",
    "consent"
   ],
+  "AX1PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "BDPE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -176,6 +181,11 @@
    "camp",
    "consent"
   ],
+  "HM22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "HREV22.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -187,6 +197,11 @@
    "consent"
   ],
   "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V036.001.251027": [
    "ambient",
    "camp",
    "consent"
@@ -237,6 +252,11 @@
    "consent"
   ],
   "LX2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -345,6 +365,11 @@
    "camp",
    "consent"
   ],
+  "OSPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "QX23.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -376,6 +401,11 @@
    "consent"
   ],
   "TMHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "US4.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -520,7 +550,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112034,
+ "seq": 2026112035,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

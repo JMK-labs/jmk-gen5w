@@ -1,4 +1,4 @@
-BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4gCD6MnRTiX/xdTUf6jgwx7Dm4mlBYSP19T6sHrnoQE6NMXNfb3cTCgmejAZqDhUtyfaks7fLuksZeQ51UvjMpeSCs3sX+3ZY8MSdnt9T1gD7F+gapb2v7m18MVuHulVmiIaSqN64y94VXoLnZzGRSZ4DOtFlZMVC/ZmnRnlguAUOWiqolHDxfNGbpUYIsbeUsxjiNII7CVwLbqaUzQr6P84B0THEq5X5jMXMRjNatG8jtDzY7zmPfC9Q62doNxdh2oLV3FGOwILfpumMns3ciDCl/2mcsDsLlP3KVpzMgde2Jt/f095YS8+/6TmJ9RR3FDM+hWReSRYYwiTKOr7E1SzqvAEjesUQWrYXuJOLWSqwcFvaTupFMrE/yBlAfnd0ECPOij/z+wO9wR9fB72dDsgJ868A0JK0qCMD5bjUhiRMPm+D
+OWVSSvXgdmem+Wzyfu1A0s1w8GR5zdlVjGQQ/swBY7nqM0uYa1nYnwnssJ8fTOztKwruRzOccKioWPDEXkhmpCM6dlz2cI1I8ZW1wr31YSImOGPq5UFJBCrmy6HQ/IlLMQmKPwivDRyC+n6ZJ1jUWjxJJb15Me0iwi7E8c8zFCW3LiIxwv6g1+Gk8sT36NeNRzmsi8OG3RlNINzOFUGzeOzRZTvVi8Yw1fAAltIpi00mCobgMdD6fvQl8MbxhsGj6oIxJgLwpYGwHoSggSwlqFiVb9p2wzig2kvEWd27xRBGSlecnd6LLnyvr44st5ajNm6mDPI4VpKufBIB6DkBraAUlnUm8cq8fOhmIetUZrgWdkjgCKsJjvwNJnNshOQry0/83O44aAhTIcqq+KAMBzriuEeX7+oJKCpMoAVwVmjqhgY73aEKB++tJ9sEth+4XtK0+WZ60nh4LYryRQMOGONP/viNudrwqRAgpBzDhdU1J4fh0YUIaUmuedYD442m
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -17,6 +17,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "consent"
   ],
   "AX1EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AX1PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -177,6 +182,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "camp",
    "consent"
   ],
+  "HM22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "HREV22.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -188,6 +198,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "consent"
   ],
   "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V036.001.251027": [
    "ambient",
    "camp",
    "consent"
@@ -238,6 +253,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "consent"
   ],
   "LX2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -346,6 +366,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "camp",
    "consent"
   ],
+  "OSPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "QX23.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -377,6 +402,11 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
    "consent"
   ],
   "TMHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "US4.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -521,7 +551,7 @@ BCY64cNHebhFwW6uxdTLdy/zKrDyJldazA+RDMMZD3ce7PsAJwJjeeVUoNtmm45HCkQMp7dqy5kunzg4
   }
  },
  "published": "2026-11-20",
- "seq": 2026112034,
+ "seq": 2026112035,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
