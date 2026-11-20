@@ -1,4 +1,4 @@
-e8YEofcX6ozh7aCk8Esro7mZInsKP2JOW1POLMTCKSqtSIsLcfTNRQl99NJ33MK0zPODIerGMQwJnqwKVsiFUaQWwUoiIds1PMf714gxvkRpo6HHhkhY/dcCGuXV/ji0J5KElC+Wq7r8Sw0UVFn7XnNDGNyuBQIvtBU+AuFYaXI+Cpyt+7EpkNhQUpUX7tbLdx6ydUcRZvoBZtVTporVxf8w2yUmtIeGPonvOu2ycTnqsvSFFZeggeqxwH0RqnPV20PvXugL/yws11i6dwncQp1BPx/sMggmbfkK4QoLScuUGI1pzgnfJPn2JQP+y5hIm3k+36Cctri0PazGGZQdnX4P/tt5gn8v8raTuGOK2R+sgecD3geRN+OUT+Dcb35vTbLDlyCxrkn5wgP4ekIWrZOTmPum/r4pWu99puvTcC308mcaGM/xm2QqmuGu9UxJbxfFLi3ZPEkmCdTwBnKfz2TompL3C1ag+K3haEO9vbSh4OWHtjW2VxDpAH1OJtyo
+Em6Zm0Sjcrux8b4cLkPymyZIz0EuPIllk6FXBH+Z6RHkaYTXCc8WiC1Ga0sWEGLd8PIrsBDY+dlbsfHiR0D3yRvU9pPLA7gARedU6C0aR+oJimk8Jhno5rNlGdwqbf0+HlVRDQAedKIRNNgYBWxdYSzuTzEGt1kKSFkfF0AOr9n9ys/4OYOrtge19vzDV4oHIfT+bAyjMiLzOw0usHhaTseFKFQS1U64h1vS0xkdDxU5RDoIUs5bjwqfxwkt/JP9KZj+mML+ddsGWg9smXxPqkc/kT4598j0cTNophoVV7Hrv7BV3zaOpRTEEA4sdezTNC+3FSHff9qdhRnSHZCP51r3PYLmZPo6tAoaDl8G2bhCm6XRAcIbjNk8rxyGdq/zbCNTjufdb9Kpcdfhl8epCCmVl1EbCI2iv70JkvLKzzi5HSSiaSdddAZnUOY9gsamZieBeIryOUIw6svzJewC7rpRFEKUz1iiJcWGwduQ38HpuKec7Bc7z90jPylVHRww
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -446,12 +446,12 @@ e8YEofcX6ozh7aCk8Esro7mZInsKP2JOW1POLMTCKSqtSIsLcfTNRQl99NJ33MK0zPODIerGMQwJnqwK
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-ambient-sound-2.5.20.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.21.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "b602797051e1d0c5235f340736010725b72401f0c7413c7dfd9bfb9840fd7252",
-   "size": 147305,
-   "version": "2.5.20"
+   "sha256": "ba27118fded0a1e85649a5b8c3fc71601251b4073f2b0fb06584e23e6367f8ec",
+   "size": 147337,
+   "version": "2.5.21"
   },
   "jmk-autoplay": {
    "built": "2026-11-20",
@@ -482,16 +482,16 @@ e8YEofcX6ozh7aCk8Esro7mZInsKP2JOW1POLMTCKSqtSIsLcfTNRQl99NJ33MK0zPODIerGMQwJnqwK
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.14.zip",
+   "file": "update/files/jmk-wifi-1.4.15.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "0afa44e7e24a1fcdeabc1ab599117a71266f9d70fa7f2bfd7485cee211df647b",
-   "size": 2982857,
-   "version": "1.4.14"
+   "sha256": "05afa5be23a2bf35cf61cb0c6911bc5f505942723fa7064cdb0b7b5576c5685c",
+   "size": 2984020,
+   "version": "1.4.15"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112027,
+ "seq": 2026112028,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

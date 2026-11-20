@@ -445,12 +445,12 @@
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-ambient-sound-2.5.20.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.21.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "b602797051e1d0c5235f340736010725b72401f0c7413c7dfd9bfb9840fd7252",
-   "size": 147305,
-   "version": "2.5.20"
+   "sha256": "ba27118fded0a1e85649a5b8c3fc71601251b4073f2b0fb06584e23e6367f8ec",
+   "size": 147337,
+   "version": "2.5.21"
   },
   "jmk-autoplay": {
    "built": "2026-11-20",
@@ -481,16 +481,16 @@
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.14.zip",
+   "file": "update/files/jmk-wifi-1.4.15.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "0afa44e7e24a1fcdeabc1ab599117a71266f9d70fa7f2bfd7485cee211df647b",
-   "size": 2982857,
-   "version": "1.4.14"
+   "sha256": "05afa5be23a2bf35cf61cb0c6911bc5f505942723fa7064cdb0b7b5576c5685c",
+   "size": 2984020,
+   "version": "1.4.15"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112027,
+ "seq": 2026112028,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
