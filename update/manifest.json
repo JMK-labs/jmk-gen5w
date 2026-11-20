@@ -438,13 +438,13 @@
    "version": "2.5.19"
   },
   "jmk-autoplay": {
-   "built": "2026-11-19",
-   "file": "update/files/jmk-autoplay-0.3.5.zip",
+   "built": "2026-11-20",
+   "file": "update/files/jmk-autoplay-0.3.6.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "98c50a24bcfc0289c85325b27ba9b30b70ce28d65fc73623d7d17583ffd30efc",
-   "size": 21398,
-   "version": "0.3.5"
+   "sha256": "06748c60c74765d6bad7d7fb0c9b5092b2ca19dc16bd05e9708fc9609025ccfe",
+   "size": 22008,
+   "version": "0.3.6"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
@@ -475,7 +475,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112023,
+ "seq": 2026112024,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
