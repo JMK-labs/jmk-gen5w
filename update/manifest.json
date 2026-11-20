@@ -433,12 +433,12 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.12.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.13.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "3b13a9e12a841e8442e3b94baa69dc24b2faaff0d78315566aaff67e25058e8c",
-   "size": 9467626,
-   "version": "0.1.12"
+   "sha256": "245775ab29fe21723d7d0e3f7a750532fb782af4a8dcf7a2fe422a4171c5c4fd",
+   "size": 9468479,
+   "version": "0.1.13"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
@@ -460,7 +460,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112015,
+ "seq": 2026112016,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -500,6 +500,7 @@
  },
  "supporter_hashes": [
   "0396b46ea6da01381beb6905f3918d1f",
+  "0b78bbf7087bff21e5d5e2284fb0c5c2",
   "0cd91fa129b010d4cf4bf16fcee18b7d",
   "106310caf7f67c819e79f58a74a4ca1f",
   "1c3b8ad2158d2fd05dfa7831a9e7e751",
@@ -514,6 +515,7 @@
   "39f8e76ec03d27e9a918e6283a030218",
   "3d8b258d6a0dde4e222d0e423b20efa8",
   "3f642e31d4b745622da467edb9438e1e",
+  "56d610583fbccb91e2b1303a65714eb1",
   "56f5284622411c4a4fc3acf2f3bd1aac",
   "5834aafe0ef31d077feb2ec23a6bbf65",
   "5c2b67b44a89b7d2c5fc6c8fdd46287c",
@@ -529,6 +531,7 @@
   "bc1f66418c69822d0a7a63f5e20d5dde",
   "c1d65edf46c4aeb754e2872a87e2862c",
   "c30dbd6b0a13b600d045a832a953035e",
+  "c9d37f4ce38796604f311ce3f1e6960e",
   "ccb3a23b53c6943aebb33af86473e56a",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
