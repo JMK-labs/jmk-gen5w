@@ -1,4 +1,4 @@
-B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM29LDUPDiHlcqfD80pQQ89dX7Z1zNrRTHUCcN0Eaue9GxAzIRrML3rTnhDlgBhZAQHSbCju0bdtJToaOI46qUTef956UGbW8OpausWiSTuUu3NlQRiqoUbCz01j3Razcuog3xejX2oZbf+8BCjh6Oi+lpaTEUFHbei6u2pV4t7HbCuLTHJvWQY1zbH6ptJzU3DR2hc3keDXPg6YEKsTcIWu/jIorfBJUYqaADY9s841EqsWi2R5eccwN5aoHy9mFheUCJ8v+ZwD31Crr7NzUYnaI04EtFpe2uykuXZDo4GjQBcsI1KNJCaoK/mVz+iAnjk27/ODq5MMKauiO6NF9rCv2yum63cY0qKPVa8gGexxLlfvd5rLFDYuB9Sr74ZFK64eZfyyHB2SnMxdPs0nrDLn378E9fq37sFXLUnv8clFEKRLMVR
+A0UlZPK+tk3tCQ+WiuRPgXrGh/0Tudu6RRbZPQAdfLKZh+mWYVGvm8dNRZXysaU9Gw9XkTXfx1axLGjMWfDHEW9uTf+/uWS4Kz9wjqAI5zu7RzZRKekjdgd2pLnZ9O4apyd8VjTCMD2NaEh46XsPCu+wywhq1CC65gl0UBEWYAcORseoEMLpAPu3LpthsQZCZUIKLRhQrny4/ZyCImUCEXy3/NSNomHhRJCxz11oSy+P6v2yV9IoqKLES4X9+jiSiM+l9+08jG90HoHzELj/jZQpPfLlpK2Wcy1VoRCw3yI7KNR0zI67V3CCbJO6v9XIYrBuzO/QajAUmreMzVKrIvOzyE8VRXqo4rPvDkh5Bd50FrVRaNJowE9CoYSXtQ6kA2QtjbBbaTBD03GmIuj4fTCWuFX0oHcDbKABxDuC7bAtnyPoZ3aOk3RjgqNNUeSHwLn0VVXu69meDTw5yXkdnHkkPa6iUtgfwV5TGAshP/TdOOqvt1k9kZeE+b5tJb9X
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -494,12 +494,12 @@ B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM2
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.15.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.16.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "d7eac9955e14f62fc73786a7c07b21de2b7a87921ad9f8e90a11e3ddc2c7c94a",
-   "size": 10067064,
-   "version": "0.1.15"
+   "sha256": "eede5f72f332997769f4ff0648c773abc7ace107474c7ace469efc0b02e1de4f",
+   "size": 11249167,
+   "version": "0.1.16"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
@@ -521,7 +521,7 @@ B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM2
   }
  },
  "published": "2026-11-20",
- "seq": 2026112032,
+ "seq": 2026112033,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -563,6 +563,7 @@ B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM2
   "0396b46ea6da01381beb6905f3918d1f",
   "0b78bbf7087bff21e5d5e2284fb0c5c2",
   "0cd91fa129b010d4cf4bf16fcee18b7d",
+  "0ebff74ad3cb09a80d17244317bce06c",
   "106310caf7f67c819e79f58a74a4ca1f",
   "1c3b8ad2158d2fd05dfa7831a9e7e751",
   "1d22888efe43bf0388f786e652eceb50",
@@ -573,6 +574,7 @@ B/Npr5Yl79m4xWK8LheoKkLvTZTkySk+gNiw4LF/7fsT8N/s0NwNu0KEJtTQ8FfGLinC9qSIZBndaKM2
   "28167a8d3a347ff70177c63fa16b1c2f",
   "2827bd56627681252ed355c2153fc659",
   "30989f9479e51ee140d9c7a3cc81543f",
+  "3245ba0c2b52470f36d34c24b9bc610d",
   "38cb0b3567c7ccb35265badb54f64e4e",
   "39f8e76ec03d27e9a918e6283a030218",
   "3d8b258d6a0dde4e222d0e423b20efa8",
