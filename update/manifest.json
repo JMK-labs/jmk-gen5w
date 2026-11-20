@@ -241,6 +241,13 @@
    "camp",
    "consent"
   ],
+  "NEEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent",
+   "lab",
+   "warmer"
+  ],
   "NEEV.KOR.0000.V038.001.260604": [
    "ambient",
    "camp",
@@ -324,7 +331,7 @@
   "min_version": {
    "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
-   "jmk-map-menu": "2.3.27",
+   "jmk-map-menu": "2.3.37",
    "jmk-wifi": "1.4.0"
   },
   "pull": {
@@ -435,25 +442,25 @@
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.36.zip",
+   "file": "update/files/jmk-map-menu-2.3.37.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "e6ad299ceb2fa3ebeb40d48ea9009517c24017e42224b5f1411d17f5b7166a63",
-   "size": 291915,
-   "version": "2.3.36"
+   "sha256": "c4e2c6e06aba8d1766b58a1aefde836282d3ddf58a2145d06ec5de7b121ff82f",
+   "size": 292130,
+   "version": "2.3.37"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.10.zip",
+   "file": "update/files/jmk-wifi-1.4.11.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "97d8b97ed474871746902911df54bf3a49f3037ea9864226836cc610b5761f0e",
-   "size": 2979857,
-   "version": "1.4.10"
+   "sha256": "9ba80b21324de32c9fcb0cbb26bedc11c4e76b70e96288c30efba561d23c1a52",
+   "size": 2980195,
+   "version": "1.4.11"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112013,
+ "seq": 2026112015,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
