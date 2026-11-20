@@ -1,4 +1,4 @@
-qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hDISSy3/OEjEaYkOcn5y0u3wAXqSI8jZviUTawxGBV7Uur6AI7KlVthxpf/FwlfL3+1y6KqW5Wi8UqnuS/mCEeSYOSxc9Q+PPdHv58saEHW0BFAXak42bs9j5CszhzmXgwjQtveaq5xd4C3zhNGDvjujcMjeLDD4jhPCuZlD3h+gqqQ3IhZ9UqKeREwbYJms5agRC848vpjfiebi2KlYhVNcgNoA/ssAdPD477IYG1qeG55cJwKLNXEIzh+a0mtCEhuqpuZrsMTLmXuHXmHCxXtImj1zQfOPN2LU9PilS7rgKjY4p9G2G1CGuVCYAvjJsS4GbYyF+mPEd88IVk62nZhi6c5k1zgjnPMLRmrhrH4zrn4WQKmLVx1kkx0Co8uYm7WfTowV7Gu1N/aLqrbAG4xtPoaGEpDSvZGvEr2DWm++Xpu2Nk
+m9WiKYbB+1q9SZY8LrKTSHgiJmAYLkF53ub6MA/R4oglR7BiYK1HRlw6gY96PhkqPOtcEV+QuwsDauKhPprPIavX25QU/qpvLAdXv1itHYeufnVdGSewEKRVPWauDa/v/5U7Q0+tJHkbSiIPmXnD9qA7o/utCdOR8jm1iv2RonFACSYiPn3am9VaN9lFUK9C5bJ/3Qkf0FL/Ja7HlwCR1SaZari6Ir+rppn6eh+W2bQKCGCZsxKqwmNuCpSaX3exN3p8VMaOm6KOuuzYBKICF18EKhn9RaULdemzm/+yznRW4SCal9Mrwx4nCCC4Kjs6d7V4jeP/SDJHbzmonZsclh+oCrObteewfhpV090nY09z4gdLP/kFYdKS1RcLPGcPzTUOfDQ7b5+acaZlpUhTR92w0a1rAIM8OM2xtTaLUWKOQ+gfIuNkLfhG+KPOLBXffSYN/19fjWCyCmTs/DdXzfFA9YEHYemiGpAextrBwsbL9nE67h+Yc7keVRJlAwya
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -378,7 +378,7 @@ qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hD
    "jmk-ambient-sound": "2.5.13",
    "jmk-autoplay": "0.3.1",
    "jmk-map-menu": "2.3.37",
-   "jmk-wifi": "1.4.0"
+   "jmk-wifi": "1.4.16"
   },
   "pull": {
    "jmk-ambient-sound": {
@@ -488,25 +488,25 @@ qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hD
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.39.zip",
+   "file": "update/files/jmk-map-menu-2.3.40.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "dbcf245e8c2fc2a2ba8faa9f8ac1810e4f8f7c4f2f036ac7e00c2a77040cba07",
-   "size": 308080,
-   "version": "2.3.39"
+   "sha256": "68b0c04e59dee06055a5394f2268430bb51e31076ef4caef88d312e7fb253923",
+   "size": 309430,
+   "version": "2.3.40"
   },
   "jmk-wifi": {
    "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.15.zip",
+   "file": "update/files/jmk-wifi-1.4.16.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "05afa5be23a2bf35cf61cb0c6911bc5f505942723fa7064cdb0b7b5576c5685c",
-   "size": 2984020,
-   "version": "1.4.15"
+   "sha256": "05d84d781ff8e62c8a53bc161322bc7c84060cce37e3c3afa87302edfb6d49db",
+   "size": 2985221,
+   "version": "1.4.16"
   }
  },
  "published": "2026-11-20",
- "seq": 2026112029,
+ "seq": 2026112030,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -550,6 +550,7 @@ qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hD
   "0cd91fa129b010d4cf4bf16fcee18b7d",
   "106310caf7f67c819e79f58a74a4ca1f",
   "1c3b8ad2158d2fd05dfa7831a9e7e751",
+  "1d22888efe43bf0388f786e652eceb50",
   "21ab74f459893c8f09a5af48c3594f24",
   "2240a374c459d8c536eda5dc1df77147",
   "2444739b1934156ea068fbff8c446150",
@@ -566,7 +567,9 @@ qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hD
   "5834aafe0ef31d077feb2ec23a6bbf65",
   "5c2b67b44a89b7d2c5fc6c8fdd46287c",
   "650e54dcc5d415a81bfda584ac92b3ac",
+  "6f3cd7210d91377612361674d76fab5b",
   "7398c4269ca245de64632b6f74c99788",
+  "74af8afd480899316590a20d45b4c223",
   "7a814800b7aeb8e7598404d3012cb74d",
   "7fee1909a8719e2a2ebaf417dfc4fb22",
   "80fb912deb3a40cd2e7ea642a8812071",
@@ -583,13 +586,15 @@ qLvEAh8O683KUDMe4Tpk4IKRCbxQ6WV4ZXX9rgVzf9VA81a+E+qy14PYK/eHkFn+H3IxxSVdfQwTx2hD
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
   "d11fd62b6229c8f072c329e34b6e9553",
+  "d33728cfd636cafe4ca4b1403acef98b",
   "d5529a43072490873d173d71ac6f7991",
   "d86c66187d5b42e331adbe7bc698b012",
   "e04d50bb32173147ee59027baff012a5",
   "e600984558622aa64572276401a36723",
   "ecd54cd111a97727501d76e4827e88ab",
   "f0641873c02a70e9651dcfae3e8c7f1e",
-  "f8b1a4de615eda3a47d690465ac8e8ac"
+  "f8b1a4de615eda3a47d690465ac8e8ac",
+  "f9faa4f51e3d44223007adf2fc38ac7f"
  ],
  "supporters": []
 }

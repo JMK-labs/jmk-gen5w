@@ -4,7 +4,7 @@
  "versions": {},
  "min_version": {
   "jmk-ambient-sound": "2.5.13",
-  "jmk-wifi": "1.4.0",
+  "jmk-wifi": "1.4.16",
   "jmk-map-menu": "2.3.37",
   "jmk-autoplay": "0.3.1"
  },
