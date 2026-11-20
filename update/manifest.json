@@ -524,13 +524,13 @@
  "integrity_lock": true,
  "packages": {
   "jmk-ambient-sound": {
-   "built": "2026-11-20",
-   "file": "update/files/jmk-ambient-sound-2.5.21.zip",
+   "built": "2026-11-21",
+   "file": "update/files/jmk-ambient-sound-2.5.22.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "ba27118fded0a1e85649a5b8c3fc71601251b4073f2b0fb06584e23e6367f8ec",
-   "size": 147337,
-   "version": "2.5.21"
+   "sha256": "00928348875f76d2a3a9ec07f896ae00cf4c234447360689cceb3f547b46a289",
+   "size": 150018,
+   "version": "2.5.22"
   },
   "jmk-autoplay": {
    "built": "2026-11-20",
@@ -551,26 +551,26 @@
    "version": "0.1.17"
   },
   "jmk-map-menu": {
-   "built": "2026-11-20",
-   "file": "update/files/jmk-map-menu-2.3.42.zip",
+   "built": "2026-11-21",
+   "file": "update/files/jmk-map-menu-2.3.43.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "800f80323cdedbd07e6114537379e2ecc94fb09e8a44a41c652db6924c01470e",
-   "size": 313217,
-   "version": "2.3.42"
+   "sha256": "29a00bfc259e1da73d1f28201d247833a0315484238b17c5c68cd437e146a668",
+   "size": 314480,
+   "version": "2.3.43"
   },
   "jmk-wifi": {
-   "built": "2026-11-20",
-   "file": "update/files/jmk-wifi-1.4.17.zip",
+   "built": "2026-11-21",
+   "file": "update/files/jmk-wifi-1.4.18.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "8e4d356a51a16dc55942b90b77683193724e19213b7f4d721e0279f1c7f29547",
-   "size": 2986719,
-   "version": "1.4.17"
+   "sha256": "8a34ea14e3a099eaafc6106bc04b478cd23d171c5de590bad9ed3db634b1a759",
+   "size": 2987609,
+   "version": "1.4.18"
   }
  },
- "published": "2026-11-20",
- "seq": 2026112036,
+ "published": "2026-11-21",
+ "seq": 2026112101,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
