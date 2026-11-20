@@ -438,12 +438,12 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.13.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.14.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "245775ab29fe21723d7d0e3f7a750532fb782af4a8dcf7a2fe422a4171c5c4fd",
-   "size": 9468479,
-   "version": "0.1.13"
+   "sha256": "13f11b5d70644e5de5a877d1ad263b3a8bbd266276465ebd60f756bbd20cfbea",
+   "size": 10070501,
+   "version": "0.1.14"
   },
   "jmk-map-menu": {
    "built": "2026-11-20",
@@ -465,7 +465,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112017,
+ "seq": 2026112018,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
