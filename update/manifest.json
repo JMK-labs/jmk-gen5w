@@ -196,6 +196,11 @@
    "camp",
    "consent"
   ],
+  "HM21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "HM22.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -435,6 +440,11 @@
    "camp",
    "consent"
   ],
+  "YGPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "YGPEHEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -575,7 +585,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112103,
+ "seq": 2026112104,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
