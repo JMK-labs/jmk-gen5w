@@ -1,4 +1,4 @@
-m9WiKYbB+1q9SZY8LrKTSHgiJmAYLkF53ub6MA/R4oglR7BiYK1HRlw6gY96PhkqPOtcEV+QuwsDauKhPprPIavX25QU/qpvLAdXv1itHYeufnVdGSewEKRVPWauDa/v/5U7Q0+tJHkbSiIPmXnD9qA7o/utCdOR8jm1iv2RonFACSYiPn3am9VaN9lFUK9C5bJ/3Qkf0FL/Ja7HlwCR1SaZari6Ir+rppn6eh+W2bQKCGCZsxKqwmNuCpSaX3exN3p8VMaOm6KOuuzYBKICF18EKhn9RaULdemzm/+yznRW4SCal9Mrwx4nCCC4Kjs6d7V4jeP/SDJHbzmonZsclh+oCrObteewfhpV090nY09z4gdLP/kFYdKS1RcLPGcPzTUOfDQ7b5+acaZlpUhTR92w0a1rAIM8OM2xtTaLUWKOQ+gfIuNkLfhG+KPOLBXffSYN/19fjWCyCmTs/DdXzfFA9YEHYemiGpAextrBwsbL9nE67h+Yc7keVRJlAwya
+0AHmen3zqnnDk/GFZ0knL98NYKE/8vN83XoqLrUql9fknySYAQWNziozHPzNVaInop/nH5uQ/rjuCXlK9C0qyjhetDkiJ+ZVTdGV+tJMiKCj4TudAXHz1mxSkrGsfJNe1mFnMzBwmTDi3dht7m65mPUOMvcbKB/tQiyW/px12uuEh/iUdcJD8yQCfwU8SwJcwpVJzEenX8yvKNcpsBhwDeSB2xxAJojT5G9f7ftmWl+/i0W70nTIhNKWh8yIRseE0xhDbxgvmEUV477FbQbo9zUugYflLgEDHoxw/mVc34H7Sn/sy50z4yS7BDzexLGsfVgA2fwKigT/j+qVXkysGARfBcQGo/VDEhkCjXQNYJvcJcJ3N8+x5yzQK+oVlhWYXAo62bFqzoKj0mbXVphWvRMqf2KLH6KCGXKqHLFBzNhJU6Va22IgrbPFbVO9VSE1qBLi6E0+Ju1PWxXLu9+KgAB/RBDu6MTOJeitF1XrXtp7ReXp1mdCHub4g0nSBDoY
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -183,6 +183,11 @@ m9WiKYbB+1q9SZY8LrKTSHgiJmAYLkF53ub6MA/R4oglR7BiYK1HRlw6gY96PhkqPOtcEV+QuwsDauKh
    "consent"
   ],
   "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -506,7 +511,7 @@ m9WiKYbB+1q9SZY8LrKTSHgiJmAYLkF53ub6MA/R4oglR7BiYK1HRlw6gY96PhkqPOtcEV+QuwsDauKh
   }
  },
  "published": "2026-11-20",
- "seq": 2026112030,
+ "seq": 2026112031,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

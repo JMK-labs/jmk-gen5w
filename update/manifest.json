@@ -186,6 +186,11 @@
    "camp",
    "consent"
   ],
+  "IGPE21HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "IGPEHEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -505,7 +510,7 @@
   }
  },
  "published": "2026-11-20",
- "seq": 2026112030,
+ "seq": 2026112031,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
