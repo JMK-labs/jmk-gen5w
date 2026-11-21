@@ -444,6 +444,10 @@
    "camp",
    "consent"
   ],
+  "OSEV.KOR.0000.V035.001.250507": [
+   "camp",
+   "consent"
+  ],
   "OSEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -659,7 +663,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112110,
+ "seq": 2026112111,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
