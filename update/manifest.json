@@ -623,12 +623,12 @@
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-21",
-   "file": "update/files/jmk-ambient-sound-2.5.23.zip",
+   "file": "update/files/jmk-ambient-sound-2.5.24.zip",
    "icon": "🎵",
    "name": "Active Ambient",
-   "sha256": "031e67210799770a837848e1e98bab8a55009a577df5b20684860f2e4ffabcbc",
-   "size": 151038,
-   "version": "2.5.23"
+   "sha256": "b2c26fb070a4b1d4c00800170ef9e223bf2f4ab0e7ce2f23c967be9f15b8f6aa",
+   "size": 154809,
+   "version": "2.5.24"
   },
   "jmk-autoplay": {
    "built": "2026-11-21",
@@ -641,12 +641,12 @@
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-17",
-   "file": "update/files/jmk-autoplay-hud-0.1.17.zip",
+   "file": "update/files/jmk-autoplay-hud-0.1.18.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "c7bd779af1b246f8a8a1ac19020d768e6093737b22d69fa0cd021604bfb1b89b",
-   "size": 11256700,
-   "version": "0.1.17"
+   "sha256": "59c3a5e5e17eeede2f40cc9143eb065fa9bc9f2ab6913c02f09024b783bbfc02",
+   "size": 11826946,
+   "version": "0.1.18"
   },
   "jmk-map-menu": {
    "built": "2026-11-21",
@@ -668,7 +668,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112112,
+ "seq": 2026112113,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -692,6 +692,9 @@
    "cp"
   ],
   "716e2cc587433712fb11ed2dc775dc4c": [
+   "wp"
+  ],
+  "9aa5826cd099dfd19c4ef1b1c6dbb67c": [
    "wp"
   ],
   "9f934114cb044c824d2536ddc777b143": [
@@ -722,6 +725,7 @@
   "2240a374c459d8c536eda5dc1df77147",
   "2444739b1934156ea068fbff8c446150",
   "27e73c6ae4d2018228b3f7341e3fb874",
+  "28089d2b1aac8699146cb858f17f713e",
   "28167a8d3a347ff70177c63fa16b1c2f",
   "2827bd56627681252ed355c2153fc659",
   "30989f9479e51ee140d9c7a3cc81543f",
@@ -747,6 +751,7 @@
   "a97f7777e4b325fe08e40f08f2367238",
   "aa0503a56228b2fbabe2b152a8b079e7",
   "bc1f66418c69822d0a7a63f5e20d5dde",
+  "bff439af2248e5409239d0d23e7f6365",
   "c1d65edf46c4aeb754e2872a87e2862c",
   "c30dbd6b0a13b600d045a832a953035e",
   "c9d37f4ce38796604f311ce3f1e6960e",
