@@ -523,6 +523,11 @@
    "camp",
    "consent"
   ],
+  "YGPE.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "YGPE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -668,7 +673,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112116,
+ "seq": 2026112117,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
