@@ -1,4 +1,4 @@
-xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJI2STdHY/zuB6xhMjJrOPvyWfpnvaFcH9ZYoqUuZYggB78nS41g+7bcurqMK0EyufYU+f0RDEBRgqsBE2PNVv7AzL8pQ7OtSZHtmW+axsdxBYqBpG5+QKGTtLF1+3jbxvpWGUYcWUL9Y5sxT9YIGosF85cqLB6HY2N5r9NfSILtjedUuqqMlVL0+zNikdiDN2/IU29X01CWLTXcnmoMXQq3mlhTSXdnarsefssNf7pNHFjSQmDVAiYJ+FmpIkqWR8DqzErkYMUeUnHLoFcILfnPJUOMKUKk2jddWMMBEOQlUH1YR9GvuaRIVEW3VkqXFX+s4F/1xNE5is1J3lKCalBudkFgCzUp2+rzsy4Hbj9uwn/lFJFTxODiHgovUtwXEdQpbzZmsCAsCuDYCsaDT2uFJpt0DFiBRO6eq03tzpKsffOa4C
+jTSmtkKBpzP72WCxe0Ceo3LYmjCgdhSSs7Y+vhnrfvCu5EKQ9yQBPnYgHV3SGyJ0hE7npALW81dvEpfbNym0fgTvwm/jBfphCsHDBHgjE8oiEAyZ+xCpRKZWQ7fF13hwGCawzmM2WcqeU1SnL1BHeVpu+Kw7PkrKCEFiZVgYLp21JTf7KyFMKsaaSlGpd+b7qLm9YuLyXTvIWmBQcwLJMckNP8k8iNSiAEfNGrNLXUgM9/HFwu6Fqcpz7XK922e5iVyQTiHeMpd3eVBTwQJ6CSuDFlK+QtXeXa/KtiGCf1FLEkiKpP7hEq9GAq++b4Qwet0lXw43w69blaItZdyM4GchuMDMQlHzJ3mkGzs2Ai4beWuwv1ptm9/kf72hr7oHkWrIYTdMOMgVjBRtxYWxOzUvQYKn8SVQ9ub1U1ILdcNnIlM42CpVeYifBnuqtrAt4RfVxplDZyZPJzWuSTx1qJUD4duSBnpG1kKykkaFihcGzSkz7wqDc+1Mk/Kphmoh
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -172,6 +172,11 @@ xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJ
    "camp",
    "consent"
   ],
+  "DN822.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DN822.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -312,7 +317,17 @@ xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJ
    "camp",
    "consent"
   ],
+  "MQ4.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "MQ4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ422.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -420,6 +435,11 @@ xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJ
    "camp",
    "consent"
   ],
+  "OSEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "OSPE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -456,6 +476,11 @@ xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJ
    "consent"
   ],
   "SP2PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAM24.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -625,7 +650,7 @@ xFzmSGfPgeamXMwdUqov0IvYeMmG6V3K1+J8X9RovIG/d41qkZvse2UHJlGEHQU/4HizqVfoTr9R19nJ
   }
  },
  "published": "2026-11-21",
- "seq": 2026112108,
+ "seq": 2026112109,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
