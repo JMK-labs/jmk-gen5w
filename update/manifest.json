@@ -131,6 +131,11 @@
    "camp",
    "consent"
   ],
+  "DL3.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DL3.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -347,6 +352,11 @@
    "consent"
   ],
   "MQ4HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V037.001.260319": [
    "ambient",
    "camp",
    "consent"
@@ -649,7 +659,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112109,
+ "seq": 2026112110,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
