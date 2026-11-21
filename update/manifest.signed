@@ -1,4 +1,4 @@
-IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiwLCe/atYQNYtfgTKAjtO8Wg+Jmn9UzzrbGRewnEDhhatyjfzUFN/wgbHJ5+3XPF42ScmvdtK8eAlH4g+Ub8VlwJktC6ve9Jyw4JRgVGfX8EQIdMmeSrN7Ezma+T2D+UoRk1LVs6K8EKraG5zW8Q4aoCpGPyyQA6sCyZUpZw8XdzK0jnlslzjowFyEobvmfFeXtbgnen6PIbHuZbTc2VDzrtYqW2433Ghi/fjE3LNetFXuuLAod98/NO1rb6zxXPI0gjsOeGbmLUsWFyd5DEOPTjAeA27N16BPKjTvivNh7yu2lRE+DUEOxEmwVYmjc3pfnXcLhKzEB/U8yBT/QP9fsI6hEdO6oSEKI4BuBnQ47Vpn92i42lu0O57hp2MbwRAM3LmnwHt+oTeKUf2NOi5bHj1LrZj1osywPkkRPP1jXwWW/aOC
+NnVRuvnpcsbbt5Wp6SGSNaQYCYF2oze2RDiDR0adhRTKaQkEut5lbqixeakgCmnzH5d3cTpsiRL3ei13MW8bAoUOYBsdxkFMcKxjXN8i+qfbfhaqDyEoqmX4BwRXPreej3aBzIW0M47dMsFhJji7+NKXNTSS9S2Fw1gXidz3TiGSwjg5FnqPrziAn+PDEb917SLOQWeo2ARJQr5P7hoMCU2/qg7AUD9iLtwCtJmSMK6gXcpoUR02N2fB2/pv+pfinFgaut+ZwmSOkR2YzX1/3cb5rpL8wcjzho3w8GCf5CF+lSL+YOkBor3pDJGyIebHtLhmz9POXM/2eI0JesYfufhOvbSzb0LI+w1/FI9/TqC1+RURogewnN7W88akpqhYtbQaC61EZye7yNwQWxox+R8li8M0EkmMRGcnRsRRdU72I+IFu+CAguOj0p0fZf4AbbZ0mHDarHqOuPo3Oo7aX3XNdlo5Gc+9xZy/8DoOb1pAhtCDUi82HDMQg1e8zIkd
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -107,6 +107,11 @@ IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiw
    "consent",
    "lab"
   ],
+  "CVEV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "DE22EV.USA.0000.V015.012.260507": [
    "ambient",
    "camp",
@@ -213,6 +218,11 @@ IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiw
    "consent"
   ],
   "HREV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V037.001.260319": [
    "ambient",
    "camp",
    "consent"
@@ -332,6 +342,10 @@ IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiw
    "camp",
    "consent"
   ],
+  "NEEV.KOR.0000.V032.001.231129": [
+   "camp",
+   "consent"
+  ],
   "NEEV.KOR.0000.V037.001.260319": [
    "ambient",
    "camp",
@@ -417,6 +431,11 @@ IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiw
    "consent"
   ],
   "SG2HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SK3EV21.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
    "consent"
@@ -591,7 +610,7 @@ IW0jJesAvy5HIEGZAoluAxN1275/BgHSEvgIAfOMvqedjt+C0bRUWYRfuijF79r92rmcakLuzsY51tiw
   }
  },
  "published": "2026-11-21",
- "seq": 2026112105,
+ "seq": 2026112106,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
