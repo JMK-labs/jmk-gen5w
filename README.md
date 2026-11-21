@@ -7,7 +7,7 @@
 | **jmk-map-menu** | 2.3.49 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
 | **jmk-ambient-sound** | 2.5.24 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
 | **jmk-wifi** | 1.4.18 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
-| **jmk-autoplay** | 0.3.7 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
+| **jmk-autoplay** | 0.3.8 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
 | **jmk-autoplay-hud** | 0.1.20 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)**
@@ -75,10 +75,11 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 ## Wireless AutoPlay · HUD · 계기판 길안내
 
 - **Wireless AutoPlay**: 순정 핫스팟으로 무선 카플레이·안드로이드 오토를 씁니다(순정 Wi-Fi 모듈 또는 Wi-Fi Driver 동글).
+- 차 핫스팟이 켜져 있는 동안 핫스팟에 연결한 폰이 헤드유닛에 접속할 수 있도록 헤드유닛 방화벽을 엽니다(adb 포트는 닫아 둡니다). 차 핫스팟을 끄거나 Wireless AutoPlay를 제거하면 원래대로 돌아갑니다.
 - **HUD · 계기판 길안내**: 폰 지도 앱의 길안내를 계기판과 HUD에 보여 줍니다. 무선 카플레이에도 필요합니다. 안드로이드 오토·카플레이가 끊기거나 종료되면, 또는 Wi-Fi 화면에서 차 핫스팟을 끄면 계기판·HUD 길안내가 지워집니다.
 - 둘은 한 쌍으로 설치·업데이트·제거됩니다(런처 메뉴 → ⚙ 설정 → 업데이트). 설치 후 재부팅하면 적용됩니다.
 - Leafia · 단풍 · HMG-API 등 다른 무선 프로젝션과는 함께 쓸 수 없습니다. 쓰고 있다면 먼저 제거하고 재부팅하세요(HMG-API를 지운 뒤 AX900mini 동글로 무선 연결이 된 오너 확인이 있습니다).
-- 지도 앱 팁: TMAP은 앱 설정에서 "카플레이 HUD 연동"을 켜야 계기판·HUD에 길안내가 나옵니다. NAVER 지도는 차로 표시가 다른 앱과 다르게 나올 수 있습니다.
+- 지도 앱 팁: TMAP은 앱 설정에서 "카플레이 HUD 연동"을 켜야 계기판·HUD에 길안내가 나옵니다. 안드로이드 오토로는 지도 앱이 차선 정보를 보내지 않아 계기판·HUD에 차선이 나오지 않습니다.
 
 ## HUD · 계기판 길안내 지원 차종
 
