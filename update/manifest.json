@@ -513,6 +513,11 @@
    "camp",
    "consent"
   ],
+  "TAMPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "TM23.USA.0000.V016.010.260903": [
    "ambient",
    "camp",
@@ -683,7 +688,7 @@
   }
  },
  "published": "2026-11-22",
- "seq": 2026112201,
+ "seq": 2026112202,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
