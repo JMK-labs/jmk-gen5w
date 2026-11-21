@@ -100,6 +100,11 @@
    "camp",
    "consent"
   ],
+  "CVEV.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CVEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -439,6 +444,16 @@
    "camp",
    "consent"
   ],
+  "SP2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP221.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "SP2PE.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -609,7 +624,7 @@
   }
  },
  "published": "2026-11-21",
- "seq": 2026112106,
+ "seq": 2026112107,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
