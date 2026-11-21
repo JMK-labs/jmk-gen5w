@@ -55,6 +55,11 @@
    "camp",
    "consent"
   ],
+  "CKPE22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CN7.KOR.0000.V034.003.250117": [
    "ambient",
    "camp",
@@ -677,8 +682,8 @@
    "version": "1.4.18"
   }
  },
- "published": "2026-11-21",
- "seq": 2026112120,
+ "published": "2026-11-22",
+ "seq": 2026112201,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
