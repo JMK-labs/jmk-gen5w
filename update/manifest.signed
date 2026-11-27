@@ -1,4 +1,4 @@
-SiXRdy9lI03pOhfdPCPgWW775CjQcd/fsGKF4rO4MvDjbLvCeP38rHMGls1a6r46FLfjfOPXz94xzFfwzQXhwMdi+62k4jnzrswYGQHFWfPICfWnw85lawTu8w4OJzoj/BuV+SbuRriF41ROxCKqJKh7OzhvzkomVyH5SqiWsvDvdK1MRgNM3JI1gzJCzoCigDiJvAIBMpsaZM8cLbcVLdTvs+YF7JAv2Dv2ETkIsMnAlRyN5VfwbwmUlU7B8K/A/318LXP5OjA20e7WfFgYRztl+dizhkyH56Tp1PweQuI2uSbuonondFAE7J1gCXtY9nHmre0hSkgG+vhwf9+px+UFyIzeUnuJG4nir9nLIOx5humgQKUz98sFFzn9UNGrDgmTliB/Ln7GH6IgbehTn7U3jGtiphsujt5ckBeW3M9ijoYAoM+nZ0jWqQ558OA9sJ6iDY1P68adD8OD3ciOriNDry03qgGNYbah8Gt//oecF+fNji8PQOCL9hC5/pAj
+clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM1e1fG5uE583+cqwjYxB+yUHFm2QVGqsAPQrfA4fhgq/vRxYeZIZRX7VT5/8kv6lBrf22wEID1Zm6gZqtZSdNLVtAvA5/IM8oC1K1XpHsvPm/Z+ROBFkjDDe+Ei4RXI2AI+XEiW4HHZtXypcO6DacV0Cn1UHS6rO3sxovDxcVfbhUey4vB2F5fwXtXcdG6Up0r88IQgCNzlQZZQSzJoEsCreJcG6OvPfQzwnPe4+sSiLjI349eAMSUU0vdOhPfuTSsgl0+3/wIc3Q0RzQPWqXvQYU0oFdICN/9GiZT9My0aDZqA2dQKK655nCGIwE6IcH73uiSoJLaByR6ED2snXy3LxjnXhLCqLAVpJh4n4vQiEpDUA+Y3lG00UQUZI1T3KI7CSKKYcr1aSRK8fDBGQfUprji3mQMzqOiy3vbXzB+yfW69PP
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -929,7 +929,7 @@ SiXRdy9lI03pOhfdPCPgWW775CjQcd/fsGKF4rO4MvDjbLvCeP38rHMGls1a6r46FLfjfOPXz94xzFfw
   }
  },
  "published": "2026-11-27",
- "seq": 2026112710,
+ "seq": 2026112711,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2979,6 +2979,15 @@ SiXRdy9lI03pOhfdPCPgWW775CjQcd/fsGKF4rO4MvDjbLvCeP38rHMGls1a6r46FLfjfOPXz94xzFfw
    "sha256": "72734386a3326a22309fcdaade34ee10c48c190cf1283d5bcdb3edaeda401328",
    "size": 175968,
    "version": "2.6.2"
+  },
+  "jmk-autoplay": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-autoplay-0.4.2.zip",
+   "icon": "🚗",
+   "name": "Wireless AutoPlay",
+   "sha256": "e9d20e850b731e6451ba87835c2ab88c6252719fab4da900cf21dc01724651d5",
+   "size": 81963,
+   "version": "0.4.2"
   },
   "jmk-autoplay-hud": {
    "built": "2026-11-27",
