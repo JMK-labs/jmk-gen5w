@@ -250,6 +250,10 @@
    "camp",
    "consent"
   ],
+  "DN8.KOR.0000.V031.002.231212": [
+   "camp",
+   "consent"
+  ],
   "DN8.KOR.0000.V035.001.250507": [
    "ambient",
    "camp",
@@ -952,7 +956,7 @@
   }
  },
  "published": "2026-11-28",
- "seq": 2026112803,
+ "seq": 2026112804,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
