@@ -60,6 +60,11 @@
    "camp",
    "consent"
   ],
+  "CEEV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "CEEV.USA.0000.V016.010.260903": [
    "ambient",
    "camp",
@@ -956,7 +961,7 @@
   }
  },
  "published": "2026-11-28",
- "seq": 2026112804,
+ "seq": 2026112805,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
