@@ -730,6 +730,11 @@
    "camp",
    "consent"
   ],
+  "SP2.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "SP2.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -941,8 +946,8 @@
    "version": "1.5.5"
   }
  },
- "published": "2026-11-27",
- "seq": 2026112719,
+ "published": "2026-11-28",
+ "seq": 2026112801,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",

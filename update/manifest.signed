@@ -1,4 +1,4 @@
-v04/CwXBuekO1bRB2HM9wiu5rSXbKLQ1jy+XdSVwJwX+52RuIjifktXwH4ylmWQMYxnLSmj6fyITUiYsUTl2LJQ9iGTrItqZ48B/nkPXCXoTWFuLCBQyRRtvgnDSXQGtO6c1/PiilNuhTlKhmLfag5XseM1FCUN7ZTra0ByAXWRKYPjH0KeUNxXg5Wsp/AXz+1/LMM7dsEnVVeAgDcNPFMHji9jagKs40ZFARF5CbGSxf2atPj1u+4VhMRKxlGgdTEnfAkpjB0v8BuNNiq31AtOgCEpN4/4ipZTIH9lFsWYUS/cDR6ZZfU2VSkHIoOYk+Ux0dta5RPNkfmJI0u+SiFalfTVc+g8epqe4qwv9u6pEYHg2vYziIpmpEQZY8j5MPAJFvxLWyBSKhb++tj9pUEreqT9DT5QcVeXYHoXrbzoGXdMgp+b9wmN0eItqgX2fUPoV67IZirOLRB8inv2dGuYtmsGyrERdazMcqFWZYFl88zCAYEyu77g0v3P6FLvp
+cuBusfeox3Br5CVrVhWoDTGsHGCM/4CJ13BwHXhw4DbJNUuEMXRC2LTcYJpne+pRWdlfbzgXI1RosmRWlZJkf9qnHxjvSKA0axuvZNH2gZSCPx5eBwQ3L5wc4Nq3hS3Fcq99POr3vI3tbkcHT1/1kqASAp3hheopY/H2SPvQK2Uy+hOsVNxA/au1Yeyix6zCJ5Q0DoRQMxiiP6JHmAdUIu4opicesZyH2oFa89Zc+XomElwWwpMahuBOjpME7RPOuiEJdWqovolYECy+3wJMhnpxIE8DYAmIe9DBjPsz13+0pPOP+MVEfaClJimdQNyY19/iAkllGXzxQw1ztqCQRr2ulPN0imHKuV7coUVZD2ni81R0ndZBNNLeHuH9S343NXwMj6ifgHuXz7uN28cTf4JSGUwkJlRWhaRpAM4/e1osNH0VANqzo2Rn+tNeRsoQHiXXuXxQ5AK1rAldncWDFHUWM1ZJokPcpAd6ySMtY9F8dNFAr0f2euLf/Ocfsb4W
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -731,6 +731,11 @@ v04/CwXBuekO1bRB2HM9wiu5rSXbKLQ1jy+XdSVwJwX+52RuIjifktXwH4ylmWQMYxnLSmj6fyITUiYs
    "camp",
    "consent"
   ],
+  "SP2.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "SP2.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -942,8 +947,8 @@ v04/CwXBuekO1bRB2HM9wiu5rSXbKLQ1jy+XdSVwJwX+52RuIjifktXwH4ylmWQMYxnLSmj6fyITUiYs
    "version": "1.5.5"
   }
  },
- "published": "2026-11-27",
- "seq": 2026112719,
+ "published": "2026-11-28",
+ "seq": 2026112801,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
