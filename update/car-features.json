@@ -822,5 +822,10 @@
  "CN7NPE.KOR.0000.V040.001.261103": [
   "consent",
   "camp"
+ ],
+ "IGPE.KOR.0000.V035.001.250305": [
+  "consent",
+  "ambient",
+  "camp"
  ]
 }
