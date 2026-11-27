@@ -29,26 +29,57 @@ body:
       placeholder: 예) 아이오닉 5 2023년형
     validations:
       required: false
-  - type: dropdown
+  - type: checkboxes
     id: apps
     attributes:
       label: 문제가 생긴 패키지
-      description: 해당하는 것을 모두 골라 주세요.
-      multiple: true
+      description: 해당하는 것을 모두 체크해 주세요.
       options:
-        - 런처 메뉴
-        - Wi-Fi Driver (동글 / 핫스팟)
-        - Wireless AutoPlay (무선 CarPlay / Android Auto)
-        - HUD · 계기판 애드온 (길안내)
-        - Active Ambient (앰비언트)
-        - 잘 모르겠음 / 기타
+        - label: 런처 메뉴
+        - label: Wi-Fi Driver (동글 / 핫스팟)
+        - label: Wireless AutoPlay (무선 CarPlay / Android Auto)
+        - label: HUD · 계기판 애드온 (길안내)
+        - label: Active Ambient (앰비언트)
+        - label: 잘 모르겠음
+        - label: 기타
+  - type: dropdown
+    id: wifi_device
+    attributes:
+      label: Wi-Fi 장치
+      options:
+        - 순정 Wi-Fi 모듈 (동글 없음)
+        - USB 동글
+        - 순정 모듈 + USB 동글 둘 다
+        - 잘 모르겠음
     validations:
       required: true
+  - type: dropdown
+    id: dongle_model
+    attributes:
+      label: 동글 모델 (동글을 쓰는 경우)
+      options:
+        - 동글 안 씀
+        - ipTIME A3000MINI
+        - NEXT-1201AC MINI
+        - ipTIME AX900 MINI
+        - TP-Link Archer T3U
+        - TP-Link Archer T3U Nano / Plus
+        - NEXT-NX-AC1300
+        - 기타 (아래에 직접 입력)
+    validations:
+      required: false
+  - type: input
+    id: dongle_other
+    attributes:
+      label: 기타 동글 모델 (직접 입력)
+      placeholder: 예) 제조사와 모델명
+    validations:
+      required: false
   - type: textarea
     id: problem
     attributes:
       label: 문제 내용
-      description: 무엇을 했을 때 어떻게 되었는지, 언제부터인지 적어 주세요. 동글을 쓰신다면 동글 모델도 적어 주세요.
+      description: 무엇을 했을 때 어떻게 되었는지, 언제부터인지 적어 주세요.
     validations:
       required: true
   - type: textarea
