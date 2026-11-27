@@ -1,0 +1,60 @@
+name: 문제 제보
+description: JMK 패키지 사용 중 생긴 문제를 알려 주세요.
+title: "[차종] 문제 요약"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        아래 항목을 채워 주셔야 확인할 수 있습니다. 사진이나 화면 캡처가 있으면 함께 올려 주세요.
+  - type: input
+    id: car_code
+    attributes:
+      label: 차량 코드 (8자리)
+      description: 런처 메뉴 → 설정 → 업데이트 화면에 보이는 8자리 코드입니다.
+      placeholder: 예) ABCD1234
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: 헤드유닛 펌웨어 버전
+      description: 차량 설정의 시스템(소프트웨어) 정보 화면에 보이는 버전 전체를 적어 주세요.
+      placeholder: 예) NEEV.KOR.0000.V039.001.260902
+    validations:
+      required: true
+  - type: input
+    id: car_model
+    attributes:
+      label: 차종 / 연식
+      placeholder: 예) 아이오닉 5 2023년형
+    validations:
+      required: false
+  - type: dropdown
+    id: apps
+    attributes:
+      label: 문제가 생긴 패키지
+      description: 해당하는 것을 모두 골라 주세요.
+      multiple: true
+      options:
+        - 런처 메뉴
+        - Wi-Fi Driver (동글 / 핫스팟)
+        - Wireless AutoPlay (무선 CarPlay / Android Auto)
+        - HUD · 계기판 애드온 (길안내)
+        - Active Ambient (앰비언트)
+        - 잘 모르겠음 / 기타
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 문제 내용
+      description: 무엇을 했을 때 어떻게 되었는지, 언제부터인지 적어 주세요. 동글을 쓰신다면 동글 모델도 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 추가 정보 (선택)
+      description: 폰 기종, 다시 해 봤을 때의 결과, 런처 메뉴의 '기록 보내기'를 누른 시각 등
+    validations:
+      required: false
