@@ -1,0 +1,817 @@
+{
+ "GL3HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "GL3.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp",
+  "lab"
+ ],
+ "DE22HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN823.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NQ5.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V034.003.250117": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ422HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN8.USA.0000.V014.010.250818": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7NPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NX4.KOR.0000.V034.003.250117": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4HEV.KOR.0000.V034.003.250117": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DEPEHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NX4HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN8HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN8.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7PE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CEEV.CAN.0000.V015.011.260206": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2PE.USA.0000.V014.010.250818": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SG2HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AEPEEV.USA.0000.V015.012.260507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "*": [
+  "projection",
+  "ambientall"
+ ],
+ "TM23.USA.0000.V016.010.260903": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.CAN.0000.V015.011.260206": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp",
+  "warmer",
+  "lab"
+ ],
+ "NEEV23.USA.0000.V015.011.260206": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CKPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4HEV.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN822HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TMFL.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV23.USA.0000.V014.010.250818": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN823HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AX1EV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CEEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7HEV22.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN822.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "HREV22.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "KA422.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SP2PE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV23.USA.0000.V016.010.260903": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CEEV.USA.0000.V016.010.260903": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7.KOR.0000.V034.003.250117": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NX4.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IKFL.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "ONPE.USA.0000.V015.012.260507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "QX23.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPEHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.CAN.0000.V014.010.250818": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NQ5.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3HEV22.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IKFL.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "KA4.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN8.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "GL3HEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp",
+  "warmer",
+  "lab"
+ ],
+ "CN7N.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "BDPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TMHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ422HEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NQ5HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "KA4.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AX1.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SG2EV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21HEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL322.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "YGPEHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AX1PE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "HM22.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21HEV.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2PE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "OSPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "US4.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7N.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3HEV.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "KA4.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NX4HEV.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DE22EV.USA.0000.V015.012.260507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "HM21.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "YGPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AEPEEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.KOR.0000.V032.001.231129": [
+  "consent",
+  "camp"
+ ],
+ "CVEV.USA.0000.V015.012.260507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SK3EV21.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SP2.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SP221.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN822.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ422.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "OSEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TAM24.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4HEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "OSEV.KOR.0000.V035.001.250507": [
+  "consent",
+  "camp"
+ ],
+ "DEEVPBV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "YGPE.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "JSN.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CKPE22.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TAMPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "HMPE2.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TAMEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DE22EV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AEPEHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE.KOR.0000.V034.001.240821": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TAM.KOR.0000.V035.001.250305": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7HEVPE.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.USA.0000.V014.011.251120": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV23.USA.0000.V014.011.251120": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "AEPEHEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.CAN.0000.V016.010.260903": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "YGPE.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.IDN.0000.V004.001.251120": [
+  "consent",
+  "ambient",
+  "camp",
+  "warmer"
+ ],
+ "DL3.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DN822.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.USA.0000.V016.010.260903": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SP222.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "BDPE.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SK3EV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CN7.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3HEV.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "HREV24.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21HEV.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "KA4.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "MQ4.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NQ5.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NX4.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "OSHEV.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "TAM22.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "US4.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "YGPEHEV.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.KOR.0000.V040.001.261103": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.KOR.0000.V040.001.261103": [
+  "consent",
+  "ambient",
+  "camp",
+  "warmer",
+  "lab"
+ ],
+ "DEPEHEV.KOR.0000.V034.001.240821": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "CVEV.USA.0000.V015.011.260206": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V036.001.251027": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "NEEV.IDN.0000.V005.001.260907": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21.KOR.0000.V031.001.230911": [
+  "consent",
+  "camp"
+ ],
+ "SK3.KOR.0000.V035.001.250507": [
+  "consent",
+  "camp"
+ ],
+ "SP2.KOR.0000.V034.001.240821": [
+  "consent",
+  "camp"
+ ],
+ "MQ422.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "DL3.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "US424.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IGPE21.KOR.0000.V037.001.260319": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "IKPE2.KOR.0000.V040.001.261103": [
+  "consent",
+  "camp"
+ ],
+ "JAPE2.KOR.0000.V040.001.261103": [
+  "consent",
+  "camp"
+ ],
+ "DL322.KOR.0000.V038.001.260604": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "SK3.KOR.0000.V039.001.260902": [
+  "consent",
+  "ambient",
+  "camp"
+ ],
+ "LX2.KOR.0000.V035.001.250507": [
+  "consent",
+  "ambient",
+  "camp"
+ ]
+}

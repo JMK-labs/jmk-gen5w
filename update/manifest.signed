@@ -1,0 +1,2978 @@
+kNqPm2/wqSAU3icXDfWeJGZp7eSPg8UTVHq+3354GBhLK+TKxgz8vjbVDPVX078lzTtqBr80XtPQW/BNmosFOM46UZFh7kB0MgZpgkMTnrL2tR/JaEXsQ+58pORoSA7SE1BP4RcjEdeJLsj9UCZf+fosQMsRaviJQrMkuzTUGJ3HRKKESIEeXdJH+TTZ48Qr1A9HE73xMJc3Nf+Uk40DBl5t96aZNzheGhnrXFY4E0s46CDBXoDVKJonL5/5iwx4/xEh4djMKrlpnPjePmxq7KCtL6QhGXTAZl0sBjImc9blZrSaJV8WmUG/nKdvEyFDFkiLw7bX0ZHMSq6tWOPBWCxqhx4F8+ie+lpqYSDQfbWUii/cIiB8grvinUaEo2UpDgfJ+WtUBFLhMidlOoNAxh72svV6koT1H72XGBCdMCdV2Z9QRN2WUluPHxBv3zWJwuLUTh6WARrFtBXoAuyHCFn9DJOO5zs3UyhecW817IWkoEIrPMl5+YdNuF48ZtcA
+{
+ "blocked_hashes": [],
+ "car_features_by_name": {
+  "*": [
+   "ambientall",
+   "projection"
+  ],
+  "AEPEEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AEPEEV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AEPEHEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AEPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AX1.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AX1EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "AX1PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "BDPE.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "BDPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CEEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CEEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CEEV.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CKPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CKPE22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7HEV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7HEVPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7N.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7N.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7NPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CN7PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.CAN.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent",
+   "lab"
+  ],
+  "CVEV.KOR.0000.V040.001.261103": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.USA.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "CVEV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DE22EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DE22EV.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DE22HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DEEVPBV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DEPEHEV.KOR.0000.V034.001.240821": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DEPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL322.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL322.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3HEV.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DL3HEV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN8.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN8.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN8.USA.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN822.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN822.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN822.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN822HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN823.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN823HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "DN8HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "GL3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "GL3HEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "GL3HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HM21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HM22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HMPE2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HREV22.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "HREV24.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V034.001.240821": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21.KOR.0000.V031.001.230911": [
+   "camp",
+   "consent"
+  ],
+  "IGPE21.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPE21HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IGPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IKFL.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IKFL.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "IKPE2.KOR.0000.V040.001.261103": [
+   "camp",
+   "consent"
+  ],
+  "JAPE2.KOR.0000.V040.001.261103": [
+   "camp",
+   "consent"
+  ],
+  "JSN.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA4.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA4.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA4.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "KA422.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "LX2PE.USA.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ422.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ422.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ422HEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ422HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "MQ4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.CAN.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.CAN.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.IDN.0000.V004.001.251120": [
+   "ambient",
+   "camp",
+   "consent",
+   "warmer"
+  ],
+  "NEEV.IDN.0000.V005.001.260907": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.KOR.0000.V032.001.231129": [
+   "camp",
+   "consent"
+  ],
+  "NEEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent",
+   "lab",
+   "warmer"
+  ],
+  "NEEV.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent",
+   "lab",
+   "warmer"
+  ],
+  "NEEV.KOR.0000.V040.001.261103": [
+   "ambient",
+   "camp",
+   "consent",
+   "lab",
+   "warmer"
+  ],
+  "NEEV.USA.0000.V014.011.251120": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV23.USA.0000.V014.010.250818": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV23.USA.0000.V014.011.251120": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV23.USA.0000.V015.011.260206": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NEEV23.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NQ5.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NQ5.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NQ5.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NQ5HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4.KOR.0000.V034.003.250117": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4HEV.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "NX4HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "ONPE.USA.0000.V015.012.260507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "OSEV.KOR.0000.V035.001.250507": [
+   "camp",
+   "consent"
+  ],
+  "OSEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "OSHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "OSPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "QX23.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SG2EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SG2HEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SK3.KOR.0000.V035.001.250507": [
+   "camp",
+   "consent"
+  ],
+  "SK3.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SK3EV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SK3EV21.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP2.KOR.0000.V034.001.240821": [
+   "camp",
+   "consent"
+  ],
+  "SP2.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP221.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP222.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "SP2PE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAM.KOR.0000.V035.001.250305": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAM22.KOR.0000.V038.001.260604": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAM24.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAMEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TAMPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TM23.USA.0000.V016.010.260903": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TMFL.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "TMHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "US4.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "US4.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "US424.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "YGPE.KOR.0000.V035.001.250507": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "YGPE.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "YGPE.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "YGPEHEV.KOR.0000.V036.001.251027": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
+  "YGPEHEV.KOR.0000.V039.001.260902": [
+   "ambient",
+   "camp",
+   "consent"
+  ]
+ },
+ "expiry": {
+  "default_days": 183,
+  "min_version": {
+   "jmk-ambient-sound": "2.5.13",
+   "jmk-autoplay": "0.3.17",
+   "jmk-autoplay-hud": "0.1.22",
+   "jmk-map-menu": "2.3.66",
+   "jmk-wifi": "1.4.32"
+  },
+  "pull": {
+   "jmk-map-menu": {
+    "from": "2026-11-15",
+    "upto": "2.2.5"
+   }
+  },
+  "versions": {
+   "jmk-map-menu": {
+    "1.5.2": "2026-11-15",
+    "1.6.0": "2026-11-15",
+    "1.6.1": "2026-11-15",
+    "1.6.2": "2026-11-15",
+    "1.6.3": "2026-11-15",
+    "1.7.0": "2026-11-15",
+    "1.8.0": "2026-11-15",
+    "1.9.0": "2026-11-15",
+    "1.9.1": "2026-11-15",
+    "1.9.2": "2026-11-15",
+    "1.9.3": "2026-11-15",
+    "1.9.4": "2026-11-15",
+    "1.9.5": "2026-11-15",
+    "1.9.6": "2026-11-15",
+    "1.9.7": "2026-11-15",
+    "1.9.8": "2026-11-15",
+    "2.0.0": "2026-11-15",
+    "2.0.1": "2026-11-15",
+    "2.0.2": "2026-11-15",
+    "2.0.3": "2026-11-15",
+    "2.0.4": "2026-11-15",
+    "2.0.5": "2026-11-15",
+    "2.0.6": "2026-11-15",
+    "2.0.7": "2026-11-15",
+    "2.0.8": "2026-11-15",
+    "2.0.9": "2026-11-15",
+    "2.1.0": "2026-11-15",
+    "2.1.1": "2026-11-15",
+    "2.1.3": "2026-11-15",
+    "2.1.4": "2026-11-15",
+    "2.1.5": "2026-11-15",
+    "2.1.6": "2026-11-15",
+    "2.2.0": "2026-11-15",
+    "2.2.1": "2026-11-15",
+    "2.2.2": "2026-11-15",
+    "2.2.3": "2026-11-15",
+    "2.2.5": "2026-11-15"
+   }
+  }
+ },
+ "integrity_lock": true,
+ "packages": {
+  "jmk-ambient-sound": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-ambient-sound-2.6.1.zip",
+   "icon": "🎵",
+   "name": "Active Ambient",
+   "sha256": "686d9afab311786d156358061b65c900d0b39838ff37a1404f26b337fd2d290a",
+   "size": 174892,
+   "version": "2.6.1"
+  },
+  "jmk-autoplay": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-autoplay-0.4.1.zip",
+   "icon": "🚗",
+   "name": "Wireless AutoPlay",
+   "sha256": "8074cf77b1d2002f4680d0fec8193ff27c812fc18cffe24706e2854a90ab3e29",
+   "size": 81755,
+   "version": "0.4.1"
+  },
+  "jmk-autoplay-hud": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-autoplay-hud-0.2.1.zip",
+   "icon": "🧭",
+   "name": "HUD · 계기판 길안내",
+   "sha256": "782dc46b7b3266ad40b0d8685d9f1ed8ebcc718ba91d5f431626afdd24f9baa3",
+   "size": 12925496,
+   "version": "0.2.1"
+  },
+  "jmk-map-menu": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-map-menu-2.4.1.zip",
+   "icon": "🚙",
+   "name": "JMK 런처 메뉴",
+   "sha256": "216a4692503893665bf01ea95f518c82bb53f008abe01396a20988379c87b566",
+   "size": 411845,
+   "version": "2.4.1"
+  },
+  "jmk-wifi": {
+   "built": "2026-11-26",
+   "file": "update/files/jmk-wifi-1.4.32.zip",
+   "icon": "📶",
+   "name": "Wi-Fi Driver",
+   "sha256": "894ff0ad4c08b53f15a9e17b63c7f9ef0aae8c3240832d1f20b2896b7ddce989",
+   "size": 3002728,
+   "version": "1.4.32"
+  }
+ },
+ "published": "2026-11-27",
+ "seq": 2026112707,
+ "shared_codes": [
+  "BH62XGT6",
+  "JRDFLK6V",
+  "MYKWKGRS",
+  "N62HOTUI",
+  "NWQVMALR"
+ ],
+ "supporter_grant_hashes": {
+  "*": [
+   "hud",
+   "mp",
+   "shortcuts"
+  ],
+  "00ef1a311d4b72cf3b0e508afbc4eb4f": [
+   "pa"
+  ],
+  "0214d8d6538582e9a4f3200c7825103f": [
+   "pa"
+  ],
+  "0310bc1cf14304c760072bf2c07cb8d2": [
+   "pa"
+  ],
+  "031298864e2915e1b5107099a6c5b78e": [
+   "pa"
+  ],
+  "032517a9ea8a7ee45656d266c3a561bb": [
+   "pa"
+  ],
+  "034f3b2b9d1ac95b45bf8e797bc4e3cd": [
+   "cp",
+   "pa"
+  ],
+  "035f2dcee6401398e84f681b7f7fdbe2": [
+   "pa"
+  ],
+  "03d3d5c3e8a7538eaab042825d1bf3fb": [
+   "pa"
+  ],
+  "04547369d2390f68deeafa416ab738f1": [
+   "pa"
+  ],
+  "04d1417fd52e3216ee3a7dced39a8ca2": [
+   "pa"
+  ],
+  "04d1f1a7c66e6d302d0a1b6ae9ead68b": [
+   "ap",
+   "cp",
+   "shortcuts",
+   "wp"
+  ],
+  "059b4c09cf495f73fb6eaf513430a45a": [
+   "pa"
+  ],
+  "059de0b108eb176e0b99d6881d4abf41": [
+   "pa"
+  ],
+  "05e93caf78c9e7533dea82b9df02ce9e": [
+   "pa"
+  ],
+  "064a745ed6d0dd5eb092789e330284d0": [
+   "cp",
+   "pa"
+  ],
+  "068635f1b231169250979bbadbff8630": [
+   "pa"
+  ],
+  "07081325816e4893853490832ede7520": [
+   "pa"
+  ],
+  "07703066628b69be6dd0ab498471b017": [
+   "pa"
+  ],
+  "07d5ad3bcc63b0cf0bf30d424adc2c73": [
+   "pa"
+  ],
+  "088f84ad9aaec723e0f895d8f90bc88d": [
+   "pa"
+  ],
+  "08e642550d1d495a7916b0af90044dfd": [
+   "pa"
+  ],
+  "0983745038d18a2156aafd0be309dc57": [
+   "pa"
+  ],
+  "0a012a028e4fa1800738477d41fa1fd7": [
+   "pa"
+  ],
+  "0a1b8c0ccfbfa2184e9c2ed653af1efa": [
+   "pa"
+  ],
+  "0a54b5cf4db42beb48caa09e3e1fbade": [
+   "cp",
+   "pa"
+  ],
+  "0a9c46e582fbdefe160dbb4d47436af1": [
+   "pa"
+  ],
+  "0aaf49d5bcc6f671c4b71c32ca76afc1": [
+   "pa"
+  ],
+  "0b89648c8ba6b107ca30519218d0cee9": [
+   "pa"
+  ],
+  "0c1f780c7eb17f5b65cf4943a9062ccb": [
+   "pa"
+  ],
+  "0da0d20b7f9651808ebf1020f34d65cd": [
+   "pa"
+  ],
+  "0dd8a140d20a8ba1893b1f90e4642ad9": [
+   "pa"
+  ],
+  "0e80f0c6779bc832a3bd2b2372a1f803": [
+   "pa"
+  ],
+  "0f0c52cc9488c988cb145f5935cdf0fa": [
+   "pa"
+  ],
+  "0f8c4d22fd81084b94e859348eed1913": [
+   "pa"
+  ],
+  "0fe8e22dcba44d0cb41509c58679f87b": [
+   "pa"
+  ],
+  "10831689ff19320d245d3b36fa9b33cd": [
+   "pa"
+  ],
+  "11323862a205ee1c1be0a2659055dfb7": [
+   "pa"
+  ],
+  "120c1fded9f183aa907842884c17975e": [
+   "pa"
+  ],
+  "1219c991929caddd1a97cb71a6b742bf": [
+   "pa"
+  ],
+  "12308ba81f1b86198811cd27014f68ac": [
+   "pa"
+  ],
+  "136d1707d62387744c811b2bf39fa9c0": [
+   "pa"
+  ],
+  "13d6527d346b599dec24a1455223919c": [
+   "pa"
+  ],
+  "140a879007bdd911f5e89df3f50990f2": [
+   "pa"
+  ],
+  "1436e71846db15020c67d03c6532282e": [
+   "cp",
+   "pa"
+  ],
+  "14401f175a6e9d8643ee8df54cfc5253": [
+   "pa"
+  ],
+  "150c151f0b781a32c43dd69b660e0feb": [
+   "pa"
+  ],
+  "154f0fd18c97041c064643183c874977": [
+   "pa"
+  ],
+  "15907e653a25c5340d06bf4b5c68be21": [
+   "pa"
+  ],
+  "15d7e09e2532002bf064dbacebd4a14a": [
+   "pa"
+  ],
+  "1654e38f0bfd37ab15c87ef947c2b6b9": [
+   "cp",
+   "pa"
+  ],
+  "16ddb8d2f19864995952a079e12a9280": [
+   "pa"
+  ],
+  "171e615b35153cd4678fe469f8be4509": [
+   "pa"
+  ],
+  "17add293bd813a675fa3725e8ee2f174": [
+   "cp",
+   "pa"
+  ],
+  "17e6fed5896518fcc15f542e8edf6d5a": [
+   "pa"
+  ],
+  "183c963fcc56315981d0b4f8e5788fb4": [
+   "pa"
+  ],
+  "187a3c24179ffa19a20ef398db0da64d": [
+   "pa"
+  ],
+  "18d5e0dd3c6b8eaa03d677e738f2725e": [
+   "pa"
+  ],
+  "192bd92ecb87b7270a584531a28397c0": [
+   "pa"
+  ],
+  "194aa83408237024c1dc3fc4ca275620": [
+   "pa"
+  ],
+  "19e42f5328437593c1f58944295b87db": [
+   "pa"
+  ],
+  "1b44fb4345849bd29eb902a44b07b244": [
+   "pa"
+  ],
+  "1b45da0bb972949f2384eef1459f823c": [
+   "cp",
+   "pa"
+  ],
+  "1b64dc5a4084a93dcda8a8253d28e053": [
+   "pa"
+  ],
+  "1b6caae0851b40174eb0982215ec9263": [
+   "pa"
+  ],
+  "1b7603014466db5e334233bcd9cc6d67": [
+   "pa"
+  ],
+  "1bcd4cf43e20ebe45b73473894d86d24": [
+   "pa"
+  ],
+  "1c0b11a156f21a2681a3c0283d2a942c": [
+   "pa"
+  ],
+  "1c486f3b8a6227cee474f3afd43047a7": [
+   "pa"
+  ],
+  "1d13b6987546dc2bcd54db9a5332c7e4": [
+   "pa"
+  ],
+  "1dc678b7ddc2fd27714d3653e44eb3c2": [
+   "pa"
+  ],
+  "1e682c37e8ab9f2f94b1d8f0d2a7ba25": [
+   "pa"
+  ],
+  "1f4fedf634eb8d35a9c9636706958ef2": [
+   "pa"
+  ],
+  "1fb80edc6f37bd0d0dd4216fabaaf45a": [
+   "pa"
+  ],
+  "1fbc315b2b89eb1d0bb830da73dea21e": [
+   "cp",
+   "pa"
+  ],
+  "201518d5f681924087f6b78258147b66": [
+   "pa"
+  ],
+  "20ecd52fcec3933e47ce8cb33becb141": [
+   "pa"
+  ],
+  "21c3eba2ff5a6fd4277fba0b9a7cd481": [
+   "pa"
+  ],
+  "21d9b0f71842bd8bcd15c3ce08091257": [
+   "pa"
+  ],
+  "21ef5a4d411c1c1ff901f7b1426c54b9": [
+   "pa"
+  ],
+  "22550723a705a1965c4ac4b01a8fa36e": [
+   "pa"
+  ],
+  "2284327cc3eb6366582f377ae4f3c010": [
+   "pa"
+  ],
+  "2287bd7d47b06f5f83152caebbf53637": [
+   "pa"
+  ],
+  "23e1821afe52170fe7b3b045a06ca0bd": [
+   "pa"
+  ],
+  "24866a81d0fbd89d585b5faec499a296": [
+   "pa"
+  ],
+  "2532d78668fd3754e06dd4263113f1c2": [
+   "pa"
+  ],
+  "2587a2b7dc8d40eb8207cf81251e0dd5": [
+   "pa"
+  ],
+  "2700a48c4ebc6b8caabf16882b20459f": [
+   "pa"
+  ],
+  "2716510f05e1fd80cfa4f26e1944aefe": [
+   "cp",
+   "pa"
+  ],
+  "275d6f106d70bd417e1edcdccecc4ef4": [
+   "pa"
+  ],
+  "27747edcc5ae017ba727ddd5da26a716": [
+   "cp",
+   "pa"
+  ],
+  "27a7f3e71ef6687a8e01f863682fe848": [
+   "pa"
+  ],
+  "297a8003111fac8eec2207c2dc54c4de": [
+   "cp",
+   "pa"
+  ],
+  "2998beedefabd2b112a5f4ebeeec710c": [
+   "pa"
+  ],
+  "2a033c884a573320f8d208a573934f44": [
+   "pa"
+  ],
+  "2a399abd0e7b338dff56c5358e9e9d40": [
+   "pa"
+  ],
+  "2adc122b1725d98add7a74aadf6b2fbf": [
+   "pa"
+  ],
+  "2b1203735ac60054dc780a5738d19d6e": [
+   "pa"
+  ],
+  "2c1fea31ecfc764406070e48a96edf1d": [
+   "pa"
+  ],
+  "2c4732d10ffe8e862f59c05df647918c": [
+   "pa"
+  ],
+  "2d56d6248bce9f3f7620eced189c8d31": [
+   "pa"
+  ],
+  "2d85d6d9791c702d944789891372b155": [
+   "pa"
+  ],
+  "2d87915fd14d48b2151d37c8c225dbd0": [
+   "cp",
+   "pa"
+  ],
+  "2e4f6c319aae2dcd9092f4f83b272f9b": [
+   "ap",
+   "cp"
+  ],
+  "2fc29af030379f1f35b4d37eab42a797": [
+   "pa"
+  ],
+  "308d0d595f0460134fa2cce9e9afb9a5": [
+   "pa"
+  ],
+  "3135b4e171adad3947158396879caef6": [
+   "pa"
+  ],
+  "3143a52022d7ce45dddfa9e2af923c1c": [
+   "pa"
+  ],
+  "3164c7658f0151552e88abb4e0a1f504": [
+   "pa"
+  ],
+  "316a666b4a4c57c77e01c7c6aa1c2de2": [
+   "pa"
+  ],
+  "31ab572d345c63056db673f0073029bb": [
+   "pa"
+  ],
+  "32400115fccb4ea0d91016a6c70baeb8": [
+   "pa"
+  ],
+  "3266750cd88aece12b61bc18b95e31dc": [
+   "pa"
+  ],
+  "33029a56002c280b94031668f52da704": [
+   "pa"
+  ],
+  "332f72b2f65a9a76daec6a6d03b4851a": [
+   "pa"
+  ],
+  "333940b9ad992609d157773e6fda0946": [
+   "pa"
+  ],
+  "3352f45fea612338a9df8dfa86fb5788": [
+   "pa"
+  ],
+  "3434a96c6579a68e87993cb48df93777": [
+   "pa"
+  ],
+  "346d278f0d8f9de863fe93153c41ee42": [
+   "pa"
+  ],
+  "34f090d1b5977ee7dfd0aa366ca09ba6": [
+   "pa"
+  ],
+  "35b736759a62f2722d8f939cc237d170": [
+   "pa"
+  ],
+  "35faad73358f0d3c2dd42b3064fd399e": [
+   "cp",
+   "pa"
+  ],
+  "378bdc874e086f29e5ccf0432266ce6e": [
+   "pa"
+  ],
+  "3916469f8fda83d8f3bcfd7b0cd5dad1": [
+   "pa"
+  ],
+  "39a431c88fb32746515776ae51ba04f0": [
+   "pa"
+  ],
+  "3a30c553c57d48dfd1286c565d097869": [
+   "pa"
+  ],
+  "3a5417a784f02e3c6b88fa3903b8f63f": [
+   "pa"
+  ],
+  "3bd1a949e4819ecdca30fed961f480cb": [
+   "pa"
+  ],
+  "3be58e8b49ea3134061201bd23d66bcc": [
+   "pa"
+  ],
+  "3bf4e9fdaa5333619c6a437d607abc47": [
+   "pa"
+  ],
+  "3dc034debd91ff752e118cbeab81a7c9": [
+   "pa"
+  ],
+  "3df38a894a1d7708d2cc25337416954f": [
+   "pa"
+  ],
+  "3e61ace8143ae539df467ae9bd0c0651": [
+   "pa"
+  ],
+  "3eccc55fa4bf29c0059498c200d26b51": [
+   "pa"
+  ],
+  "3ef2a7afe8f26187d04e651170414573": [
+   "pa"
+  ],
+  "3f433c30143a048d7d92c020decaaabf": [
+   "pa"
+  ],
+  "3fc4425545497b1993733810737c937d": [
+   "pa"
+  ],
+  "400fb8ec31625aca8fecddd5fb1f87d9": [
+   "cp",
+   "pa"
+  ],
+  "4074ae01771ba3aec72875e5486813a8": [
+   "cp",
+   "pa"
+  ],
+  "4180fe947e328128354940b2402c8fa4": [
+   "pa"
+  ],
+  "41f6c82dfc76cb973aec025bb9d5f2e8": [
+   "pa"
+  ],
+  "420b931926ee991c33860a351c4b0d7f": [
+   "pa"
+  ],
+  "432d6c0d552b2739835b8cb086d43bdf": [
+   "pa"
+  ],
+  "432de538d3a1388fefdc683bb1a5353c": [
+   "pa"
+  ],
+  "4396c5ea0fb7e65c3b203bb99317b21e": [
+   "pa"
+  ],
+  "44718e2f4eaa9858b6844eb27d0320c5": [
+   "pa"
+  ],
+  "448a645e9dac82b0f69bd7cf25d84dec": [
+   "pa"
+  ],
+  "448da9b73f4604e03e6b03fa784845f2": [
+   "pa"
+  ],
+  "44bdf79a9744b6ccd249cff2e7a75bf9": [
+   "pa"
+  ],
+  "44d225d92a3ebfd49a3fb2619a1a159f": [
+   "pa"
+  ],
+  "44e437e77fa2debef8715ad857c458af": [
+   "pa"
+  ],
+  "45121ba2d31aabc8aba4ff063734c003": [
+   "pa"
+  ],
+  "4562bd7a558d2b1ceca40aba61aa75c2": [
+   "pa"
+  ],
+  "4633440c291e5478d53c8c1a8b2fa794": [
+   "pa"
+  ],
+  "46ae95a14b1289135e220aa0fcf4fbde": [
+   "pa"
+  ],
+  "472ae30e6c2c1b37d0c120fa0a043e88": [
+   "pa"
+  ],
+  "475b407027829c43effe0649d0e073eb": [
+   "pa"
+  ],
+  "47ea927901502df7489a74c8cc0e063b": [
+   "pa"
+  ],
+  "484980fb6d63e2289de1ba3e1b5fc592": [
+   "cp",
+   "pa"
+  ],
+  "491cc53a3f04f85493a2af4bc65c3a5e": [
+   "pa"
+  ],
+  "498887135496f8f31572b646fc2e4a50": [
+   "pa"
+  ],
+  "4996501eeeab8912ee85a908f4a91cb5": [
+   "pa"
+  ],
+  "4a319c5961fccd6c9835cf304176aa66": [
+   "pa"
+  ],
+  "4b09673133fa48236fed7e747704936e": [
+   "pa"
+  ],
+  "4b0c221ad54fd5491584b707920913f3": [
+   "pa"
+  ],
+  "4b2c6f7c630e0ba8ebabaabf27cb40cf": [
+   "pa"
+  ],
+  "4b4caa20a05169e78d10d8276f44682a": [
+   "pa"
+  ],
+  "4b76ecbdf53674c86ad2613b1a46baa6": [
+   "pa"
+  ],
+  "4ceecb97d814e83abbb48e8cb978cfd0": [
+   "pa"
+  ],
+  "4d2c9d96bd852d241f6ec06c22cd23a2": [
+   "pa"
+  ],
+  "4d56311f85e783229d5bf7e1f49e5e93": [
+   "pa"
+  ],
+  "4e367f3894e12715e243cdb034d7abb7": [
+   "pa"
+  ],
+  "4ed47d84fd52457738f561b438859a65": [
+   "cp",
+   "pa"
+  ],
+  "4f02609bbaf1e21a8e58e1fa39f10f07": [
+   "pa"
+  ],
+  "4f39863683ab11b3ff5b0d80a4f8dfb9": [
+   "pa"
+  ],
+  "4f83075e3b36354c0cc4f78cf721c2de": [
+   "pa"
+  ],
+  "4faa6428b3737a9b92b469a84849ea77": [
+   "cp",
+   "pa"
+  ],
+  "4fcacf0150ed45ddd8239afafa1a5f11": [
+   "pa"
+  ],
+  "4fdb5d532b91482385c50d479c4dd60b": [
+   "pa"
+  ],
+  "50abf9a5a2fd0dcf73d37e2d4e8209f4": [
+   "pa"
+  ],
+  "50e7f844cb7c4b2e76e064a63f9ddece": [
+   "pa"
+  ],
+  "50f09f443bdc41f5f5eb9cbc96db375e": [
+   "pa"
+  ],
+  "5138cd1656b69b089a3a1d455bd3f857": [
+   "pa"
+  ],
+  "5194604d0f89781f5324db48d855b756": [
+   "pa"
+  ],
+  "51a2c6b1a3632b13428a30bbc0a4fcae": [
+   "pa"
+  ],
+  "51cac4e27345d09a65b615e5c767e1e5": [
+   "pa"
+  ],
+  "5241f3d7c7e06dae65876e76c12bd2d2": [
+   "pa"
+  ],
+  "52656fea33d76b788005dc5a0516d15e": [
+   "pa"
+  ],
+  "52717836ce46055ff46b11960f18daf4": [
+   "pa"
+  ],
+  "52b4641cb59ff3fa9b39ba9071ec42f2": [
+   "pa"
+  ],
+  "5368ba17cc854c4c0b68d7f60e530309": [
+   "pa"
+  ],
+  "53e06b1a1a12d385eb63b31782841dcd": [
+   "pa"
+  ],
+  "558c812b1c4ace5d54b0357e8fc74d90": [
+   "pa"
+  ],
+  "55a2ea9837a4ea6de47d2c747ca76dc3": [
+   "pa"
+  ],
+  "5697a31b362d0469697308dd2604ad27": [
+   "pa"
+  ],
+  "56ae27d7b48f1dcfd92b576ae3d47eda": [
+   "pa"
+  ],
+  "56c59b310f5afe898602d2b5f134e1f1": [
+   "cp",
+   "pa"
+  ],
+  "56db3ff2b6575869566b6dfc35190ded": [
+   "pa"
+  ],
+  "575ee368039ffd6dedc715e982aa6d49": [
+   "pa"
+  ],
+  "57c39b79c6401ca0bde4023010254823": [
+   "pa"
+  ],
+  "57db7e7e620492bb4fc9780aabdc8f74": [
+   "pa"
+  ],
+  "57fb5df1a19aa6f4b123b45b4b688b25": [
+   "pa"
+  ],
+  "585b422c103a5d3aee0011866b405042": [
+   "pa"
+  ],
+  "58e1729404db33d17cab8950ce266941": [
+   "pa"
+  ],
+  "599b9ecbc607e5722c2bddf4d88cb358": [
+   "pa"
+  ],
+  "5a5c275d79a119f86eb802da689d7718": [
+   "pa"
+  ],
+  "5a758c9928ee0aa7403adc1401468da2": [
+   "pa"
+  ],
+  "5ab02b1ea0794205fd2b86d6ec319c93": [
+   "pa"
+  ],
+  "5aeb08350a0c65f101d3d2ddfe3715c2": [
+   "pa"
+  ],
+  "5afe6691a0888c25044800a4369f330c": [
+   "pa"
+  ],
+  "5b0c83ad01ff6a4da2ccae205c72192b": [
+   "pa"
+  ],
+  "5b61c35bb7a98b15ab6a43b46a379dd9": [
+   "pa"
+  ],
+  "5b714b9f3e6699c80e62235503db4ced": [
+   "pa"
+  ],
+  "5cae9a6911801cd4b0d26157c5c382ce": [
+   "pa"
+  ],
+  "5ccd952e5ba5ec60b8308420785c896e": [
+   "pa"
+  ],
+  "5d041753b601e97ee07cc1fd43c25013": [
+   "pa"
+  ],
+  "5dae9bdb2c26eb5cc0990645f9f077a3": [
+   "pa"
+  ],
+  "5dec2dc5de0b6a272e12094c5e1ed57e": [
+   "pa"
+  ],
+  "5e38b32ecb0a636a339e30df4833abad": [
+   "pa"
+  ],
+  "5e6a9c2a9213cebfc9224e98c4d7c6c8": [
+   "pa"
+  ],
+  "5f00c4a6512399b88fa05d062e5c9fd1": [
+   "pa"
+  ],
+  "5f791d0d1c8fcad5dd78411a6cbac81b": [
+   "cp",
+   "pa"
+  ],
+  "60fc54a3683d04de37c1e5fd383efc3a": [
+   "pa"
+  ],
+  "611513ced005f7690ddbdd68b8545400": [
+   "pa"
+  ],
+  "619f09c883dfbfaf5ee997ef07c51fd6": [
+   "pa"
+  ],
+  "6277e35b37c9dbc9ea4a5d20030455af": [
+   "pa"
+  ],
+  "629cad76fad8693c64bfb8002e6fd797": [
+   "pa"
+  ],
+  "62b3d2c8d754cf6601d3a01c58f4e1ef": [
+   "pa"
+  ],
+  "62b7ad99520e99372694ccb501bf9582": [
+   "pa"
+  ],
+  "63274a75a249c14c1dd78712d3978a93": [
+   "pa"
+  ],
+  "64cbe79870855b68fc4783b12918fa8e": [
+   "pa"
+  ],
+  "6524cab9e1fbbd66b28d49e947cdf6d5": [
+   "pa"
+  ],
+  "654ea7ed671db9aca61a060deb917bc5": [
+   "pa"
+  ],
+  "659e800a991a1572998619c53fd58b4a": [
+   "pa"
+  ],
+  "6660db15f94b832b5363385d0141b8e8": [
+   "pa"
+  ],
+  "66d80b79f53169f3ca000faafb83258c": [
+   "pa"
+  ],
+  "66e5c4fdf18fc2ccb149a3514e8a594c": [
+   "pa"
+  ],
+  "6726609b4f322914a0b534c7354f3f14": [
+   "pa"
+  ],
+  "673ee53b0c2040ff6bd4f4fb3fc603aa": [
+   "pa"
+  ],
+  "675c127d8236b2fea89b059f790ceede": [
+   "pa"
+  ],
+  "6781e3d08a55e813d6ff1011df66f94d": [
+   "pa"
+  ],
+  "6a10b7f6ea71ea9b580000d8dfdcac0f": [
+   "pa"
+  ],
+  "6a71f54974723432ae8f3caa7191e06a": [
+   "cp",
+   "pa"
+  ],
+  "6ac37ebd5cc75437fa920c3f4fb99b05": [
+   "pa"
+  ],
+  "6ae2b4517a217dac7054badbd4293d86": [
+   "pa"
+  ],
+  "6af87927800ad743e24220474458c16e": [
+   "cp",
+   "pa"
+  ],
+  "6af9b6f679ed7f42b33b5601c08d2aa2": [
+   "pa"
+  ],
+  "6b00edae9b56c2d5fb99ad4f716ab075": [
+   "pa"
+  ],
+  "6b7bf546a0bbe011179232c7b600884e": [
+   "pa"
+  ],
+  "6be4c2bfcbf99f5089254f9f9b8e99bc": [
+   "pa"
+  ],
+  "6c6fcb2d6bbbab787a7fa000252a85fa": [
+   "cp",
+   "pa"
+  ],
+  "6c760bc6e4b04a099205a09a15f61696": [
+   "pa"
+  ],
+  "6cc3f5a8b67da719bf1adef71316674b": [
+   "pa"
+  ],
+  "6d07b6b4ceda1b3ebc7b738e37a34380": [
+   "pa"
+  ],
+  "6d341f12826d745e6853f5a11cc9aa39": [
+   "pa"
+  ],
+  "6d636e919e0574005ea3fc10a49bb4fa": [
+   "pa"
+  ],
+  "6d70172c4e06ef314996cb5f9a52fc61": [
+   "pa"
+  ],
+  "6d78c22204a5ddcf874dc1925691af70": [
+   "pa"
+  ],
+  "6db682ef9c62f7bb5d9bfeca482ffc88": [
+   "pa"
+  ],
+  "6e2efdb553025d6783c78004705b8357": [
+   "pa"
+  ],
+  "6e4d560bc41a2819c8975b25bfc7b5b6": [
+   "pa"
+  ],
+  "6ffebf74684c8afeb49f8411724e417f": [
+   "pa"
+  ],
+  "704107d12184f67093ec66bbe173915a": [
+   "pa"
+  ],
+  "70c403227f6dd30c115d8f2c67a955ae": [
+   "pa"
+  ],
+  "70f435768b3e7024d1bd918665513f35": [
+   "pa"
+  ],
+  "70faa1dd486573397f82e6b5b4186df1": [
+   "pa"
+  ],
+  "7127006184d9be00b864ea44fd2c6b24": [
+   "pa"
+  ],
+  "713171b4fbc4982a74d08287647a9ab8": [
+   "pa"
+  ],
+  "71620326f8483aa762bce1bf0770fc41": [
+   "pa"
+  ],
+  "716e2cc587433712fb11ed2dc775dc4c": [
+   "wp"
+  ],
+  "718e58026cddcb915321563c37ca1905": [
+   "pa"
+  ],
+  "71bc2cee612e072696ec32ed5730a7da": [
+   "pa"
+  ],
+  "720f38fd2049a446175e2ce93a04eca1": [
+   "pa"
+  ],
+  "72b752e6517aad264232aa75fec66891": [
+   "pa"
+  ],
+  "739680df6aeddfac07a809b7537733e9": [
+   "pa"
+  ],
+  "74320b12f7ce8fcfcee38be10deaf3b2": [
+   "pa"
+  ],
+  "743adbb7b51c0444d89789aa5126d761": [
+   "pa"
+  ],
+  "75bae64eaceac4185a68b033a877f745": [
+   "pa"
+  ],
+  "75d7278823d5cbbba92294debe8ec097": [
+   "pa"
+  ],
+  "7666409a47a3e0819542e38b61eb1c84": [
+   "cp",
+   "pa"
+  ],
+  "76dd35cf6a18bebe152c6d01f2ab734c": [
+   "pa"
+  ],
+  "773381f33e8cac3e015972713b3e144b": [
+   "cp",
+   "pa",
+   "wp"
+  ],
+  "78a5889712ecb2ab0e1ee7f8e38dfe8a": [
+   "pa"
+  ],
+  "79e513ad3c017832f04066fdf8058dcb": [
+   "pa"
+  ],
+  "7a3b11ac324c1ee133e634a5e6bc250a": [
+   "pa"
+  ],
+  "7a4dc14ace6778e3d252bb761cf457ee": [
+   "pa"
+  ],
+  "7a5cfa3867df8c15b02dabf42991528a": [
+   "pa"
+  ],
+  "7a8477d14a6e86055ac706995bd0c9bf": [
+   "pa"
+  ],
+  "7aca0141d90650a307615891cdbd4208": [
+   "cp",
+   "pa"
+  ],
+  "7ae9b7aacf3eaab04682a3ef391b5acb": [
+   "pa"
+  ],
+  "7af304799b33f0c863b1efc01cb7b195": [
+   "pa"
+  ],
+  "7af8c183a4162b32acc68d787d4be993": [
+   "pa"
+  ],
+  "7b149025daa00c51f79b43a2754f7aee": [
+   "pa"
+  ],
+  "7b1be065b19126cb0d2e1631cf77b008": [
+   "pa"
+  ],
+  "7b2d35d083709533051bfbfaac35dea6": [
+   "pa"
+  ],
+  "7b504e68f85dda9294cba66c653ac76e": [
+   "pa"
+  ],
+  "7b83304dabf4019efd4cb59154495032": [
+   "pa"
+  ],
+  "7c2d0de9ce88db5636c361e9cc80a7ba": [
+   "ap",
+   "cp",
+   "pa",
+   "wp"
+  ],
+  "7c2ecf0723d449ba2a7548e0d0fa2bb1": [
+   "pa"
+  ],
+  "7c4ad0efc51dc0cbf32ffaaac192d142": [
+   "pa"
+  ],
+  "7c8983538942bf170c31ae28c10a132a": [
+   "pa"
+  ],
+  "7ccd320a6c3e50ee145bbca3ccae2c03": [
+   "pa"
+  ],
+  "7d0a91743c10d489bfaee2af6c338798": [
+   "cp",
+   "pa"
+  ],
+  "7e66c40449173a9a61ff69077274c925": [
+   "pa"
+  ],
+  "7ecaffa50635eacdcc79a550f8b3cc80": [
+   "pa"
+  ],
+  "7fa49639b701307446472f0a77ed8be4": [
+   "pa"
+  ],
+  "80453c2d3ac11ba6a16df557d382af3a": [
+   "pa"
+  ],
+  "811a11755de873fa56a6752f542cf80e": [
+   "pa"
+  ],
+  "81c993569b482f31ad13518d0e4aa394": [
+   "pa"
+  ],
+  "8247579f6f1daa91296c9c4a89d48b8c": [
+   "pa"
+  ],
+  "82df7a12ecb3526514fcb5dfd04718b9": [
+   "pa"
+  ],
+  "831f85d9b6f5a08dd2a63bb963151445": [
+   "pa"
+  ],
+  "833f1c2f6727985121159b7ac376d94f": [
+   "pa"
+  ],
+  "838705cf099bc638ae173bf449e9bf8c": [
+   "pa"
+  ],
+  "8403643e67c2937b8ed465635d6d0ccd": [
+   "pa"
+  ],
+  "848be34fcb09264e1b843f944441f0a9": [
+   "pa"
+  ],
+  "84d7868f2ba6d020510316699a304b29": [
+   "cp",
+   "pa"
+  ],
+  "85119d93b8aa4e08d618a14a243ce617": [
+   "pa"
+  ],
+  "8560abe3771c083bd0798004f2b59caa": [
+   "pa"
+  ],
+  "85711baded45f0708ddf89447c45dbee": [
+   "pa"
+  ],
+  "85a019a5f0c8bffad8ab6d7d32c23c22": [
+   "pa"
+  ],
+  "85f47824ac0deee740c3d796b58f61ba": [
+   "pa"
+  ],
+  "86502d21d9ee012f5f57e71627750f3f": [
+   "pa"
+  ],
+  "8783c45ca6fe485b02babcd63f12e46b": [
+   "pa"
+  ],
+  "881b9e04fcd0bfec89ae29ebdc9d1ad4": [
+   "pa"
+  ],
+  "8848784d325024a23fbdc7a32031d5c1": [
+   "pa"
+  ],
+  "88ea0bd7b1c5aecf15b3bf3ead2e6d01": [
+   "pa"
+  ],
+  "88ef9fb0104bc9add08b86e1d65cf750": [
+   "pa"
+  ],
+  "89aaef713a695db97baafeebd83add45": [
+   "pa"
+  ],
+  "89d7d72cd690904ab1c668de069d152c": [
+   "pa"
+  ],
+  "8adba14a440fa15bb98500e2e7898403": [
+   "pa"
+  ],
+  "8ae93fe3b7833e9b76823603c91d0a3d": [
+   "pa"
+  ],
+  "8b1c470090e6939a912e4c6007ad4f37": [
+   "pa"
+  ],
+  "8b837a4bee85cce9134434db582ed866": [
+   "pa"
+  ],
+  "8b992f9e48fc09d371b46e5769ff8f6a": [
+   "pa"
+  ],
+  "8ba5e7d4dd34468950cda164b7c101a7": [
+   "cp",
+   "pa"
+  ],
+  "8c1a7ea6eb7dacb1186e1e39ab28fa4c": [
+   "pa"
+  ],
+  "8c3bf054a4538cd113357f78bc90fe6d": [
+   "cp",
+   "pa"
+  ],
+  "8c9e3c4b59d54ba323eb32a24741ae8e": [
+   "pa"
+  ],
+  "8cf48e63166a02fb8feb1b6b9e1a733c": [
+   "pa"
+  ],
+  "8cf8cd393fa7684f83f1aca5b9997868": [
+   "pa"
+  ],
+  "8d0d743e7114469dcba1c1beb3018543": [
+   "pa"
+  ],
+  "8d4df7d7272344cd5c269ea59ace3749": [
+   "pa"
+  ],
+  "8dd87c418e40fbb4a4bd2b7106d62d3e": [
+   "cp",
+   "pa"
+  ],
+  "8ed17577ad63fb8409f89db871d2861b": [
+   "pa"
+  ],
+  "8f61436888c64b3e3687a7f067e146b8": [
+   "pa"
+  ],
+  "8fbebe6ed5fe76f2f26335c9f92192ac": [
+   "pa"
+  ],
+  "907c65727ea5ce1f7bda27322fc2e762": [
+   "cp",
+   "pa"
+  ],
+  "90f46dbac54f1d7e4a73497e4b92b4d6": [
+   "pa"
+  ],
+  "91161177b86a81286b304648a681ffbd": [
+   "pa"
+  ],
+  "91795435f042de6047e42e1ff1695d1d": [
+   "pa"
+  ],
+  "91cacb93215d8e266547549007911f0b": [
+   "pa"
+  ],
+  "91eeccde661eb7721d5fd2c6e0c3d880": [
+   "pa"
+  ],
+  "9273acea1fd005d0bb5df5813aba5dcf": [
+   "cp",
+   "pa"
+  ],
+  "92788fe6d5b22e67eeb1c9188213b29c": [
+   "pa"
+  ],
+  "9329569798bbeacdd81d5ba23328d90a": [
+   "pa"
+  ],
+  "932eedbed930fb4afedb5375e5d9934b": [
+   "pa"
+  ],
+  "94876ec150e3b17c5dfaa5ea9a816856": [
+   "pa"
+  ],
+  "94a2a80cc99fdf9be05eea55d8dc3f5b": [
+   "pa"
+  ],
+  "951cb6d20b02b4ee477778a234794217": [
+   "pa"
+  ],
+  "9690e7ae0a9ab41828b80e0a1873e4b7": [
+   "pa"
+  ],
+  "96a4f7d15f9b45f7f2e204aa3860566f": [
+   "pa"
+  ],
+  "96b7e37f0051b10a8dde69adf675f944": [
+   "pa"
+  ],
+  "96c9644a6ab0fadc2dd253bbb5ef02d5": [
+   "pa"
+  ],
+  "96e2f6b8b9f295f2fd0cb29fd9231abe": [
+   "pa"
+  ],
+  "9710367147922b2792d94138a68b846d": [
+   "pa"
+  ],
+  "97b3faf4648802c081bb7167aefd9dfe": [
+   "pa"
+  ],
+  "97cd3188961d33bca7806cdb75492b25": [
+   "pa"
+  ],
+  "9881bea97075b181876dc54ceaeffb81": [
+   "pa"
+  ],
+  "9899a9d6573dde10d811f2a47a0ee6e7": [
+   "pa"
+  ],
+  "992cd8b257f65cb310fd07ae5b3de661": [
+   "pa"
+  ],
+  "99b752a76f8a6c95e7377e061d922d63": [
+   "pa"
+  ],
+  "99fa512e2b1de6e718896414249e5f22": [
+   "pa"
+  ],
+  "9a2c1ad2dcf5ea478155acccf6323b91": [
+   "pa"
+  ],
+  "9a6f9f04eb7dcb86f90a54d1d7f0a4f2": [
+   "pa"
+  ],
+  "9aa5826cd099dfd19c4ef1b1c6dbb67c": [
+   "pa"
+  ],
+  "9ad0c1d4585c8d17612d5c98f91641aa": [
+   "pa"
+  ],
+  "9b16da2f6910e31fb456a702891ae7c3": [
+   "pa"
+  ],
+  "9b66b0761d5431de2ee39e1728c34c59": [
+   "pa"
+  ],
+  "9ba2c751284ec3e9e2b51c8753c48c51": [
+   "pa"
+  ],
+  "9c37377d83714fe68e71d93ef872074d": [
+   "pa"
+  ],
+  "9c5c99e96ebe69e11849bd5160b62e1a": [
+   "pa"
+  ],
+  "9c732dea1b0d200bc91ae8aa1f3bb759": [
+   "pa"
+  ],
+  "9c87d55d19159d196ae4287a8aa85dd5": [
+   "pa"
+  ],
+  "9cc00079da6bcd6357c48fd997597cab": [
+   "pa"
+  ],
+  "9cc0e939e5067ab8558f49c5866eb0b3": [
+   "pa"
+  ],
+  "9e27ea4990035651f1b6c05a5f1bb9ba": [
+   "pa"
+  ],
+  "9e81fa355d066397291705a48c6638fa": [
+   "pa"
+  ],
+  "9f4a165d2c81d91266129aceab0bea1d": [
+   "pa"
+  ],
+  "9f934114cb044c824d2536ddc777b143": [
+   "ap",
+   "cp",
+   "pa"
+  ],
+  "a0a40f83da7e2ccfd8ba13a5c68f9103": [
+   "pa"
+  ],
+  "a1095dfcacda6d1e1e8aaf698c3d41f2": [
+   "pa"
+  ],
+  "a19ed2033adfa2fd3986c40d2683c324": [
+   "pa"
+  ],
+  "a294a8ab31d51d5e6e2a6803c1bcdd43": [
+   "ap",
+   "cp",
+   "hud",
+   "wp"
+  ],
+  "a29c782169bc2ab52119c84e2c73e990": [
+   "pa"
+  ],
+  "a2e65dfbf7fc43e04d58a8d49d0447f9": [
+   "pa"
+  ],
+  "a3238fe0469ad45a9a21c2a93c40c296": [
+   "pa"
+  ],
+  "a32aab351b3a72b6298a22d80304e7a2": [
+   "cp",
+   "pa"
+  ],
+  "a39aed36b34d9246d6d71b86f5af0429": [
+   "pa"
+  ],
+  "a3b82fcac2e81c660e98e60a5a2c6497": [
+   "pa"
+  ],
+  "a3ba14f7d2186dd8295de01b7ebc17f1": [
+   "pa"
+  ],
+  "a408818b3d0a38760f1d44c46b56190f": [
+   "pa"
+  ],
+  "a41abc1babb8a0d96809a33680f20782": [
+   "pa"
+  ],
+  "a53cea77164581c911046b93128012f7": [
+   "pa"
+  ],
+  "a75785003d5e25c407874f8398f15003": [
+   "pa"
+  ],
+  "a966b1bb9e30b4881a8f0daf54c360fb": [
+   "pa"
+  ],
+  "a9e8d9973ec07474ea938b7cae3351ac": [
+   "pa"
+  ],
+  "aa0a9da1856405d3fac25c7b7de98c34": [
+   "pa"
+  ],
+  "aabcb98137f88e53efcee8185ae81e4f": [
+   "pa"
+  ],
+  "abc1fe41cb31ae8dcb457d02c697e379": [
+   "pa"
+  ],
+  "ad96d27cdb87cf007573b30847ccc6fc": [
+   "pa"
+  ],
+  "addc0feb437bf785cee9bf22f837e3d2": [
+   "pa"
+  ],
+  "ae71be01e441202df0d45e15ab1acb34": [
+   "pa"
+  ],
+  "aea87a80dcaf6ea97abc254b9eb812ff": [
+   "pa"
+  ],
+  "aec38e25b5508a6c257b309695cd6ce3": [
+   "pa"
+  ],
+  "af1314319fd829453b5f9f4ee8c0985c": [
+   "pa"
+  ],
+  "af1fb91c1a8837f33f73593574e47e60": [
+   "pa"
+  ],
+  "af60165409c0df90798273411e350a9a": [
+   "pa"
+  ],
+  "af918354d7ea5f81ea8ca918c34b9e99": [
+   "pa"
+  ],
+  "b13e4b962bd237cccf1fb911b1b70b6e": [
+   "pa"
+  ],
+  "b276a593d7548210d3d73e6dcf2c32a5": [
+   "cp",
+   "pa"
+  ],
+  "b27a89742e5f2152973353dac8407ee2": [
+   "pa"
+  ],
+  "b2bc98af42fc7d8514771198af3c401a": [
+   "pa"
+  ],
+  "b3b8374468f7acb022a17e00f2a61d7a": [
+   "pa"
+  ],
+  "b3b9a9fb01300228725890466a963d62": [
+   "pa"
+  ],
+  "b3c4d0942c29f3d71fd5a663492a240e": [
+   "pa"
+  ],
+  "b4a475d3fa18a4446b6bddced52a177c": [
+   "cp",
+   "pa"
+  ],
+  "b4a5fd42864395783d98aef66fd82ef1": [
+   "pa"
+  ],
+  "b5238589c34bc86c179b597f4fbb2266": [
+   "pa"
+  ],
+  "b580c0d2e5a411ade5d756b566c8684e": [
+   "pa"
+  ],
+  "b5b41361618d78735b81dce68ce4e75d": [
+   "pa"
+  ],
+  "b5ca9f304898a7970ff30e7f3051c1ef": [
+   "pa"
+  ],
+  "b605a9919dd9fb7c7755efea325fd1aa": [
+   "pa"
+  ],
+  "b62401a101c20ff47311b8be6851fd1d": [
+   "pa"
+  ],
+  "b63efc3b0bec054de452e2c9d4de2e0c": [
+   "pa"
+  ],
+  "b6bf33723601e027f436b255c5f40730": [
+   "pa"
+  ],
+  "b6fb7eb7c833927ba8db7ecfd32a3224": [
+   "pa"
+  ],
+  "b713794bd3c1fdd2c4850bab7a993530": [
+   "pa"
+  ],
+  "b7f2e9d7dd0a88ca1687b77cac93ce42": [
+   "pa"
+  ],
+  "b8502247e795775906ada12b6e2506f1": [
+   "pa"
+  ],
+  "b8d93af70add3290b3fa0e697cc4d7d0": [
+   "pa"
+  ],
+  "b90a9f66b58d8d88b6a4a51f4327f635": [
+   "pa"
+  ],
+  "b93b41b50225432ecc30f8338bc39962": [
+   "pa"
+  ],
+  "b95e5668d755d5c6a937b51d384c849f": [
+   "pa"
+  ],
+  "b9810f081db21ee255914ff19e855a0a": [
+   "pa"
+  ],
+  "b9e1c3b9070c1843e18733dd72a053d8": [
+   "pa"
+  ],
+  "ba4620c189fac39dfdae599c57fef7dd": [
+   "pa",
+   "wp"
+  ],
+  "bb75d0b1d45eda9183a5c1d0f7b119ea": [
+   "pa"
+  ],
+  "bbc07588e5fd51a3392c14cd72f84dc4": [
+   "pa"
+  ],
+  "bc139d47da39bd70391e825b0eee679e": [
+   "cp",
+   "pa"
+  ],
+  "bc6f0627af49d675e62153634dbab5fc": [
+   "pa"
+  ],
+  "bd181f01447290aa2ae23e64c8705ad6": [
+   "pa"
+  ],
+  "be553ca58690e4e04bd292daa9153d09": [
+   "pa"
+  ],
+  "bf1d9dd8ee0ebc418f84e80d2951ceb5": [
+   "pa"
+  ],
+  "bf435f9bb9cbf000f0b2885e21f15acb": [
+   "pa"
+  ],
+  "bf99170d31330fa8114a83ce0604063d": [
+   "pa"
+  ],
+  "c0c90cb703f4297deb32ea3804b2b796": [
+   "cp",
+   "pa"
+  ],
+  "c30448166c84bbbe18bf53a50311bb7f": [
+   "pa"
+  ],
+  "c3271bbf5623fd026c344eff62d6e04b": [
+   "pa"
+  ],
+  "c440401aa33a90931bf74c5df85730e1": [
+   "pa"
+  ],
+  "c466466e66d005a68b2b81e72c84f48d": [
+   "pa"
+  ],
+  "c4b4244f70c67adee001acbdda397dc8": [
+   "pa"
+  ],
+  "c516e2b76d4f75dd35bf7a2a9b7a9041": [
+   "pa"
+  ],
+  "c561eade3888cb4f67e21d31bcff0ea2": [
+   "pa"
+  ],
+  "c575add807b4f3ea080afd13dc68cc6a": [
+   "pa"
+  ],
+  "c599d4f89c9c988b02e49d954eb70399": [
+   "pa"
+  ],
+  "c60bd058256c2a716664b1247f1b5ca6": [
+   "pa"
+  ],
+  "c6d7851f7d801a3ec864bdba2b4704e6": [
+   "pa"
+  ],
+  "c6ee59da42ea0ccadc7caed70441150e": [
+   "pa"
+  ],
+  "c750c095d773fee6e3693d1bc0cf58a5": [
+   "cp",
+   "pa"
+  ],
+  "c785ff7bd09ceb57feb038e5e50000f2": [
+   "pa"
+  ],
+  "c8084b4fd859076fb9cdcbfebc11f5ee": [
+   "pa"
+  ],
+  "c8b21ae2753c3c40ba868e0e6d0a7c68": [
+   "pa"
+  ],
+  "c8c3450cc2c80df9344fa20a8e13c05f": [
+   "pa"
+  ],
+  "c8e199f407be0d1fd22eb164c036e605": [
+   "pa"
+  ],
+  "c90f33bb9fefa3bf39c2a03fa0204f03": [
+   "pa"
+  ],
+  "c9bd4d23798236e29d9769cb02c8f545": [
+   "pa"
+  ],
+  "c9fb2c1d827a83420a8a240145b721fd": [
+   "pa"
+  ],
+  "ca256f0eecf0b64d726d85d5c338cfff": [
+   "pa"
+  ],
+  "ca26e2d882245edf30ec193d35974d51": [
+   "pa"
+  ],
+  "cadde006e38353770433b05566b77db6": [
+   "pa"
+  ],
+  "cb3c77b1fe57a5c76efefc44799e2659": [
+   "pa"
+  ],
+  "cbbcf3c6c28a5564303627ad2e5750c5": [
+   "pa"
+  ],
+  "cbcda90cb52c519e2ea1b2ae179d0710": [
+   "pa"
+  ],
+  "cbd13f787037804661ac30634ccaf82d": [
+   "pa"
+  ],
+  "cbd64754ab91d5c86e46a1d9b82832d2": [
+   "pa"
+  ],
+  "cbeae2c6a12cf74fb77d994ae88a8c9b": [
+   "pa"
+  ],
+  "cbf7c4efc2a2f54412fc7e58da9fd3cb": [
+   "cp",
+   "pa"
+  ],
+  "cc03214b5b09653fb9b833c042bc1906": [
+   "cp",
+   "pa"
+  ],
+  "cc51ff4b2f1a7cdad51a5727a5ce531b": [
+   "pa"
+  ],
+  "ccbb25f71af3087fb0d0e54ae7b42d0c": [
+   "pa"
+  ],
+  "ccc889924a76dd834824d0bab444ca6b": [
+   "pa"
+  ],
+  "ccd36a487c55967a51074ca72a74edb5": [
+   "pa"
+  ],
+  "cd30a1e6ba1af0f2e09d284912e5f1a8": [
+   "pa"
+  ],
+  "cdbc1a0442d420bb56dc38923db585d0": [
+   "pa"
+  ],
+  "cec8e49d3f1a5b2ae271f04091c3d482": [
+   "ap",
+   "cp",
+   "pa"
+  ],
+  "ced84042581ab3a89ed4604eb0a6d9bc": [
+   "pa"
+  ],
+  "cf72b3f832c520a229979114af6703a9": [
+   "pa"
+  ],
+  "cff1f3ee00dd848587d62f9c7d274dd3": [
+   "pa"
+  ],
+  "d062cb10b309844c39f53741e2172ba1": [
+   "pa"
+  ],
+  "d083ccf82d7c149dbc4ede0cd729286b": [
+   "pa"
+  ],
+  "d0911a281b968becb7ec0a60ce1227bf": [
+   "cp",
+   "pa"
+  ],
+  "d1de2929d1874513f6d67012d9c0d263": [
+   "pa"
+  ],
+  "d1df05d72c7bb526c688d098b5ba5d78": [
+   "pa"
+  ],
+  "d1eccec9cbbeed555b0462206c5a40f6": [
+   "pa"
+  ],
+  "d2917916b5fef75b378b274153a5cff5": [
+   "pa"
+  ],
+  "d30a722f5ec4ad2f0b273eddd35acd11": [
+   "pa"
+  ],
+  "d32e1198a724eda3e814d46d417dab57": [
+   "pa"
+  ],
+  "d3c2e5ec812d9ea5795df77823820227": [
+   "pa"
+  ],
+  "d3c8223fe153e23349c7119a394899c5": [
+   "pa"
+  ],
+  "d447ed73882b38a90a02f0788030b564": [
+   "pa"
+  ],
+  "d47994561003456ca0d3bf915acce75a": [
+   "pa"
+  ],
+  "d4d879d01faec7ab551c6367e180cefd": [
+   "pa"
+  ],
+  "d558b148456d90f3bceb55fcc287c790": [
+   "pa"
+  ],
+  "d56eba743db38fbee1653885c35e8f92": [
+   "pa"
+  ],
+  "d5d4b5ae0b1e21b8a6c0de3d1e90eb4e": [
+   "pa"
+  ],
+  "d6109adc6532d0aff9fba24f631b89c5": [
+   "pa"
+  ],
+  "d632b1456ff7948e44521857d6d684b8": [
+   "pa"
+  ],
+  "d6f44819f48e83af2130150549a76d5a": [
+   "pa"
+  ],
+  "d789be4f9b4f45055fc352121cc058df": [
+   "pa"
+  ],
+  "d8530c25e6892c815c103216ccefc6ef": [
+   "cp",
+   "pa"
+  ],
+  "d9318b3c2d2ac54438ea096a98508737": [
+   "pa"
+  ],
+  "dad274106dd7a332215b4cb977ba31a9": [
+   "pa"
+  ],
+  "dad5b49248672e77d31bd4e82c8177ed": [
+   "pa"
+  ],
+  "db0e832cf73c6a4b56b980a1f35a8b5e": [
+   "pa"
+  ],
+  "db85dc0ad444606da46449335b47af39": [
+   "pa"
+  ],
+  "dc009497f6c15238cc3b57f9dcf1d962": [
+   "pa"
+  ],
+  "dc3e5cf3f59de68ae82a4a504a48ad89": [
+   "pa"
+  ],
+  "dce25018efa9cba6a5edd6580fc7b384": [
+   "pa"
+  ],
+  "dd1c1884b8376ad7343263f90cd4c797": [
+   "pa"
+  ],
+  "dd367db5fac44ae6bca2535e43af54ba": [
+   "pa"
+  ],
+  "de4d422866965846bbbf52fde25ed9a8": [
+   "pa"
+  ],
+  "de5f269b3d4b3885291d86dde91ec11f": [
+   "pa"
+  ],
+  "de8afb42c68b4ca6aedcd97900c67f75": [
+   "pa"
+  ],
+  "deba9350a956850edcc0726e9b6a38f7": [
+   "pa"
+  ],
+  "defaaa6c7202675000e92910a8107ec7": [
+   "pa"
+  ],
+  "df4f6fc1be82cd969cfba8aea8a85a03": [
+   "pa"
+  ],
+  "dff6b7228af1c06c0c1ffd2b3c551f21": [
+   "pa"
+  ],
+  "e0862349b6e7c23a6d5bef17fda5bfd9": [
+   "cp",
+   "pa"
+  ],
+  "e0b948db10bddc989f582652cf4272a3": [
+   "pa"
+  ],
+  "e10de7c273e4d366f9b73bc0e5f34f89": [
+   "pa"
+  ],
+  "e18f1f6761319b2b160920b0977d8782": [
+   "pa"
+  ],
+  "e19558f31ff625f364c756a147c7887b": [
+   "pa"
+  ],
+  "e1fd993c7f63a5b7be7aaeba983ebbc0": [
+   "pa"
+  ],
+  "e2642fd8408817ab47148caaf43e3023": [
+   "pa"
+  ],
+  "e3061a488201872653a1625c496c3b46": [
+   "pa"
+  ],
+  "e37a1141bb3a61c0a14ceefc88074a8f": [
+   "pa"
+  ],
+  "e381aff6d5db983fc0f59cdacb17e0ba": [
+   "pa"
+  ],
+  "e517b4098056ae8e9d3ae1cd116acf56": [
+   "pa"
+  ],
+  "e53fde454347614b9f596a92c249e279": [
+   "pa"
+  ],
+  "e56d3a159b4d85d8e0c41e91f5955f5a": [
+   "pa"
+  ],
+  "e5c53f25e655ebfca39e55f7bb5c00e1": [
+   "pa"
+  ],
+  "e5dd0657e8c7a1265824cbb0eeaed74e": [
+   "cp",
+   "wp"
+  ],
+  "e6091dcf8e98b484a608f14d980a1b2d": [
+   "pa"
+  ],
+  "e6d676aede4b671f5c93fbb6cb38f393": [
+   "pa"
+  ],
+  "e7a0cc314657f4cb18c9b3021ed1f5ee": [
+   "pa"
+  ],
+  "e7e0ce6ab734c67396ecf7abcbeb366f": [
+   "pa"
+  ],
+  "e8eed62a4b690fe6f143fe6e58d0cfaa": [
+   "pa"
+  ],
+  "e952d2558c4299a15b90d3f6a2515898": [
+   "pa"
+  ],
+  "e956e97e42d9b63e76b66e2ad84359fd": [
+   "cp",
+   "pa"
+  ],
+  "e97aaf0347aaee9e5691e0b96a28d5da": [
+   "pa"
+  ],
+  "e9c401333caff2ef2c40eb1d0f47264a": [
+   "pa"
+  ],
+  "e9f34e3a70cc06e94b5ba0beb8efb884": [
+   "pa"
+  ],
+  "ead012c2fafda9f3957175e538f405ba": [
+   "pa"
+  ],
+  "eb00c7cd13a98b7aba3477cb09972387": [
+   "pa"
+  ],
+  "eba9382b17b1fd3cb1b05b561bf630f3": [
+   "pa"
+  ],
+  "ec41779fe48240175ab48b1ee1d24d06": [
+   "pa"
+  ],
+  "ecb4ba80aceb1370ca30b70fff220ad2": [
+   "pa"
+  ],
+  "ecbbd4549855b5963bed5a34a83a8aaf": [
+   "pa"
+  ],
+  "ee7682f40285280a49a47c62e4f2660a": [
+   "cp",
+   "pa"
+  ],
+  "ef15a50eb76db0284356f7017850f9ec": [
+   "pa"
+  ],
+  "ef734a9a3c5918811393306a90af2f35": [
+   "pa"
+  ],
+  "efe1cdeaff954f04239213e3dfeddf35": [
+   "pa"
+  ],
+  "f013f0b9cc33d94b65d1a2f0ab8fbed6": [
+   "pa"
+  ],
+  "f09b3a71600feba3d9bdd319f9368196": [
+   "pa"
+  ],
+  "f0f90af39035935ed6be3f8a37475786": [
+   "pa"
+  ],
+  "f13a1a2d5ebb43b51ff233b3fbd320ae": [
+   "pa"
+  ],
+  "f215d0d3df342d3bd0ae5dd003cbf2c3": [
+   "pa"
+  ],
+  "f219ea9b90a636309cf6df8a4aa1f6bd": [
+   "cp",
+   "pa"
+  ],
+  "f29cb8ab49c33feeff6bc55fa064a308": [
+   "pa"
+  ],
+  "f30c5e2e5dd707b7baf22dd827e62f62": [
+   "pa"
+  ],
+  "f32f11af97c888f954870e9ac5e6a369": [
+   "pa"
+  ],
+  "f34c1d9ecd96e95f7c95184dd356ae68": [
+   "pa"
+  ],
+  "f3c8854e93eaf27dad11876894f92f1f": [
+   "pa"
+  ],
+  "f3e7d74bd2436b6030e34c59d61b5f71": [
+   "pa"
+  ],
+  "f4573aa7f7ded3924aec01129428da59": [
+   "pa"
+  ],
+  "f48460af1ad36e28d831e104c6ba9f65": [
+   "pa"
+  ],
+  "f4afeb29922fc1ec07a0b57268a3ee54": [
+   "pa"
+  ],
+  "f4b49d22ea6c49430bf3b56eb9a01f45": [
+   "pa"
+  ],
+  "f54daf2c7bb5aaee0f8c980ddf39cb14": [
+   "pa"
+  ],
+  "f57a7f827a21f0f7994f88c153b0c106": [
+   "pa"
+  ],
+  "f5801fc38ca5782819b77ca6255f12e1": [
+   "pa"
+  ],
+  "f61f6870c2c5c8463fcf5c2e94697d71": [
+   "pa"
+  ],
+  "f664dd32a71d12c3dfd396df15add06b": [
+   "pa"
+  ],
+  "f694925ea15db0800fa9e69366911ea6": [
+   "cp",
+   "pa"
+  ],
+  "f6f783634e62f741f6ddb42ded1f76c3": [
+   "pa"
+  ],
+  "f7030ec29a86a97caf13adaf85f3d0df": [
+   "pa"
+  ],
+  "f73b8b9651df31e298c75122b050fa71": [
+   "pa"
+  ],
+  "f7a226ba6d67e7b906184019e1aa3b69": [
+   "pa"
+  ],
+  "f7c4bdd1dbf0416b66d6f8e1f1825349": [
+   "cp",
+   "pa"
+  ],
+  "f7fdfb5b11bc134fd584e102c4c1cee9": [
+   "pa"
+  ],
+  "f80a8a071dd3d4fd45468cdb86c51f00": [
+   "cp",
+   "pa"
+  ],
+  "f8797c8564ed425f9dd0324fbe60a219": [
+   "pa"
+  ],
+  "f99bd0a8a580459c7291561ddb932b6e": [
+   "pa"
+  ],
+  "f9a1201642d1e0d5664365332b6d0f4e": [
+   "pa"
+  ],
+  "faaa94b1decb28137fed06f8601fe949": [
+   "pa"
+  ],
+  "faeb96df87711376ae734122dcb6cf1e": [
+   "pa"
+  ],
+  "fafa5c5afa45054468ce9dfa6743c3be": [
+   "pa"
+  ],
+  "fb757b6ef46b13c1e5c19f5ecd5dacac": [
+   "pa"
+  ],
+  "fc2a16c447d3f8b41f373ac3c2fdc3e1": [
+   "pa"
+  ],
+  "fc4ec92e9287db75d39413904ed0f1c8": [
+   "pa"
+  ],
+  "fccef4b7ada3f936b421febd2dd095db": [
+   "pa"
+  ],
+  "fd4f7e72ce348defc2bbd7cbc67263ee": [
+   "pa"
+  ],
+  "fd928c70d0108a6ea30dfd86266eb357": [
+   "pa"
+  ],
+  "fda39e2a432b271fc7dff54d9309acea": [
+   "pa"
+  ],
+  "fdd100e696284800fc6b49a4a51c414d": [
+   "pa"
+  ],
+  "fde67237a7ca76652c2be94e6cf6a9c0": [
+   "pa"
+  ],
+  "fdebad88d54e86e9942dc6de181e5ea9": [
+   "pa"
+  ],
+  "fe1dc7db83b368b4afb695845e85a2cd": [
+   "pa"
+  ],
+  "fffe390775a0a64e5749277a650d7b40": [
+   "pa"
+  ]
+ },
+ "supporter_hashes": [
+  "02107e6ea36b2bee49974a8501ac8f98",
+  "0396b46ea6da01381beb6905f3918d1f",
+  "0414743770b9e25a2f2fff3e0fda4ced",
+  "0b78bbf7087bff21e5d5e2284fb0c5c2",
+  "0cd91fa129b010d4cf4bf16fcee18b7d",
+  "0ebff74ad3cb09a80d17244317bce06c",
+  "106310caf7f67c819e79f58a74a4ca1f",
+  "10e0181eaa9fc47e4b33af4d6ddcedcf",
+  "11462dd985669ed8e78431e1e925c4ab",
+  "13385cd7eab6f8b99b6f5e3c240dc747",
+  "19ca06af3f89d177d93c395972cfd4fc",
+  "1c3b8ad2158d2fd05dfa7831a9e7e751",
+  "1d22888efe43bf0388f786e652eceb50",
+  "202a86792bdea509537991de492b050a",
+  "21ab74f459893c8f09a5af48c3594f24",
+  "2240a374c459d8c536eda5dc1df77147",
+  "2444739b1934156ea068fbff8c446150",
+  "27a68eea52f661da2e0de87485db27c7",
+  "27e73c6ae4d2018228b3f7341e3fb874",
+  "28089d2b1aac8699146cb858f17f713e",
+  "28167a8d3a347ff70177c63fa16b1c2f",
+  "2827bd56627681252ed355c2153fc659",
+  "28b4d8b0af4d9f3e131de356c50af275",
+  "30989f9479e51ee140d9c7a3cc81543f",
+  "3245ba0c2b52470f36d34c24b9bc610d",
+  "32aa4a2f014e05ad71f98621c5473605",
+  "38cb0b3567c7ccb35265badb54f64e4e",
+  "39f8e76ec03d27e9a918e6283a030218",
+  "3d8b258d6a0dde4e222d0e423b20efa8",
+  "3f642e31d4b745622da467edb9438e1e",
+  "42e0296f5b6532dc80864bd5ee23c71d",
+  "4c8bcc8ae281cb741c799448756920af",
+  "4e9812c301b9bad32278e003ba0e6867",
+  "502483f8747e204e8d1f29ea89ff79e9",
+  "56d610583fbccb91e2b1303a65714eb1",
+  "56f5284622411c4a4fc3acf2f3bd1aac",
+  "5834aafe0ef31d077feb2ec23a6bbf65",
+  "5c2b67b44a89b7d2c5fc6c8fdd46287c",
+  "650e54dcc5d415a81bfda584ac92b3ac",
+  "6c3f50c2f6a8d9be2482693be8b6e8ae",
+  "6f3cd7210d91377612361674d76fab5b",
+  "71b3c5fb2c0560f71aa6375c41051857",
+  "72a6b8126b2c0654f5247e9923d3e48f",
+  "7398c4269ca245de64632b6f74c99788",
+  "74af8afd480899316590a20d45b4c223",
+  "7a814800b7aeb8e7598404d3012cb74d",
+  "7aa921339f400428ff32662e05a40d9c",
+  "7aacf0226b46212e21b196fd796aa053",
+  "7fb808f4eb2316ca2bf9b94e41d9903c",
+  "7feb36c5c06a65b83bfd0b1f6f32cbd6",
+  "7fee1909a8719e2a2ebaf417dfc4fb22",
+  "80fb912deb3a40cd2e7ea642a8812071",
+  "817637f6325ba24c5e4a34a02b1bf269",
+  "822ee16bf3d39b410621181ec7673689",
+  "887f7cae282e28643699aac1c7f566f3",
+  "8ae2a0186e1e4f2a3d7bbaceadd76a18",
+  "8d86bfd7cdb90848abd8959a8b3e7278",
+  "97a78c16cea35067672803ffa086d588",
+  "a05cecbff9979753a678f791a2a5ebd4",
+  "a19c159251094ec78c7420395487a354",
+  "a563d86774f00a32dc61c95b560aea44",
+  "a97f7777e4b325fe08e40f08f2367238",
+  "aa0503a56228b2fbabe2b152a8b079e7",
+  "b441353a94a984cf04a3b44091faca57",
+  "b5086cf13c5a1503e098fffabc37925b",
+  "b6b6c0ded11b57be46ff8c63b0988a8c",
+  "b92ac940bc0373ee96939b3fa0c9867e",
+  "b9df31671564f811304586445e90d1a1",
+  "bc1f66418c69822d0a7a63f5e20d5dde",
+  "bcf9ba98b9e87622a9a59b02a7b73dd6",
+  "bff439af2248e5409239d0d23e7f6365",
+  "c1a742a529e2b15aa0bb6ba51274794f",
+  "c1d65edf46c4aeb754e2872a87e2862c",
+  "c30dbd6b0a13b600d045a832a953035e",
+  "c9d37f4ce38796604f311ce3f1e6960e",
+  "ccb3a23b53c6943aebb33af86473e56a",
+  "ce7965b8df5abb548cb45e6e5cf7b5e2",
+  "cefb31cd7fdff294cd37fb4cc8522713",
+  "cf2f12c7d76dd0fe458b965b131af9ce",
+  "d11fd62b6229c8f072c329e34b6e9553",
+  "d21745f4a0a76832a091e55665e0989e",
+  "d33728cfd636cafe4ca4b1403acef98b",
+  "d5529a43072490873d173d71ac6f7991",
+  "d86c66187d5b42e331adbe7bc698b012",
+  "df19702a0931c87c19287cf9ef86c556",
+  "e04d50bb32173147ee59027baff012a5",
+  "e268cd22ce2c37783cf8e7674050c15e",
+  "e3551b4e7d6f306cfedab4ee3f7c5c0d",
+  "e600984558622aa64572276401a36723",
+  "e7a626c311c00aad821f564e68fd5214",
+  "ecd54cd111a97727501d76e4827e88ab",
+  "ee9d13fb0157457d537c92f84911a60e",
+  "f06222d257e9c37e4fd890d3b985f6ad",
+  "f0641873c02a70e9651dcfae3e8c7f1e",
+  "f56aee095e5e84aa3c8b0d97aa767c60",
+  "f8b1a4de615eda3a47d690465ac8e8ac",
+  "f9faa4f51e3d44223007adf2fc38ac7f",
+  "fb2fa147e39c2498f82daf8ef82e5213"
+ ],
+ "supporter_packages": {
+  "jmk-wifi": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-wifi-1.5.2.zip",
+   "icon": "📶",
+   "name": "Wi-Fi Driver",
+   "sha256": "46f6d6e189a4d901659d5b4f5ce1516102327c637637e1824c7063c017dba485",
+   "size": 3026230,
+   "version": "1.5.2"
+  }
+ },
+ "supporters": []
+}
