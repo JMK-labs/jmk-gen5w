@@ -46,6 +46,7 @@ body:
     id: wifi_device
     attributes:
       label: Wi-Fi 장치
+      description: 순정 모듈만 쓰면 아래 동글 칸은 비워 두세요.
       options:
         - 순정 Wi-Fi 모듈 (동글 없음)
         - USB 동글
@@ -66,6 +67,7 @@ body:
         - TP-Link Archer T3U Nano / Plus
         - NEXT-NX-AC1300
         - 기타 (아래에 직접 입력)
+      default: 0
     validations:
       required: false
   - type: input
