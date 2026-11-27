@@ -1,4 +1,4 @@
-clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM1e1fG5uE583+cqwjYxB+yUHFm2QVGqsAPQrfA4fhgq/vRxYeZIZRX7VT5/8kv6lBrf22wEID1Zm6gZqtZSdNLVtAvA5/IM8oC1K1XpHsvPm/Z+ROBFkjDDe+Ei4RXI2AI+XEiW4HHZtXypcO6DacV0Cn1UHS6rO3sxovDxcVfbhUey4vB2F5fwXtXcdG6Up0r88IQgCNzlQZZQSzJoEsCreJcG6OvPfQzwnPe4+sSiLjI349eAMSUU0vdOhPfuTSsgl0+3/wIc3Q0RzQPWqXvQYU0oFdICN/9GiZT9My0aDZqA2dQKK655nCGIwE6IcH73uiSoJLaByR6ED2snXy3LxjnXhLCqLAVpJh4n4vQiEpDUA+Y3lG00UQUZI1T3KI7CSKKYcr1aSRK8fDBGQfUprji3mQMzqOiy3vbXzB+yfW69PP
+KWnOdag3BBurSKytF3ctzB5TcpGvuNsvTgvviiQDaiMvjdvE1VZOA5CFl+FVb2KXkaaiwon8PCFR4TMha9z48TImzRJoc8ccHBgEvfcPeVaIoGILAvCZTGbhVE1+F4NazCUBkfrqlBaL6QlPYi8jdEwnf0fI9wdPR/qHn6GzAlbu2lSvgJHlujWmmrD+Hl37oA8OPHnityOYU0J77qhUtuDZEUOlL+K00Xq7CrMsSziU1uxxx1A3Tb/3wLZv8mousMp43Om3KHvWwPcEDVeB0lBUm4evLkQ7TBXGbmqvMm+87eSmg3xEJNWBJ5vciLl65B2vdOMmYt0iKNqkyCA44LTs+Uv5kESg431KkrcfjRYgi52fpqN1wA9ubjYCLlnyujdqAFA4KydkiZQPFdp82u42Qdvac06LbiL2DsfWoRQzv9jnihmGC59roeBG1f+oPZBzi3aG8empfoSJOQPcmEj61RQcpN84mLKrzBB8HoSVBF4lPsSEMlzQmjOXWCT8
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -919,17 +919,17 @@ clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM
    "version": "2.4.1"
   },
   "jmk-wifi": {
-   "built": "2026-11-26",
-   "file": "update/files/jmk-wifi-1.4.32.zip",
+   "built": "2026-11-27",
+   "file": "update/files/jmk-wifi-1.5.2.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "894ff0ad4c08b53f15a9e17b63c7f9ef0aae8c3240832d1f20b2896b7ddce989",
-   "size": 3002728,
-   "version": "1.4.32"
+   "sha256": "46f6d6e189a4d901659d5b4f5ce1516102327c637637e1824c7063c017dba485",
+   "size": 3026230,
+   "version": "1.5.2"
   }
  },
  "published": "2026-11-27",
- "seq": 2026112711,
+ "seq": 2026112712,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2883,6 +2883,7 @@ clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM
   "1c3b8ad2158d2fd05dfa7831a9e7e751",
   "1d22888efe43bf0388f786e652eceb50",
   "202a86792bdea509537991de492b050a",
+  "21135ba2fa3fdb95094dd2a1e5dad9c6",
   "21ab74f459893c8f09a5af48c3594f24",
   "2240a374c459d8c536eda5dc1df77147",
   "2444739b1934156ea068fbff8c446150",
@@ -2928,6 +2929,7 @@ clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM
   "887f7cae282e28643699aac1c7f566f3",
   "8ae2a0186e1e4f2a3d7bbaceadd76a18",
   "8d86bfd7cdb90848abd8959a8b3e7278",
+  "94125a8131cf12714efc850796cc6559",
   "97a78c16cea35067672803ffa086d588",
   "a05cecbff9979753a678f791a2a5ebd4",
   "a19c159251094ec78c7420395487a354",
@@ -3006,15 +3008,6 @@ clNzcAIEysP6+V/3yR9Ev/rMSPpmm62qXyeYYTTAmsFD6dqUMwF1MKyd0YlEhfReQo9OEMBZ9cGuJ1ZM
    "sha256": "84c738b026cb55c8db64d34a27f79c9b562e8adc074a0cbe25406414f6db9502",
    "size": 427502,
    "version": "2.4.2"
-  },
-  "jmk-wifi": {
-   "built": "2026-11-27",
-   "file": "update/files/jmk-wifi-1.5.2.zip",
-   "icon": "📶",
-   "name": "Wi-Fi Driver",
-   "sha256": "46f6d6e189a4d901659d5b4f5ce1516102327c637637e1824c7063c017dba485",
-   "size": 3026230,
-   "version": "1.5.2"
   }
  },
  "supporters": []

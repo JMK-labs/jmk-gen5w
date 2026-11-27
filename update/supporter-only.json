@@ -1,7 +1,6 @@
 {
  "_note": "Versions offered only to some cars: {\"<package>\": {\"version\": \"x.y.z\", \"codes\": [\"ABCDEFGH\"]}}. Test builds are not put here (the zips would be public): they go on over adb.",
  "packages": {
-  "jmk-wifi": "1.5.2",
   "jmk-map-menu": "2.4.2",
   "jmk-ambient-sound": "2.6.2",
   "jmk-autoplay-hud": "0.2.3",
