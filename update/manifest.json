@@ -906,43 +906,43 @@
   },
   "jmk-autoplay": {
    "built": "2026-11-27",
-   "file": "update/files/jmk-autoplay-0.4.2.zip",
+   "file": "update/files/jmk-autoplay-0.4.3.zip",
    "icon": "🚗",
    "name": "Wireless AutoPlay",
-   "sha256": "e9d20e850b731e6451ba87835c2ab88c6252719fab4da900cf21dc01724651d5",
-   "size": 81963,
-   "version": "0.4.2"
+   "sha256": "f583393ace94437097f15f60cf2d9ad4096f4cd649d5d51c1cb998af4ad3ceff",
+   "size": 85641,
+   "version": "0.4.3"
   },
   "jmk-autoplay-hud": {
-   "built": "2026-11-27",
-   "file": "update/files/jmk-autoplay-hud-0.2.3.zip",
+   "built": "2026-11-17",
+   "file": "update/files/jmk-autoplay-hud-0.2.5.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "7903cbe65a1de86dd37576cfbaf4e216d3ff671e21f106ffa11faa23809fc916",
-   "size": 12949569,
-   "version": "0.2.3"
+   "sha256": "1a392f7c1d5b1137a10c93b7a851b25f6eec8e9c5ac0caac692da61e3057e5c2",
+   "size": 13133447,
+   "version": "0.2.5"
   },
   "jmk-map-menu": {
    "built": "2026-11-27",
-   "file": "update/files/jmk-map-menu-2.4.3.zip",
+   "file": "update/files/jmk-map-menu-2.4.4.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "4c32ada590a0051f471e544f10a7bb2c704f712698ec19f603f896615c8a9fa8",
-   "size": 427664,
-   "version": "2.4.3"
+   "sha256": "86b06a0d7f50bf1adc742a54ee4b531f35d331ced47de47228d3a8bb8d6db75f",
+   "size": 432453,
+   "version": "2.4.4"
   },
   "jmk-wifi": {
    "built": "2026-11-27",
-   "file": "update/files/jmk-wifi-1.5.4.zip",
+   "file": "update/files/jmk-wifi-1.5.5.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "913f0dad9c65235eda4cd354d0e330e41f575ca51b768380fcae1989cb6e5d14",
-   "size": 3033121,
-   "version": "1.5.4"
+   "sha256": "ba82d9489b6b40dbfbcdba3486b56caca9c61430977c44ff2dd5bc46612770fc",
+   "size": 3035370,
+   "version": "1.5.5"
   }
  },
  "published": "2026-11-27",
- "seq": 2026112718,
+ "seq": 2026112719,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
