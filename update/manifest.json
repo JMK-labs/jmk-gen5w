@@ -923,7 +923,7 @@
   }
  },
  "published": "2026-11-27",
- "seq": 2026112707,
+ "seq": 2026112708,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2963,6 +2963,15 @@
   "fb2fa147e39c2498f82daf8ef82e5213"
  ],
  "supporter_packages": {
+  "jmk-autoplay-hud": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-autoplay-hud-0.2.2.zip",
+   "icon": "🧭",
+   "name": "HUD · 계기판 길안내",
+   "sha256": "1e635cde49dc78fe310b95783123afae5de8331200b2af54f3ca836202ba08ed",
+   "size": 12948384,
+   "version": "0.2.2"
+  },
   "jmk-wifi": {
    "built": "2026-11-27",
    "file": "update/files/jmk-wifi-1.5.2.zip",
