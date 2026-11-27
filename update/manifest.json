@@ -928,7 +928,7 @@
   }
  },
  "published": "2026-11-27",
- "seq": 2026112712,
+ "seq": 2026112713,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2924,6 +2924,7 @@
   "7fee1909a8719e2a2ebaf417dfc4fb22",
   "80fb912deb3a40cd2e7ea642a8812071",
   "817637f6325ba24c5e4a34a02b1bf269",
+  "820c69a0793b398ac9178c76e8ec72fd",
   "822ee16bf3d39b410621181ec7673689",
   "887f7cae282e28643699aac1c7f566f3",
   "8ae2a0186e1e4f2a3d7bbaceadd76a18",
@@ -3007,6 +3008,15 @@
    "sha256": "84c738b026cb55c8db64d34a27f79c9b562e8adc074a0cbe25406414f6db9502",
    "size": 427502,
    "version": "2.4.2"
+  },
+  "jmk-wifi": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-wifi-1.5.3.zip",
+   "icon": "📶",
+   "name": "Wi-Fi Driver",
+   "sha256": "9be64237376adaef108869384517413c5661b7678d4c52fc4c94c6d535ca6bfb",
+   "size": 3030598,
+   "version": "1.5.3"
   }
  },
  "supporters": []

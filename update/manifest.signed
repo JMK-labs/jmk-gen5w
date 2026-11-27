@@ -1,4 +1,4 @@
-KWnOdag3BBurSKytF3ctzB5TcpGvuNsvTgvviiQDaiMvjdvE1VZOA5CFl+FVb2KXkaaiwon8PCFR4TMha9z48TImzRJoc8ccHBgEvfcPeVaIoGILAvCZTGbhVE1+F4NazCUBkfrqlBaL6QlPYi8jdEwnf0fI9wdPR/qHn6GzAlbu2lSvgJHlujWmmrD+Hl37oA8OPHnityOYU0J77qhUtuDZEUOlL+K00Xq7CrMsSziU1uxxx1A3Tb/3wLZv8mousMp43Om3KHvWwPcEDVeB0lBUm4evLkQ7TBXGbmqvMm+87eSmg3xEJNWBJ5vciLl65B2vdOMmYt0iKNqkyCA44LTs+Uv5kESg431KkrcfjRYgi52fpqN1wA9ubjYCLlnyujdqAFA4KydkiZQPFdp82u42Qdvac06LbiL2DsfWoRQzv9jnihmGC59roeBG1f+oPZBzi3aG8empfoSJOQPcmEj61RQcpN84mLKrzBB8HoSVBF4lPsSEMlzQmjOXWCT8
+wZtx8vJSYdTy9u6p6vt/dJbetfUUHPX1ol+7foLnrHrIN2lSM80lOSim4OF2E/mFSLfB0JXkpcCq2AcCIyONdgaT15BXERjpHlp39JN4//zX1oI08/9RgPdv8xxxl9dgu1vVusqK3iOP06fASS3r+YA0fkJuUvoptzSPpDvQ64ONsi9b2hztvo3yyv7bRZRk6RogVkZdxwM0tr37p/kzcArLrGUo3VODME6ZYFCSFY9MupqcNRlnU/pNufqFLdO2xMSmXO1Tls+Tc4eDBMYboULGUZrefwmvdkW94aOwhBkb7e9z18oOhG9raVcy+1y7CGYlHVJjpzvNXJNNCSItKYKBqkyj8EM9rs044w7rnR6moJacB65rnVUuh5rIXii8jjklZHuKegyVurpyYNXDtooBySBGEpuEnW1u1LSNnRJdRFvdmp8d4AZkUiZPIzkdtanxclyTKc4jCyiK+qMWfvdeDkKRIgHY4MoQnMVKBo7r++uHUQaWHgiY9DlBbxBX
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -929,7 +929,7 @@ KWnOdag3BBurSKytF3ctzB5TcpGvuNsvTgvviiQDaiMvjdvE1VZOA5CFl+FVb2KXkaaiwon8PCFR4TMh
   }
  },
  "published": "2026-11-27",
- "seq": 2026112712,
+ "seq": 2026112713,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2925,6 +2925,7 @@ KWnOdag3BBurSKytF3ctzB5TcpGvuNsvTgvviiQDaiMvjdvE1VZOA5CFl+FVb2KXkaaiwon8PCFR4TMh
   "7fee1909a8719e2a2ebaf417dfc4fb22",
   "80fb912deb3a40cd2e7ea642a8812071",
   "817637f6325ba24c5e4a34a02b1bf269",
+  "820c69a0793b398ac9178c76e8ec72fd",
   "822ee16bf3d39b410621181ec7673689",
   "887f7cae282e28643699aac1c7f566f3",
   "8ae2a0186e1e4f2a3d7bbaceadd76a18",
@@ -3008,6 +3009,15 @@ KWnOdag3BBurSKytF3ctzB5TcpGvuNsvTgvviiQDaiMvjdvE1VZOA5CFl+FVb2KXkaaiwon8PCFR4TMh
    "sha256": "84c738b026cb55c8db64d34a27f79c9b562e8adc074a0cbe25406414f6db9502",
    "size": 427502,
    "version": "2.4.2"
+  },
+  "jmk-wifi": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-wifi-1.5.3.zip",
+   "icon": "📶",
+   "name": "Wi-Fi Driver",
+   "sha256": "9be64237376adaef108869384517413c5661b7678d4c52fc4c94c6d535ca6bfb",
+   "size": 3030598,
+   "version": "1.5.3"
   }
  },
  "supporters": []
