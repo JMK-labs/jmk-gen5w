@@ -1,4 +1,4 @@
-Pkoq+G+EHgXKkkMCuVowhQWYc9maznJUcL4839y0LPelTeEV27C7p+lwHZmxDzIDqT9WSlnTSNAqFxzpuu3M7q3TQjvk7EMXtyLzIwg2eZ+YGrcm/FBL0xrJmuvpQzi0JkT5xenX6AoAaDpkmRMoWqrDTNJChVLjEb5tq+/WsXXVIZbvC5LrW8fmLDpeF2E+Js5PPNW8sI/SzOf3j05IoMULFLgrQ/G6FQPOEx2NOrIE9/HExX8osksuRy+QIjT3N4ExDfoQbDoJU34W/anUJV7wz+V/J8qENRQYi3/evs5xx50HsHFcghpwmhWHZTlK+2d9A4XqJK0mk62ZMTj3AU/GbCX2t526ABrsp6Yr5JRh4b8NEIJ+Nxltb1OpglskBne8Sc6tZNEkJYx4mQoMCSNenYTGOm0tY3k2vtFaeWZRODZKcPdigP0wUk3cb814Q6C9PFxgJsFh6MX5XA4mWcUmtEG1+De41KH2wKi2aLYp++/CA8HG2SODJrBAiT1i
+SiXRdy9lI03pOhfdPCPgWW775CjQcd/fsGKF4rO4MvDjbLvCeP38rHMGls1a6r46FLfjfOPXz94xzFfwzQXhwMdi+62k4jnzrswYGQHFWfPICfWnw85lawTu8w4OJzoj/BuV+SbuRriF41ROxCKqJKh7OzhvzkomVyH5SqiWsvDvdK1MRgNM3JI1gzJCzoCigDiJvAIBMpsaZM8cLbcVLdTvs+YF7JAv2Dv2ETkIsMnAlRyN5VfwbwmUlU7B8K/A/318LXP5OjA20e7WfFgYRztl+dizhkyH56Tp1PweQuI2uSbuonondFAE7J1gCXtY9nHmre0hSkgG+vhwf9+px+UFyIzeUnuJG4nir9nLIOx5humgQKUz98sFFzn9UNGrDgmTliB/Ln7GH6IgbehTn7U3jGtiphsujt5ckBeW3M9ijoYAoM+nZ0jWqQ558OA9sJ6iDY1P68adD8OD3ciOriNDry03qgGNYbah8Gt//oecF+fNji8PQOCL9hC5/pAj
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -929,7 +929,7 @@ Pkoq+G+EHgXKkkMCuVowhQWYc9maznJUcL4839y0LPelTeEV27C7p+lwHZmxDzIDqT9WSlnTSNAqFxzp
   }
  },
  "published": "2026-11-27",
- "seq": 2026112709,
+ "seq": 2026112710,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2898,7 +2898,9 @@ Pkoq+G+EHgXKkkMCuVowhQWYc9maznJUcL4839y0LPelTeEV27C7p+lwHZmxDzIDqT9WSlnTSNAqFxzp
   "38cb0b3567c7ccb35265badb54f64e4e",
   "39f8e76ec03d27e9a918e6283a030218",
   "3d8b258d6a0dde4e222d0e423b20efa8",
+  "3e5c8a8ed67adb1ce260d5c6aa2edbc0",
   "3f642e31d4b745622da467edb9438e1e",
+  "4204e54820d7530c5f5291c6590d31a5",
   "42e0296f5b6532dc80864bd5ee23c71d",
   "4c8bcc8ae281cb741c799448756920af",
   "4e9812c301b9bad32278e003ba0e6867",
@@ -2969,14 +2971,32 @@ Pkoq+G+EHgXKkkMCuVowhQWYc9maznJUcL4839y0LPelTeEV27C7p+lwHZmxDzIDqT9WSlnTSNAqFxzp
   "fb2fa147e39c2498f82daf8ef82e5213"
  ],
  "supporter_packages": {
+  "jmk-ambient-sound": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-ambient-sound-2.6.2.zip",
+   "icon": "🎵",
+   "name": "Active Ambient",
+   "sha256": "72734386a3326a22309fcdaade34ee10c48c190cf1283d5bcdb3edaeda401328",
+   "size": 175968,
+   "version": "2.6.2"
+  },
   "jmk-autoplay-hud": {
    "built": "2026-11-27",
-   "file": "update/files/jmk-autoplay-hud-0.2.2.zip",
+   "file": "update/files/jmk-autoplay-hud-0.2.3.zip",
    "icon": "🧭",
    "name": "HUD · 계기판 길안내",
-   "sha256": "1e635cde49dc78fe310b95783123afae5de8331200b2af54f3ca836202ba08ed",
-   "size": 12948384,
-   "version": "0.2.2"
+   "sha256": "7903cbe65a1de86dd37576cfbaf4e216d3ff671e21f106ffa11faa23809fc916",
+   "size": 12949569,
+   "version": "0.2.3"
+  },
+  "jmk-map-menu": {
+   "built": "2026-11-27",
+   "file": "update/files/jmk-map-menu-2.4.2.zip",
+   "icon": "🚙",
+   "name": "JMK 런처 메뉴",
+   "sha256": "84c738b026cb55c8db64d34a27f79c9b562e8adc074a0cbe25406414f6db9502",
+   "size": 427502,
+   "version": "2.4.2"
   },
   "jmk-wifi": {
    "built": "2026-11-27",
