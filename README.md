@@ -4,11 +4,11 @@
 
 | 패키지 | 버전 | 하는 일 |
 |---|---|---|
-| **jmk-map-menu** | 2.4.1 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
-| **jmk-ambient-sound** | 2.6.1 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
+| **jmk-map-menu** | 2.4.3 | MAP 버튼 1.5초 → JMK 런처 메뉴: Wi-Fi, Active Ambient, 차박 모드, 커스텀 워머창, 실험실, NEMESIS, USB 모드, 재부팅 |
+| **jmk-ambient-sound** | 2.6.2 | 음악·통화에 맞춰 실내 앰비언트 라이트를 움직입니다(인공지능 DJ / 무드 / 비트 / 단색 / 커스텀). 블루투스·USB·안드로이드 오토·애플 카플레이 |
 | **jmk-wifi** | 1.5.2 | USB Wi-Fi 동글을 **순정 Wi-Fi 모듈처럼** 동작시킵니다. 순정 핫스팟으로 무선 안드로이드 오토·카플레이, 동시에 폰 핫스팟 접속 |
-| **jmk-autoplay** | 0.4.1 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
-| **jmk-autoplay-hud** | 0.2.1 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
+| **jmk-autoplay** | 0.4.2 | **Wireless AutoPlay**: 무선 카플레이 · 안드로이드 오토 |
+| **jmk-autoplay-hud** | 0.2.3 | **HUD · 계기판 길안내** (Wireless AutoPlay의 확장, 공개 소스 AGPL-3.0): 폰 지도 길안내를 계기판·HUD에. 소스: [jmk-autoplay-hud](https://gen5w.jmkim.dev/download/jmk-autoplay-hud/) |
 
 **설치 파일(USB 메모리용, 항상 최신판): [JMK-Gen5W-USB.zip 받기](https://gen5w.jmkim.dev/download/JMK-Gen5W-USB.zip)**
 
@@ -69,7 +69,7 @@ MAP 버튼을 1.5초 누르면 화면 위에 메뉴가 뜹니다. 다시 1.5초 
 - 아이폰은 무선 카플레이를 쓰는 동안 자기 핫스팟을 함께 켤 수 없습니다. 폰 핫스팟은 다른 폰의 것을 쓰세요.
 - 처음 설정: 설치하고 재부팅한 뒤 런처 메뉴 → Wi-Fi Driver → 주변 찾기에서 폰 핫스팟을 고르고 비밀번호를 넣습니다.
 - AX900급 동글(RTL8851BU, 시험 지원): 동글을 꽂은 채로 헤드유닛을 켜면 자동으로 잡습니다(처음에 CD로 보이는 동글도 자동 전환). 켠 뒤에 꽂았으면 재부팅하세요. 이 드라이버를 올린 뒤 3분 안에 헤드유닛이 다시 시작되는 일이 두 번 이어지면 자동으로 꺼집니다.
-- 순정 Wi-Fi 모듈이 있는 차는 설치할 때 자동으로 알아보고 폰 핫스팟 접속 전용으로 설치됩니다(1.4.5부터, 순정 Wi-Fi를 미리 켤 필요 없음). Wi-Fi Driver 화면에서 기본(동글) 또는 호환성 모드(순정 Wi-Fi)를 고릅니다. 1.4.4 이하를 순정 Wi-Fi가 꺼진 채 설치했다면 Wi-Fi Driver를 제거하고 재부팅한 뒤 다시 설치하세요.
+- 순정 Wi-Fi 모듈이 있는 차에서도 동글을 꽂으면 동글이 차 핫스팟이 되어 무선 카플레이와 안드로이드 오토에 쓰입니다. 동글을 뽑으면 순정 모듈이 예전처럼 차 핫스팟을 맡습니다.
 - 런처 메뉴가 먼저 설치되어 있어야 합니다. 다른 USB Wi-Fi 패키지가 있으면 먼저 제거하세요.
 - 제거하면 바꾼 시스템 파일을 원래대로 되돌립니다(재부팅하면 끝납니다).
 
