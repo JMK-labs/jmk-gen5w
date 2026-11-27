@@ -1,4 +1,4 @@
-eVUCPBcdb7yOI0gfNtVgclJnpkgpF7REoE7pFu8EdJSJ92JPZl76o/UT6XbdhuTNBV85aOm9l2l6ppG1YDa5D98I1TjsFUx1Y0MpmEdhxY3Iy7k+2YoUrG/jbWO1UtTk2+2iFiRidNN6hVygk7qgQrcRRKBbYyxNLw8ExdUPEcPXyF/pyEvYoUIkfqT0DzmkluEI1Lh1qy/VB8DpzYvXmQ2GxuQM6UpK/LP031JORtFVWHJG8uJOk4sc9VZPPXzOctVDb+n4xpVTBT5NAuquUvojrlWyrexBiZAutE3mhHbdZISkH5PKTRDkYYkxpWTUUlG9pZRSKLGg7HChdQOZVgBLuihIWmWlO6pi/mtS0OFOb/8QNtWrNFtgvzDj1poc68Fbaladsw/iHxICacJe1h+2aVdapRl6PE5Y84+D++vyPpPvd8XHkpcpwxjNlrpEjCXtYjn+fg+7XtR+PxfPi8g3BN66ZwdsXomuoJ3JVygdc2gn+5v+RPviGVImvW6E
+s2YeelNd+svCC4WO7RRTF7jUmxrZ/pdBW9vx0F77s+u+MLRkWu5n7uXJkOLUIv4bGgPvusFcBJMWEKgbu9phFTgoR/ZUBpzsiDHzUW1gnObU+aBab+SrYo39gTSyuRjfhZkAACx7p6Co3lYHIthwp+woHZjVESCqlKGe7wXpbvvL3tAHgidOYDAuBWhQlJZRKEOVdIJQ5HguRdH98mDFAliyrzytFThU4DuyNKL5EabZL3zguvEU6mP17jpn4SCEZI6l/YmE9EO/419sVpDRb2fLyRjVzuXFtc0i+F0NMjbFYxoFPopstP7aE2LG0898NmR4yIg9XU0lBuyW/TtVp3nSTXUSL/2gul0L6jAmpF6fP6Bb48eiHi0pKbHSD1/vLzByEtrVeeUh+dLjgm6Yt2Xyg5ViqX4r4KlMd4ljh57bRnxcd6PuXttPXrKDa2KLAOdeOSYMlrTi4qqnmsS5G/z9QGZz8Wv4wjUNf4fhsp/hPTOw3qnmdVKyRAUTB3xT
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -924,16 +924,16 @@ eVUCPBcdb7yOI0gfNtVgclJnpkgpF7REoE7pFu8EdJSJ92JPZl76o/UT6XbdhuTNBV85aOm9l2l6ppG1
   },
   "jmk-wifi": {
    "built": "2026-11-27",
-   "file": "update/files/jmk-wifi-1.5.2.zip",
+   "file": "update/files/jmk-wifi-1.5.4.zip",
    "icon": "📶",
    "name": "Wi-Fi Driver",
-   "sha256": "46f6d6e189a4d901659d5b4f5ce1516102327c637637e1824c7063c017dba485",
-   "size": 3026230,
-   "version": "1.5.2"
+   "sha256": "913f0dad9c65235eda4cd354d0e330e41f575ca51b768380fcae1989cb6e5d14",
+   "size": 3033121,
+   "version": "1.5.4"
   }
  },
  "published": "2026-11-27",
- "seq": 2026112715,
+ "seq": 2026112716,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2977,16 +2977,5 @@ eVUCPBcdb7yOI0gfNtVgclJnpkgpF7REoE7pFu8EdJSJ92JPZl76o/UT6XbdhuTNBV85aOm9l2l6ppG1
   "f9faa4f51e3d44223007adf2fc38ac7f",
   "fb2fa147e39c2498f82daf8ef82e5213"
  ],
- "supporter_packages": {
-  "jmk-wifi": {
-   "built": "2026-11-27",
-   "file": "update/files/jmk-wifi-1.5.3.zip",
-   "icon": "📶",
-   "name": "Wi-Fi Driver",
-   "sha256": "9be64237376adaef108869384517413c5661b7678d4c52fc4c94c6d535ca6bfb",
-   "size": 3030598,
-   "version": "1.5.3"
-  }
- },
  "supporters": []
 }
