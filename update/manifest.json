@@ -790,6 +790,11 @@
    "camp",
    "consent"
   ],
+  "TMHEV.KOR.0000.V037.001.260319": [
+   "ambient",
+   "camp",
+   "consent"
+  ],
   "TMHEV.KOR.0000.V039.001.260902": [
    "ambient",
    "camp",
@@ -947,7 +952,7 @@
   }
  },
  "published": "2026-11-28",
- "seq": 2026112801,
+ "seq": 2026112802,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
