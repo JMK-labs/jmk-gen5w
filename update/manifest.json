@@ -918,68 +918,6 @@
   }
  },
  "integrity_lock": true,
- "lp_staged_packages": {
-  "jmk-ambient-sound": {
-   "built": "2026-11-28",
-   "file": "update/files/jmk-ambient-sound-2.7.1.zip",
-   "groups": [
-    "NEEV.KOR.0000.V039.*"
-   ],
-   "icon": "🎵",
-   "livepatch": true,
-   "min_nemesis": "1.17",
-   "name": "Active Ambient",
-   "pct": 30,
-   "sha256": "3466d340eb6e49fe56d144361abf5fff9b190c6dafd204156f4a5c5d0d945997",
-   "size": 172181,
-   "version": "2.7.1"
-  },
-  "jmk-autoplay": {
-   "built": "2026-11-28",
-   "file": "update/files/jmk-autoplay-0.5.1.zip",
-   "groups": [
-    "NEEV.KOR.0000.V039.*"
-   ],
-   "icon": "🚗",
-   "livepatch": true,
-   "min_nemesis": "1.17",
-   "name": "Wireless AutoPlay",
-   "pct": 30,
-   "sha256": "f59319a2193c6196949aeae5252e039e9c4f87cafc120b678521ecae62406593",
-   "size": 95033,
-   "version": "0.5.1"
-  },
-  "jmk-autoplay-hud": {
-   "built": "2026-11-28",
-   "file": "update/files/jmk-autoplay-hud-0.3.1.zip",
-   "groups": [
-    "NEEV.KOR.0000.V039.*"
-   ],
-   "icon": "🧭",
-   "livepatch": true,
-   "min_nemesis": "1.17",
-   "name": "HUD · 계기판 길안내",
-   "pct": 30,
-   "sha256": "e24f3a8d547c5d408566f1049a5d071b11dc17f13c0f53b381c395040ec8c39f",
-   "size": 7986860,
-   "version": "0.3.1"
-  },
-  "jmk-wifi": {
-   "built": "2026-11-28",
-   "file": "update/files/jmk-wifi-1.6.1.zip",
-   "groups": [
-    "NEEV.KOR.0000.V039.*"
-   ],
-   "icon": "📶",
-   "livepatch": true,
-   "min_nemesis": "1.17",
-   "name": "Wi-Fi Driver",
-   "pct": 30,
-   "sha256": "56a89fb7cf6e72ca41c55e8b3105559b35901f4ccfadb9b858689d5c0367dd5d",
-   "size": 3047468,
-   "version": "1.6.1"
-  }
- },
  "packages": {
   "jmk-ambient-sound": {
    "built": "2026-11-28",
@@ -1028,7 +966,7 @@
   }
  },
  "published": "2026-11-28",
- "seq": 2026112809,
+ "seq": 2026112810,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
