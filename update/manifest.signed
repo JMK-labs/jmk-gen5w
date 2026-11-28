@@ -1,4 +1,4 @@
-bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSLXWzCplP1DMbdq3cS84lpI9lvWqThdQF+zy6kLgZOv74WUXbt4AY0kNN7+y9RNytH6hUViRZdArclVG6pnLB9S8RUzaYHazAAMU71e+lI/i0Z4teKIuKZT6sNM44wWNmaNNC+GmvR/gOaKPNJkwHoNGoeaXyaTBiCNZFcaFNny7UMzNNpg2AKZppkwYymh/SRERlE4hAZMqfQDnF45+Ab8yI9VHENMMGOzvN+P5seqbZ0+Z8BTlA2ZHzXTorxGnrk8MwtwPEwA859qVHiBY6VSuv0aka6cGFDjZaohiiowqDQVhkNNSGiutXmgMN9K+Dc3PTkiwvEDG86KxdEVIYl9LSRwZ78tiloRnLxabZVEhDaIewQywtoUK7kVTvkwwh7D+jhazAoJoo0Hf8pLdkO9lPaQHVu3G0BkPrysockWMetaHby
+LBwgVgyna4IlMIoCv7SDNOB3+YW9a78ExBme5K0m3T/uDGONJ7kSCam0MYTD5nrhD7OHsJHGs8i/1Kz2tLzUv8fjTix9e+sPq31BgciRPsNMHC4R3MGWAs/NO0jzBq7D9chEVTjjy3r3sjssV5MASrHg6KSAELXQYqEUEnaHYh8yZg/YXuoOL+XfbAdY5Y5qy2TSdkZWaGmyO5a5kSYh0yArVuqI2zxI2iL0ygOlujBbNbBN5idw4DeSC/TOcfhrbzGwg1bsBX+yv6l7owMg3iUVLvRfnWH5iwJElWnzxTg3EUIPpTGXJ1Ith4ejKFSxFvPQGZgQbmktq9T0j2JatoIWstJ5ab0hySOGRlgTwff8LOO4bn7tvJOLvjZQNoUGdnjZ9R7xM0+sDmw6Rr/G5O2w6gNl4CrZbdhckIU7cBKPP4I2GzBzDyk+gS2GnVmLqVa8BakpJ2wQKrQzqGpzmtIWgj1BVOnbPTfb098uePk3jmAUrz+5Pvmvz2GKTM3R
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -939,7 +939,7 @@ bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSL
    ],
    "icon": "🎵",
    "livepatch": true,
-   "min_nemesis": "1.17",
+   "min_nemesis": "1.17.1",
    "name": "Active Ambient",
    "pct": 30,
    "sha256": "3466d340eb6e49fe56d144361abf5fff9b190c6dafd204156f4a5c5d0d945997",
@@ -966,7 +966,7 @@ bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSL
    ],
    "icon": "🚗",
    "livepatch": true,
-   "min_nemesis": "1.17",
+   "min_nemesis": "1.17.1",
    "name": "Wireless AutoPlay",
    "pct": 30,
    "sha256": "f59319a2193c6196949aeae5252e039e9c4f87cafc120b678521ecae62406593",
@@ -984,7 +984,7 @@ bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSL
    ],
    "icon": "🧭",
    "livepatch": true,
-   "min_nemesis": "1.17",
+   "min_nemesis": "1.17.1",
    "name": "HUD · 계기판 길안내",
    "pct": 30,
    "sha256": "a498169dbf823fbdcf22e7a4f642dbb11293f44c7e9d7d6290a5ab0a0a3df288",
@@ -1010,7 +1010,7 @@ bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSL
    ],
    "icon": "📶",
    "livepatch": true,
-   "min_nemesis": "1.17",
+   "min_nemesis": "1.17.1",
    "name": "Wi-Fi Driver",
    "pct": 30,
    "sha256": "56a89fb7cf6e72ca41c55e8b3105559b35901f4ccfadb9b858689d5c0367dd5d",
@@ -1066,7 +1066,7 @@ bG9PWzUz7vTbmRERkylZ3pJZQX1L/KXKn37QejEvSGfbk3y5T5feZfgoC+PgIUrh1yk39FJ3zchEepSL
   }
  },
  "published": "2026-11-28",
- "seq": 2026112811,
+ "seq": 2026112812,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
