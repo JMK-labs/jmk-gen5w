@@ -1,4 +1,4 @@
-O0qZDbO+VUUuRuTfrtB+h7uE/UirTQ4YsE3IfPKQS7vHSlJNAOO7BGmQTwahFP2vqYpsf5zueg1ozL012zUDNF/G9uU/YPQvbpkI741FPIi1n6KmzMkY1HWIa0LCR4uN1IItiSSXJ+J3cZlHyI95ZXgzYEjp560zDBZbCasIjROG+BscXUlHLeRei9pv4MEt/e2PXFb4ddDWD3JQbUeUmoJwzS963FeFBUbFKmOD1dE1bOI3SffZHQ1ho1qmCc2TIzq3tiFCWNURZmPl+7ffKMhd58de+ua0YtpzCoGq/AG1xFhffaC2ZisuDB+3OURl5glN/CMyNBJg1kClvSC0DsOcpCpOgEyYUoPM1qDf8GkU8nSaKr+Q4fNa0QhZ2uXdxfNLFndNSpwCaM7NSp8ZvlYFGQtW3uG28vXXNoldmxMRTaBHVqJtrvkeAlVcp9Qr5L6DhEFIAPTN5WE3nAz7RoGqWndGbkoM6jSJzHEqmEMOfYpBnDwpDeFawAVw648X
+vs9DhZKE9fYF7e35TwPQhv2Cw5/Fcx6MpFVm9jhxXEo+fQlVq2SqWFan2Z6IDuFLfuXMX1VOXjxUouJ9VFHePXDbipTnyOS31WpzurdqUJ1TyfMharxeNX1nVSXPJiGi+o/44Wz4Pq0QPf9V2C7k8cDCKNg5u8PUjrqX/ZfaNe7SmbcXNG5GaNp9qhKKS0rGYFDfSS+F4Wz1JH7HZzVAs00QxdcrPnhd2qZWcOLM/voLME8Gg49djqHbdb1i3GAO1IJ9p6loZCfthiwXJlJ4ced6iRPRwF0UPWCBrvR/a0TgKt9trS3VNHcmlmPcVBCtNcxuSqVY7TmkZJ6hiCi96wtO1GC287XuCiumvgA0U7yOPZvYuNhue+1XqCFT0SX4sQCW4/fGJUYaO8xqxAvzBVDEbNLjc0/lPsxvK8lcw9BfDBs3Okr9yQ+cETldk0g7x2u+havxbNvK/wgMjHMUBqHs3cfBWryaTY1EwSGtLv4pm3ZWLahYsSHJPZIjOYV9
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -949,12 +949,12 @@ O0qZDbO+VUUuRuTfrtB+h7uE/UirTQ4YsE3IfPKQS7vHSlJNAOO7BGmQTwahFP2vqYpsf5zueg1ozL01
   },
   "jmk-map-menu": {
    "built": "2026-11-28",
-   "file": "update/files/jmk-map-menu-2.4.5.zip",
+   "file": "update/files/jmk-map-menu-2.4.6.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "49e2eb00cf833b8cc9e0586e4d22fb41d1a5ee1810484fdac8c19e5e72a953fa",
-   "size": 431769,
-   "version": "2.4.5"
+   "sha256": "ca10b24b51f147e96f9bb989e00fdf4c937d905b374e494970e6e0de9db74110",
+   "size": 471280,
+   "version": "2.4.6"
   },
   "jmk-wifi": {
    "built": "2026-11-28",
@@ -967,7 +967,7 @@ O0qZDbO+VUUuRuTfrtB+h7uE/UirTQ4YsE3IfPKQS7vHSlJNAOO7BGmQTwahFP2vqYpsf5zueg1ozL01
   }
  },
  "published": "2026-11-28",
- "seq": 2026112806,
+ "seq": 2026112807,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -2910,6 +2910,7 @@ O0qZDbO+VUUuRuTfrtB+h7uE/UirTQ4YsE3IfPKQS7vHSlJNAOO7BGmQTwahFP2vqYpsf5zueg1ozL01
   "02107e6ea36b2bee49974a8501ac8f98",
   "0396b46ea6da01381beb6905f3918d1f",
   "0414743770b9e25a2f2fff3e0fda4ced",
+  "0ac3ab34527ba6c1232005f525253ffa",
   "0b78bbf7087bff21e5d5e2284fb0c5c2",
   "0cd91fa129b010d4cf4bf16fcee18b7d",
   "0ebff74ad3cb09a80d17244317bce06c",
