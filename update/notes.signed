@@ -1,0 +1,44 @@
+trvrxA1xMY7aXv8YFz9zKC+Rl5et9eC7W84JxcklwEwyNWC8B6ZaJwNNz2rrxWXd8OSrNq3QXpsc/EewdeCbsKcltelF3sMF/HZ0vv80ngHE8ig5ok6rPmWneUpWKk2ldb9x1NMpkM2+Uzzn2bZHWnKQEsNjCJ/PGQsu4+9fTuprtycPgsq2vshuaDQe4YpWcEazRwkO+xBI+wULxxe2xPU8NdUUTO/fe5ZLD6eDqflo6i1qQdQmSUZiiUxCyzYEm7UZHOyjAu7LUekjSuSmZlI1UJPgbKH70JbUYQpp/6BNgORZp1S52nXuamWhscWvjog4JvF2LZn0+P4nglsn+C1dbHCEp55SL8qMjO9qdx478p2tp20lUl8k1dZGJYmlfQkWuaEFH7pVLtdPA4qL27KFvApnbIp8Ul4KxuM/cs8iRyKxhO1p7yoVQv2RFaGawNpGqzdovrQcwP+uO2Y3PTbwAqhJClV9yH3AM2DclI6IONMwlV4gkYclNsdWs0DU
+{
+ "built": "2026-11-28T14:16:14Z",
+ "releases": [
+  {
+   "packages": {
+    "jmk-map-menu": {
+     "md": "- 설정 → 업데이트에 **릴리스 노트** 버튼이 생겼습니다. 지난 릴리스의 바뀐 점을 언제든 넘겨 볼 수 있습니다.\n- 새 버전을 받은 뒤 처음 메뉴를 열면, 바뀐 점을 한 번 알려 줍니다. (주차 중에만 나옵니다.)\n- 개발자의 공지를 메뉴에서 볼 수 있습니다. 새 공지가 있으면 처음 열 때 한 번 알려 주고, 표와 굵은 글씨도 보입니다.\n- 공지를 보았는지(공지 번호)를 업데이트 확인에 함께 보냅니다.\n- 업데이트 화면의 윗줄이 좁은 화면에서도 버튼을 밀어내지 않고 한 줄로 보입니다.\n- 새 설치 방식(LivePatch)은 NEMESIS 1.17.1 이상에서만 받을 수 있습니다. 1.17.0이면 NEMESIS 1.17.1 업데이트가 필요하다고 안내합니다.\n- 차의 준비 상태 보고가 길어도 잘리지 않고 나누어 전달됩니다.\n",
+     "version": "2.4.8"
+    }
+   },
+   "published": "2026-11-28",
+   "seq": 2026112815
+  },
+  {
+   "packages": {
+    "jmk-ambient-sound": {
+     "md": "- 이제 차의 시스템 파일을 건드리지 않는 일반 앱으로 설치됩니다. 부팅할 때 카플레이 앱이 다시 시작되지 않습니다.\n",
+     "version": "2.7.1"
+    },
+    "jmk-autoplay": {
+     "md": "- 무선 카플레이·안드로이드 오토 연결이 더 안정적으로 설치·제거됩니다. 다른 무선 프로젝션 패키지와는 함께 설치할 수 없으며, 겹치는 패키지가 있으면 설치되지 않고 안내가 표시됩니다.\n",
+     "version": "0.5.1"
+    },
+    "jmk-autoplay-hud": {
+     "md": "- NEMESIS 1.17에서 시스템 파일을 수정하지 않고 설치됩니다. 카플레이 길안내 중 내비 앱이 보내는 차선 안내를 계기판·HUD에 표시합니다. 경로를 다시 찾거나 앱을 바꿀 때 길안내가 꺼지던 문제를 고쳤습니다. 확인되지 않은 시스템 파일이 있는 차에는 설치하지 않습니다. 길안내가 끝난 이유와 차선 정보를 받은 횟수를 하루 한 번 집계해 보냅니다.\n",
+     "version": "0.3.3"
+    },
+    "jmk-map-menu": {
+     "md": "- 업데이트를 설치하기 전에 함께 필요한 패키지와 겹치는 패키지를 먼저 확인하고, 설치할 수 없으면 이유를 안내합니다.\n- 설치가 거절되면 이유별로 안내하고 이전 버전으로 되돌립니다.\n- 설치 중 문제가 생겼을 때 이전 버전으로 되돌리는 동작을 고쳤습니다.\n",
+     "version": "2.4.7"
+    },
+    "jmk-wifi": {
+     "md": "- NEMESIS 1.17에서 시스템 파일을 고치지 않고 설치됩니다.\n",
+     "version": "1.6.1"
+    }
+   },
+   "published": "2026-11-28",
+   "seq": 2026112811
+  }
+ ],
+ "rev": 1,
+ "v": 1
+}

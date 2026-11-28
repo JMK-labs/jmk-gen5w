@@ -1,4 +1,4 @@
-s8DU/OqIiNxqTQ6N94nZb/OuJQkQK4glfMf3V7LCXOCTT6Fkj5tDNrxA7wMQdeyqopMstZQe004Oqm/gPBsgBKjd8zxMXMR+ZUNbv+qmmvYyjJLH9LKXS7bFtU2s24uw/wkD1I4Pky0BGHPb131RHBWAD4POMHzb66v26amxiEgao8Y+W++oFAiA+J8pvJt0V2T4StTw23lSyGOWKdyiLRs+71dhWcgARPKjfeLd5pQ6xxnmTc4R/WqnVcbLCqOFB7WBwmDaUfiNa4nG4TIPYjmlni9EvXhG6pmKvB+hThL0wTlDh4zBgft68VE/+CwFS5HZOLy8GddHqg2NEiIbEOtbCqHFkiDLKSilJ+hKsT3nc5Cswr9avRXTh40mcLpCY8Wu5ojhtNipXi0N1MTNZrX/6amR1s+FZJmR35M0vV6HRJ3hymJk/HHT4DrUYgxGQpCYRFgChRv2djm3PvY1DwixPX85DBDbwzgyI+cgBN0L/ogPoTCFNIoR/n5ip/dr
+HdzIRoRlTkrZfAsj1LIHwfIssW1L8snYCaErgglAOGbIMFqalRkr0owqEpwhVQHVxdyHA9PU806hPjUKbvrbPDjz9FRRVbfyVcAgNaHnK11MUWYe+ETljyfqrx28F+pOzuZTgDa3sH1ROy18RDg0+dZTvtl5aKGCe9AuH/o8RjMO+CtvofNDf9Vhh7gNOY4vhaPGhS1Yu3vPB06nN6LX/Pi1+ezMy7K5lbCHd/ngm4jriu5msZNN6pZg0EqZlqnEEUo6O8pHkR+PcVkQFKIGmLT3V6tC2fZ36CYRn71eEnsnE27P1PCVEM0/01BLP3zhlRBjen9y+yqyyzrgZ4VXovnBHK4mHXhV6Y63CJblUAdu2pKVUCqAVk2yHfvz9wxP2i/V62qvYnOWCk4Vv7C6e5eh8xoIuSm790d0AlJQZJ5lwBwRpOoxHnDnSJBfu3c9X0B2U8jYHU7b2/tFzX5oNWkMrPC9V5duUF/bVCXIwt49boUggkPLm64fM2lew18j
 {
  "blocked_hashes": [],
  "car_features_by_name": {
@@ -1053,12 +1053,12 @@ s8DU/OqIiNxqTQ6N94nZb/OuJQkQK4glfMf3V7LCXOCTT6Fkj5tDNrxA7wMQdeyqopMstZQe004Oqm/g
   },
   "jmk-map-menu": {
    "built": "2026-11-28",
-   "file": "update/files/jmk-map-menu-2.4.7.zip",
+   "file": "update/files/jmk-map-menu-2.4.8.zip",
    "icon": "🚙",
    "name": "JMK 런처 메뉴",
-   "sha256": "8fe08bc2365b1b51dcd4227a48bb7932f8002d8b47a27398776a0b7919aface1",
-   "size": 474741,
-   "version": "2.4.7"
+   "sha256": "a9a4f08e8dbb48324bc61b9f4f144804049809780e9769507035b99b04edbf06",
+   "size": 489818,
+   "version": "2.4.8"
   },
   "jmk-wifi": {
    "built": "2026-11-28",
@@ -1071,7 +1071,7 @@ s8DU/OqIiNxqTQ6N94nZb/OuJQkQK4glfMf3V7LCXOCTT6Fkj5tDNrxA7wMQdeyqopMstZQe004Oqm/g
   }
  },
  "published": "2026-11-28",
- "seq": 2026112814,
+ "seq": 2026112815,
  "shared_codes": [
   "BH62XGT6",
   "JRDFLK6V",
@@ -1458,6 +1458,11 @@ s8DU/OqIiNxqTQ6N94nZb/OuJQkQK4glfMf3V7LCXOCTT6Fkj5tDNrxA7wMQdeyqopMstZQe004Oqm/g
   ],
   "346d278f0d8f9de863fe93153c41ee42": [
    "pa"
+  ],
+  "34e945fd0e16ead867cac98e69ccdc02": [
+   "ap",
+   "cp",
+   "wp"
   ],
   "34f090d1b5977ee7dfd0aa366ca09ba6": [
    "pa"
@@ -3098,6 +3103,7 @@ s8DU/OqIiNxqTQ6N94nZb/OuJQkQK4glfMf3V7LCXOCTT6Fkj5tDNrxA7wMQdeyqopMstZQe004Oqm/g
   "c30dbd6b0a13b600d045a832a953035e",
   "c9d37f4ce38796604f311ce3f1e6960e",
   "ccb3a23b53c6943aebb33af86473e56a",
+  "cd83f013cb7e6a5a4eaede886c5804bb",
   "ce7965b8df5abb548cb45e6e5cf7b5e2",
   "cefb31cd7fdff294cd37fb4cc8522713",
   "cf2f12c7d76dd0fe458b965b131af9ce",
